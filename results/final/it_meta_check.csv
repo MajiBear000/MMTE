@@ -1,0 +1,4082 @@
+,index,text,label
+0,11it,"The chemical @clouded@ the liquid to which it was added.
+youdao: La sostanza chimica ha torbido il liquido al quale è stata aggiunta.
+google: La sostanza chimica ha intorbidito il liquido a cui è stata aggiunta.
+opus: La sostanza chimica ha offuscato il liquido al quale è stato aggiunto.
+group_1:
+non: la sostanza chimica @ha intorbidito@ il liquido al quale è stata aggiunta.
+part: la sostanza chimica @ha offuscato@ il liquido al quale è stata aggiunta.
+group_2:
+full: la sostanza chimica ha torbido il liquido al quale è stata aggiunta.
+non: la sostanza chimica ha offuscato il liquido al quale è stato aggiunto.
+group_3:
+full: la sostanza chimica ha offuscato il liquido al quale è stato aggiunto.
+non: la sostanza chimica ha intorbidito il liquido a cui è stata aggiunta.",
+1,12it,"Our business was @hurt@ by the new competition.
+youdao: La nuova concorrenza ha danneggiato i nostri affari.
+google: La nostra attività è stata danneggiata dalla nuova concorrenza.
+opus: La nostra attivita' e' stata ferita dalla nuova concorrenza.
+group_1:
+full: la nostra attività è stata ferita dalla nuova concorrenza.
+non: la nostra attività è stata danneggiata dalla nuova concorrenza.
+group_2:
+full: la nostra attività è stata danneggiata dalla nuova concorrenza.
+non: la nostra attivita' e' stata ferita dalla nuova concorrenza.
+group_3:
+full: la nostra attività è stata danneggiata dalla nuova concorrenza.
+part: la nostra attività è @limitata@ dalla nuova concorrenza.",
+2,264it,"The candidate @ripped@ into his opponent mercilessly.
+youdao: Il candidato ha preso il suo avversario senza pietà.
+google: Il candidato ha fatto a pezzi il suo avversario senza pietà.
+opus: Il candidato ha strappato nel suo avversario senza pietà.
+group_1:
+full: il candidato ha squartato il suo avversario senza pietà.
+non: il candidato ha preso il suo avversario senza pietà
+group_2:
+full: il candidato ha colpito suo avversario senza pietà.
+non: il candidato ha preso il suo avversario senza pietà.
+group_3:
+full: il candidato ha attaccato il suo avversario spietatamente.
+non: il candidato criticò senza pietà il suo avversario.",
+3,261it,"The crowd @flowed@ out of the stadium.
+youdao: La folla scorreva fuori dallo stadio.
+google: La folla è uscita dallo stadio.
+opus: La folla e' uscita dallo stadio.
+group_1:
+full: si è riversata fuori dallo stadio.
+non: la folla è uscita dallo stadio.
+group_2:
+full: la folla scorreva fuori dallo stadio.
+non: la folla è uscita dallo stadio.
+group_3:
+full: la folla scorreva fuori dallo stadio.
+non: la folla e' uscita dallo stadio.",
+4,22it,"Boys @gravitate@ towards girls at that age.
+youdao: I ragazzi gravitano verso le ragazze a quell’età.
+google: I ragazzi gravitano verso le ragazze a quell'età.
+opus: I ragazzi gravitano verso le ragazze a quell'età.
+group_1:
+full: i ragazzi gravitano verso le ragazze a quell'età.
+non: i ragazzi sono attrati dalle ragazze a quell'eta.
+group_2:
+full: i ragazzi gravitano verso le ragazze a quell’età.
+non: i ragazzi svolge verso le ragazze a quell'eta'.
+group_3:
+full: i ragazzi gravitano verso le ragazze a quell'età.
+non: i ragazzi sono affascinati da le ragazze a quell'età.",
+5,229it,"Her feelings @condensed.@
+youdao: I suoi sentimenti condensati.
+google: I suoi sentimenti si condensarono.
+opus: I suoi sentimenti si sono condensati.
+group_1:
+full: i suoi sentimenti si sono condensati.
+non: i suoi sentimenti si sonon infreddorito.
+group_2:
+full: i suoi sentimenti si sono condensati.
+non: i suoi sentimenti si sono concentrati.
+group_3:
+full: i suoi sentimenti si sono condensati.",
+6,152it,"The scream @pierced@ the night.
+youdao: L’urlo forò la notte.
+google: L'urlo squarciò la notte.
+opus: L'urlo ha trafitto la notte.
+group_1:
+full: l'urlo squarciò la notte.
+non: l'urlo spezzo' il silenzio della notte.
+group_2:
+full: l'urlo squarciò la notte.
+non: l’urlo forò la notte.
+group_3:
+full: l'urlo ha trafitto la notte.
+non: l'urlo ha interrotto la tranquillità della notte.",
+7,282it,"Fire had @devoured@ our home.
+youdao: Il fuoco aveva divorato la nostra casa.
+google: Il fuoco aveva divorato la nostra casa.
+opus: Il fuoco aveva divorato la nostra casa.
+group_1:
+full: il fuoco aveva divorato la nostra casa.
+non: l'incendio distrusse la casa.
+group_2:
+full: il fuoco aveva diatrutto la nostra casa.
+non: il fuoco aveva divorato la nostra casa.
+group_3:
+full: il fuoco aveva divorato la nostra casa.
+non: il fuoco aveva distrutto la nostra casa.",
+8,99it,"The ex- boxer's job is to @bounce@ people who want to enter this private club.
+youdao: L’ex pugile ha il compito di rimbalzare le persone che vogliono entrare in questo club privato.
+google: Il lavoro dell'ex pugile è rimbalzare le persone che vogliono entrare in questo club privato.
+opus: Il lavoro dell'ex pugile e' far rimbalzare le persone che vogliono entrare in questo club privato.
+group_1:
+full: il lavoro dell'ex pugile e' far rimbalzare le persone che vogliono entrare in questo club privato.
+non: il lavoro dell'ex pugile e' buttare fuori le persone che vogliono entrare in questo club privato.
+group_2:
+full: il lavoro dell'ex pugile è rimbalzare le persone che vogliono entrare in questo club privato.
+non: ol lavoro dell'ex pugile è gettare fuori le persone che vogliono entrare in questo club privato.
+group_3:
+full: il lavoro dell'ex pugile e' far rimbalzare le persone che vogliono entrare in questo club privato.
+non: il lavoro dell'ex pugile è quello di tifare le persone che vogliono entrare in questo club privato.",
+9,272it,"My personal feelings @color@ my judgment in this case.
+youdao: I miei sentimenti personali colorano il mio giudizio in questo caso.
+google: I miei sentimenti personali influenzano il mio giudizio in questo caso.
+opus: I miei sentimenti personali colorano il mio giudizio in questo caso.
+group_1:
+non: i miei sentimenti personali influenzano il mio giudizio in questo caso.
+part: i miei sentimenti personali offuscano il mio giudizio in questo caso.
+group_2:
+full: i miei sentimenti personali colorano il mio giudizio in questo caso.
+non: i miei sentimenti personali influenzano il mio giudizio in questo caso.
+group_3:
+full: i miei sentimenti personali colorano il mio giudizio in questo caso.
+non: i miei sentimenti personali influenzano il mio giudizio in questo caso.",
+10,276it,"The ex- slave @tasted@ freedom shortly before she died.
+youdao: L’ex schiavo assaggiò la libertà poco prima di morire.
+google: L'ex schiava ha assaporato la libertà poco prima di morire.
+opus: L'ex-schiava aveva assaggiato la liberta' poco prima di morire.
+group_1:
+full: l'ex schiava ha assaporato la libertà poco prima di morire.
+non: l'ex schiava ha sentito la libertà poco prima di morire.
+group_2:
+full: l'ex schiava ha assaporato la libertà poco prima di morire.
+non: l'ex schiava ha goduto la libertà poco prima di morire.
+group_3:
+full: l'ex schiava ha assaporato la libertà poco prima di morire.
+non: l'ex schiava ha sentivato la libertà poco prima di morire.",
+11,207it,"Fear @clogged@ her mind.
+youdao: La paura le ha intasato la mente.
+google: La paura le intasava la mente.
+opus: La paura le ha intasato la mente.
+group_1:
+full: la paura le ostruiva la mente.
+non: la parura ha bloccato la sua mente.
+group_2:
+full: la paura le intasava la mente.
+non: la paura le ha bloccato la mente.
+group_3:
+full: la paura le ha intasato la mente.
+non: la paura le ha ostacolato la mente.",
+12,307it,"The sales tax is @absorbed@ into the state income tax.
+youdao: L’imposta sulle vendite è assorbita nell’imposta statale sul reddito.
+google: L'imposta sulle vendite è assorbita nell'imposta statale sul reddito.
+opus: L'imposta sulle vendite viene assorbita nell'imposta statale sul reddito.
+group_1:
+full: l'imposta sulle vendite è assorbita nell'imposta statale sul reddito.
+non: l'imposta sulle vendite è inclusa nell'imposta statale sul reddito.
+group_2:
+full: l'imposta sulle vendite è assorbita nell'imposta statale sul reddito.
+non: l'imposta sulle vendite è inclusa nell'imposta statale sul reddito.
+group_3:
+full: l'imposta sulle vendite viene assorbita nell'imposta statale sul reddito.
+non: l'imposta sulle vendite viene incorporata nell'imposta statale sul reddito.",
+13,151it,"The huge waves @swallowed@ the small boat and it sank shortly thereafter.
+youdao: Le onde gigantesche inghiottono la piccola barca, che affondò poco dopo.
+google: Le enormi onde inghiottirono la piccola barca che affondò poco dopo.
+opus: Le onde enormi inghiottirono la piccola barca ed affondò poco dopo.
+group_1:
+full: le enormi onde inghiottirono la piccola barca che affondò poco dopo.
+non: le enormi onde ha sommerso la piccola barca che affondò poco dopo.
+group_2:
+full: le onde gigantesche inghiottono la piccola barca, che affondò poco dopo.
+non: le onde gigantesche hanno allagato la piccola barca, che affondò poco dopo.
+group_3:
+full: le enormi onde inghiottirono la piccola barca che affondò poco dopo.
+non: le enormi onde rovesciarono la piccola barca che affondò poco dopo.",
+14,117it,"He was @locked@ in a laughing fit.
+youdao: Era chiuso a chiave in una risata.
+google: Era bloccato in una risata.
+opus: Era rinchiuso in una crisi di risate.
+group_1:
+full: era bloccato in una risata.
+non: continuava a risare.
+group_2:
+full: era bloccato in una risata.
+non: era chiuso in una risata.
+group_3:
+non: era continuato a ridere.
+full: era bloccato in una risata.",
+15,39it,"The bicycle @looped@ around the tree.
+youdao: La bicicletta girò attorno all’albero.
+google: La bicicletta girava intorno all'albero.
+opus: La bicicletta girava intorno all'albero.
+group_1:
+full: la bicicletta girava intorno all'albero.
+non: la biciclestta cicolava introno all'albero.
+group_2:
+full: la bicicletta girava intorno all'albero.
+non: 
+group_3:
+full: la bicicletta girava intorno all'albero.
+non: la bicicletta i circondava l’ albero.",
+16,236it,"The stock market @drifted@ upward.
+youdao: Il mercato azionario è aumentato.
+google: Il mercato azionario è andato alla deriva verso l'alto.
+opus: Il mercato azionario è andato verso l'alto.
+group_1:
+full: il mercato azionario è andato alla deriva verso l'alto.
+non: il mercato azionario è andato verso l'alto.
+group_2:
+full: il mercato azionario è andato alla deriva verso l'alto.
+non: il mercato azionario è aumentato.
+group_3:
+full: il mercato azionario è andato alla deriva verso l'alto.
+non: il mercato azionario è aumentato.",
+17,183it,"the theater was @jampacked.@
+youdao: Il teatro è stato attaccato.
+google: il teatro era pieno zeppo.
+opus: Il teatro era inceppato.
+group_1:
+full: il teatro era pieno zeppo.
+non: il teatro e' pieno di persone.
+group_2:
+full: il teatro era pieno zeppo.
+non: il teatro era pieno.
+group_3:
+non: il teatro era pieno zeppo.",
+18,68it,"The businessman @kited@ millions of dollars.
+youdao: L’uomo d’affari ha kitato milioni di dollari.
+google: L'uomo d'affari ha incassato milioni di dollari.
+opus: L'uomo d'affari ha comprato milioni di dollari.
+group_1:
+non: l'uomo d'affari ha ingannato milioni di dollari.
+part: l'uomo d'affari ha incassato milioni di dollari.
+group_2:
+full: no
+non: l’uomo d’affari ha ingannato milioni di dollari.
+group_3:
+full: 
+non: l'uomo d'affari ha incassato milioni di dollari.",
+19,124it,"They were @locked@ in embrace.
+youdao: Erano chiusi in un abbraccio.
+google: Erano stretti in un abbraccio.
+opus: Erano rinchiusi nell'abbraccio.
+group_1:
+full: erano stretti in un abbraccio.
+non: si abbracciarono strettamente.
+group_2:
+full: erano stretti in un abbraccio.
+non: erano chiusi in un abbraccio.
+group_3:
+full: erano stretti in un abbraccio.
+non: si abbracciarono strettamente.",
+20,80it,"The tooth @erupted@ and had to be extracted.
+youdao: Il dente eruttò e dovette essere estratto.
+google: Il dente è scoppiato e ha dovuto essere estratto.
+opus: Il dente eruttava e doveva essere estratto.
+group_1:
+full: il dente e' spuntato e doveva essere estratto.
+non: il dente è uscito e deve essere estratto.
+group_2:
+full: il dente eruttò e dovette essere estratto.
+non: il dente è erotto ed è stato necessario estrarlo.
+group_3:
+full: il dente ha errutato e doveva essere estratto.
+non: il dente ha cresciuto e doveva essere estratto.",
+21,221it,"@steamroller@ the opposition.
+youdao: Rubando l’opposizione.
+google: rullo compressore l'opposizione.
+opus: Roller l'opposizione.
+group_1:
+non: distruggere l'opposizione.
+part: sopraffa l'opposizione.
+group_2:
+full: schiacciare l'opposizione.
+non: distruggere l'opposizione.
+group_3:
+full: @rullare@ l'opposizione.
+non: @opprimere@ l'opposizione.",
+22,172it,"The colors don't @harmonize.@
+youdao: I colori non si armonizzano.
+google: I colori non si armonizzano.
+opus: I colori non si armonizzano.
+group_1:
+full: i colori non si armonizzano.
+non: i colori sono discordanti
+group_2:
+full: i colori non si armonizzano.
+non: i colori non si adattano.
+group_3:
+full: i colori non si armonizzano.
+non: : i colori non sono unisoni.",
+23,314it,"The boss @exploded@ when he heard of the resignation of the secretary.
+youdao: Il capo è esploso quando ha sentito parlare delle dimissioni del segretario.
+google: Il boss è esploso quando ha saputo delle dimissioni del segretario.
+opus: Il capo e' esploso quando ha saputo delle dimissioni del segretario.
+group_1:
+full: il boss è esploso quando ha saputo delle dimisioni del segretario.
+non: il boss è arrabbiato quando ha saputo delle dimisioni del segretario.
+group_2:
+full: il capo e' infuriato quando ha saputo delle dimisioni del segretario.
+non: il boss è esploso quando ha saputo delle dimisioni del segretario.
+group_3:
+full: il capo e' esploso quando ha saputo delle dimisioni del segretario.
+non: il capo è andato su tutte le furie quando ha saputo che la segretaria si era dimessa.",
+24,25it,"I @salute@ your courage!
+youdao: Rendo omaggio al vostro coraggio!
+google: Rendo omaggio al tuo coraggio!
+opus: Saluto il tuo coraggio!
+group_1:
+full: rendo omaggio al tuo coraggio!
+non: ammiro il tuo coraggio.
+group_2:
+full: saluto il tuo coraggio!
+non: ti ammiro il tuo coraggio!
+group_3:
+full: saluto il tuo coraggio!
+non: rendo omaggio al tuo coraggio!",
+25,291it,"Our babysitter @raided@ our refrigerator.
+youdao: La nostra babysitter ha fatto irruzione nel nostro frigorifero.
+google: La nostra babysitter ha fatto irruzione nel nostro frigorifero.
+opus: La nostra babysitter ha fatto irruzione nel nostro frigorifero.
+group_1:
+full: la nostra babysitter ha saccheggiato il nostro frigorifero
+non: la nostra tata ha rovinato il frigorifero.
+group_2:
+full: la nostra babysitter ha fatto irruzione nel nostro frigorifero.
+non: la nostra babysitter ha saccheggiato il nostro frigorifero.
+group_3:
+full: la nostra babysitter ha fatto incursione nel nostro frigorifero.
+non: la nostra babysitter ha rovistato nel nostro frigorifero.",
+26,240it,"Her optimism @neutralizes@ his gloom.
+youdao: Il suo ottimismo neutralizza la sua tristezza.
+google: Il suo ottimismo neutralizza la sua tristezza.
+opus: Il suo ottimismo neutralizza la sua tristezza.
+group_1:
+full: il suo ottimismo neutralizza la sua tristezza.
+non: il suo ottimismo ha dissipato la sua malinconia.
+group_2:
+full: il suo ottimismo sciogle la sua tristezza.
+non: il suo ottimismo neutralizza la sua tristezza.
+group_3:
+full: il suo ottimismo neutralizza la sua tristezza.
+non: il suo ottimismo supera la sua tristezza.",
+27,87it,"The rules @relaxed@ after the new director arrived.
+youdao: Le regole si sono allentate dopo l’arrivo del nuovo direttore.
+google: Le regole si sono allentate dopo l'arrivo del nuovo direttore.
+opus: Le regole si sono rilassate dopo l'arrivo del nuovo direttore.
+group_1:
+full: le regole si sono allentate dopo l’arrivo del nuovo direttore.
+non: le regole sono meno rigide dopo l'arrivo del nuovo direttore.
+group_2:
+full: le regole si sono allentate dopo l’arrivo del nuovo direttore.
+non: le regole si sono rilassate dopo l'arrivo del nuovo direttore.
+group_3:
+full: le regole si sono rilassate dopo l'arrivo del nuovo direttore.
+non: le regole si sono allentate dopo l'arrivo del nuovo direttore.",
+28,177it,"Fear @seized@ the prisoners.
+youdao: La paura sequestrò i prigionieri.
+google: La paura ha preso i prigionieri.
+opus: La paura ha preso i prigionieri.
+group_1:
+full: la paura ha preso i prigionieri.
+non: i prigioneri sentono la paura.
+group_2:
+full: la paura si è impadronita i prigionieri.
+non: la paura ha preso i prigionieri.
+group_3:
+non: la paura ha preso i prigionieri.
+part: la paura ha sequestrato i prigionieri.",
+29,301it,"Don't @bolt@ your food!
+youdao: Non abbatterti il tuo cibo!
+google: Non imbullonare il tuo cibo!
+opus: Non chiudere a chiave il tuo cibo!
+group_1:
+full: non divorare il tuo cibo.
+non: non ingoiare il tuo cibo.
+group_2:
+full: non imbullonate il vostro cibo!
+non: non mangiare troppi cibi!
+group_3:
+full: non divorare!
+non: non abbatterti il tuo cibo!",
+30,135it,"Every star seemed to @flare@ with new intensity.
+youdao: Ogni stella sembrava brillare con nuova intensità.
+google: Ogni stella sembrava brillare con nuova intensità.
+opus: Ogni stella sembrava brillare con nuova intensità.
+group_1:
+full: ogni stella sembrava brillare con nuova intensità.
+non: ogni stella sembra lampeggiare con nuova intensità.
+group_2:
+full: ogni stella sembrava accendersi con una nuova intensità.
+non: ogni stella sembrava brillare con nuova intensità.
+group_3:
+full: ogni stella sembrava @bruciare@ con nuova intensità.
+non: ogni stella sembrava @brillare@ con nuova intensità.",
+31,131it,"This vaccine will @guard@ you against infection.
+youdao: Questo vaccino la proteggerà dalle infezioni.
+google: Questo vaccino ti proteggerà dalle infezioni.
+opus: Questo vaccino la proteggerà contro le infezioni.
+group_1:
+full: questo vaccino ti sorveglia dalle infezioni.
+non: questo vaccino ti/la proteggerà dalle infezioni.
+group_2:
+full: questo vaccino ti custodirà dalle infezioni.
+non: questo vaccino ti proteggerà dalle infezioni.
+group_3:
+full: questo vaccino la proteggerà dalle infezioni.
+non: questo vaccino le impedirà dalle infezioni.",
+32,184it,"She @salts@ her lectures with jokes.
+youdao: Saluta le sue lezioni con barzellette.
+google: Sala le sue lezioni con battute.
+opus: Lei sale le sue lezioni con battute.
+group_1:
+full: lei ha assaporito la sua lezioni con battute.
+non: ha reso la sua lezione più appetibile con barzellette.
+group_2:
+full: lei aggiunge le sue lezioni con battute.
+non: lei sale le sue lezioni con battute.
+group_3:
+full: lei sale le sue lezioni con battute
+non: lei rende le sue lezioni interessanti con battute.",
+33,253it,"The cancer had @invaded@ her lungs.
+youdao: Il cancro le aveva invaso i polmoni.
+google: Il cancro le aveva invaso i polmoni.
+opus: Il cancro le aveva invaso i polmoni.
+group_1:
+full: il cancro le aveva invaso i polmoni.
+non: il cancro le ha attaccato i polmoni.
+group_2:
+full: il cancro le aveva invaso i polmoni.
+non: il cancro le aveva occpuato i polmoni
+group_3:
+full: il cancro le aveva invaso i polmoni.
+non: il cancro e' entrato nei polmoni.",
+34,33it,"The exercise class @drains@ me of energy.
+youdao: La classe di esercizio mi priva di energia.
+google: La lezione di ginnastica mi prosciuga di energia.
+opus: La classe di esercizi mi scarica di energia.
+group_1:
+full: la lezione di ginnastica mi prosciuga di energia.
+non: la lezione di ginnastica ha esaurito le mie energie.
+group_2:
+full: la classe di esercizio mi prosciuga di energia.
+non: il corso di esercizio mi fa perdere energia.
+group_3:
+non: la classe di esercizio mi priva di energia.
+part: la lezione di ginnastica mi prosciuga di energia.",
+35,94it,"She had to @juggle@ her job and her children.
+youdao: Doveva destreggiarsi tra il suo lavoro e i suoi figli.
+google: Doveva destreggiarsi tra lavoro e figli.
+opus: Ha dovuto giocare a giocoleria con il suo lavoro e i suoi figli.
+group_1:
+full: doveva destreggiarsi tra il suo lavoro e i suoi figli.
+non: deve bilanciare lavoro e figli.
+group_2:
+full: doveva destreggiarsi tra il suo lavoro e i suoi figli.
+non: doveva lottare tra il suo lavoro e i suoi figli.
+group_3:
+full: doveva destreggiarsi tra il suo lavoro e i suoi figli.
+non: doveva bilanciare tra il suo lavoro e i suoi figli.",
+36,224it,"the conversation @lightened@ me up a bit.
+youdao: La conversazione mi ha illuminato un po’.
+google: la conversazione mi ha alleggerito un po'.
+opus: La conversazione mi ha sollevato un po'.
+group_1:
+full: la conversazione mi ha alleggerito un po'.
+non: questa conversazione mi ha fatto sentire un po' rilassata.
+group_2:
+full: la conversazione mi ha alleggerito un po'.
+non: la conversazione mi ha sollevato un po'.
+group_3:
+full: la conversazione mi ha illuminato un po’.
+non: questa conversazione mi ha fatto sentire un po' più leggero.",
+37,93it,"The sun @glared@ down on us.
+youdao: Il sole ci fissò.
+google: Il sole ci illuminava.
+opus: Il sole ci ha abbagliato.
+group_1:
+full: il sole ci illuminava.
+non: il sole splende su di noi
+group_2:
+full: il sole ci illuminava.
+non: il sole ci ha abbagliato.
+group_3:
+full: il sole ci ha abbagliato.
+non: il sole splende violentemente su di noi.",
+38,60it,"I'll @ping@ my accountant -- April 15 is nearing.
+youdao: Io ping il mio commercialista - il 15 aprile è prossimo.
+google: Farò un ping al mio commercialista: il 15 aprile si avvicina.
+opus: Io chiamo il mio commercialista, il 15 aprile e' vicino.
+group_1:
+full: farò un ping al mio commercialista: il 15 aprile si avvicina.
+non: chiamo il mio commercialista, il 15 aprile e' vicino.
+group_2:
+full: farò un ping al mio commercialista: il 15 aprile si avvicina.
+non: io chiamo il mio commercialista, il 15 aprile e' vicino.
+group_3:
+full: io ping il mio commercialista - il 15 aprile è prossimo.
+non: io chiamo il mio commercialista, il 15 aprile e' vicino.",
+39,163it,"@dashed@ ambitions and hopes.
+youdao: Ambizioni e speranze deluse.
+google: ambizioni e speranze deluse.
+opus: ha infranto ambizioni e speranze.
+group_1:
+full: ha infranto ambizioni e speranze.
+non: ambizione e speranza sono sparite.
+group_2:
+full: ambizioni e speranze infrante
+non: ambizioni e speranze deluse.
+group_3:
+full: ha infranto ambizioni e speranze
+non: ambizione e speranza spariscono",
+40,185it,"She was @staggered@ with bills after she tried to rebuild her house following the earthquake.
+youdao: Fu scolpita dalle bollette dopo aver cercato di ricostruire la sua casa dopo il terremoto.
+google: Era barcollante con le bollette dopo aver cercato di ricostruire la sua casa dopo il terremoto.
+opus: Dopo aver cercato di ricostruire la sua casa dopo il terremoto, è stata sbalordita dalle bollette.
+group_1:
+full: dopo aver cercato di ricostruire la sua casa dopo il terremoto, è stata sbalordita dalle bollette.
+non: dopo il terremoto, ha cercato di ricostruire la sua casa, ma il disegno di legge l'ha sopraffatta.
+group_2:
+full: dopo aver cercato di ricostruire la sua casa dopo il terremoto, è stata sbalordita dalle bollette.
+non: era barcollante con le bollette dopo aver cercato di ricostruire la sua casa dopo il terremoto.
+group_3:
+full: dopo aver cercato di ricostruire la sua casa dopo il terremoto, è stata sbalordita dalle bollette.
+non: dopo aver cercato di ricostruire la sua casa dopo il terremoto, ha sorpresa dalle bollette.",
+41,201it,"@mount@ a campaign against pornography.
+youdao: Organizzare una campagna contro la pornografia.
+google: organizzare una campagna contro la pornografia.
+opus: organizzare una campagna contro la pornografia.
+group_1:
+full: lanciare una campagna contro la pornografia.
+non: organizzare una campagna contro la pornografia.
+group_2:
+full: lanciare una campagna contro la pornografia.
+non: organizzare una campagna contro la pornografia.
+group_3:
+full: @lanciare@ una campagna contro la pornografia.
+non: @organizzare@ una campagna contro la pornografia.",
+42,122it,"trees @line@ the riverbank.
+youdao: Alberi dirigono la riva del fiume.
+google: gli alberi fiancheggiano la riva del fiume.
+opus: gli alberi costeggiano la riva del fiume.
+group_1:
+full: gli alberi fiancheggiano la riva del fiume.
+non: la riva del fiume è coperta di alberi
+group_2:
+full: alberi che fiancheggiano la riva del fiume.
+non: gli alberi costeggiano la riva del fiume.
+group_3:
+non: gli alberi crescono sulla riva del fiume.
+full: gli alberi costeggiano la riva del fiume.",
+43,155it,"He @shed@ his image as a pushy boss.
+youdao: Ha rilasciato la sua immagine di capo insistente.
+google: Ha perso la sua immagine di capo invadente.
+opus: Ha perso la sua immagine di capo insistente.
+group_1:
+full: si e' disfatto dell'immagine di capo insistente.
+non: si è allontanato dall'immagine di un capo attivo
+group_2:
+full: ha perso la sua immagine di capo invadente.
+non: si è liberato dell'immagine di capo invadente.
+group_3:
+full: ha rilasciato la sua immagine di capo insistente.
+non: ha perso la sua immagine di capo insistente.",
+44,259it,"He @tacked@ together some verses.
+youdao: Ha messo insieme alcuni versi.
+google: Ha messo insieme alcuni versi.
+opus: Ha messo insieme dei versi.
+group_1:
+non: ha messo insieme dei versi.
+part: ​ ha accumulato dei versi.
+group_2:
+full: no.
+non: ha messo insieme alcuni versi.
+group_3:
+full: lui @ha inchiodato@ alcuni versi.
+non: lui @ha messo@ insieme alcuni versi.",
+45,44it,"earthquakes @convulsed@ the countryside.
+youdao: I terremoti hanno scosso la campagna.
+google: i terremoti sconvolsero le campagne.
+opus: I terremoti hanno convulso la campagna.
+group_1:
+full: i terremoti hanno convulso la campagna.
+non: il terremoto scosse la campagna.
+group_2:
+full: i terremoti hanno convulso la campagna.
+non: i terremoti hanno sconvolto la campagna.
+group_3:
+full: i terremoti hanno scosso la campagna.
+non: il terremoto scosse il villaggio",
+46,208it,"This new colleague @invades@ my territory.
+youdao: Questo nuovo collega invade il mio territorio.
+google: Questo nuovo collega invade il mio territorio.
+opus: Questo nuovo collega invade il mio territorio.
+group_1:
+full: questo nuovo collega invade il mio territorio.
+non: il nuovo collega occupava il mio territorio.
+group_2:
+full: questo nuovo collega invade il mio territorio.
+non: questo nuovo candidato invade il mio territorio.
+group_3:
+full: questo nuovo collega invade il mio territorio.
+non: questo nuovo collega occupa il mio territorio.",
+47,158it,"You are @taxing@ my patience.
+youdao: Voi state tassando la mia pazienza.
+google: Stai mettendo a dura prova la mia pazienza.
+opus: Stai tassando la mia pazienza.
+group_1:
+non: stai sprecando la mia pazienza
+part: stai mettendo a dura prova la mia pazienza.
+group_2:
+full: stai mettendo a dura prova la mia pazienza.
+non: stai sfidando a dura prova la mia pazienza.
+group_3:
+full: stai mettendo a dura prova la mia pazienza.
+non: stai torturando la mia pazienza.",
+48,175it,"The event @engraved@ itself into her memory.
+youdao: L’evento si è impresso nella sua memoria.
+google: L'evento si è inciso nella sua memoria.
+opus: L'evento si è inciso nella sua memoria.
+group_1:
+full: l'evento si è inciso nella sua memoria.
+non: questa faccenda è profondamente lasciata nella sua memoria.
+group_2:
+full: l'evento si è inciso nella sua memoria.
+non: l’evento si è impresso nella sua memoria.
+group_3:
+full: l’evento si è impresso nella sua memoria.
+non: l'evento si è inciso nella sua memoria.",
+49,302it,"She @drowned@ her trouble in alcohol.
+youdao: Lei annegò i suoi problemi con l’alcol.
+google: Ha annegato i suoi guai nell'alcool.
+opus: Ha annegato i suoi problemi con l'alcol.
+group_1:
+full: ha annegato i suoi guai nell'alcool.
+non: lei messo i suoi dolori nell' alcool.
+group_2:
+full: ha buttato i suoi guai nell'alcool.
+non: ha annegato i suoi guai nell'alcool.
+group_3:
+full: lei ha annegato i suoi problemi con l'alcol.
+non: lei ha alleviato i suoi problemi con l’alcol.",
+50,109it,"The Senator @blistered@ the administration in his speech on Friday.
+youdao: Il senatore ha rovinato l’amministrazione nel suo discorso di venerdì.
+google: Il senatore ha irritato l'amministrazione nel suo discorso di venerdì.
+opus: Il senatore ha messo in pericolo l'amministrazione nel suo discorso di venerdi'.
+group_1:
+non: il senatore hafatto deluso il governo nel suo discorso di venerdì.
+full: il senatore ha rimproverato l'amministrazione nel suo discorso di venerdì.
+group_2:
+full: il senatore ha irritato l'amministrazione nel suo discorso di venerdì.
+non: il senatore ha criticato l'amministrazione nel suo discorso di venerdì.
+group_3:
+non: il senatore ha criticato l'amministrazione nel suo discorso di venerdì.
+part: il senatore ha irritato l'amministrazione nel suo discorso di venerdì.",
+51,254it,"my brain is @swimming@ after the bottle of champagne.
+youdao: Il mio cervello sta nuotando dopo la bottiglia di champagne.
+google: il mio cervello nuota dietro la bottiglia di champagne.
+opus: Il mio cervello nuota dopo la bottiglia di champagne.
+group_1:
+full: il mio cervello galleggia dopo la bottiglia di champagne.
+non: dopo aver bevuto una bottiglia di champagne, il mio cervello vaga
+group_2:
+non: il mio cervello non e' piu chiaro dopo la bottiglia di champagne.
+full: il mio cervello sta nuotando dopo la bottiglia di champagne.
+group_3:
+full: il mio cervello sta nuotando dopo la bottiglia di champagne.
+non: il mio cervello è animato dopo la bottiglia di champagne.",
+52,313it,"He was @showered@ with praise.
+youdao: È stato inondato di lodi.
+google: Fu inondato di lodi.
+opus: E' stato riempito di lodi.
+group_1:
+full: è stato inondato di lodi.
+non: era pieno di elogi.
+group_2:
+full: e' stato riempito di lodi.
+non: fu inondato di lodi.
+group_3:
+full: e' stato riempito di lodi.
+non: ha ricevuto molti elogi.",
+53,284it,"Some nice results @emerged@ from the study.
+youdao: Dallo studio sono emersi alcuni risultati positivi.
+google: Dallo studio sono emersi alcuni bei risultati.
+opus: Dallo studio sono emersi alcuni buoni risultati.
+group_1:
+full: dallo studio sono emersi alcuni bei risultati.
+non: questo studio ha dato buoni risultati.
+group_2:
+full: dallo studio sono emersi alcuni buoni risultati.
+non: dallo studio sono apparito alcuni buoni risultati.
+group_3:
+full: dallo studio sono emersi alcuni bei risultati.
+non: alcuni risultati positivi sono sorti dallo studio.",
+54,251it,"@capture@ the essence of Spring.
+youdao: Cattura l’essenza della primavera.
+google: catturare l'essenza della primavera.
+opus: catturare l'essenza della primavera.
+group_1:
+full: fotografare l'essenza della primavera
+non: prendere l'essenza della primavera.
+group_2:
+full: assumere l'essenza della primavera.
+non: catturare l'essenza della primavera.
+group_3:
+full: cattura l’essenza della primavera.
+non: no",
+55,204it,"The prisoners are safely @pounded.@
+youdao: I prigionieri sono perseguitati in tutta sicurezza.
+google: I prigionieri sono pestati al sicuro.
+opus: I prigionieri sono al sicuro.
+group_1:
+full: i prigionieri sono stati picchiati in sicurezza
+non: i prigionieri sono pestati al sicuro.
+group_2:
+full: i prigionieri sono perseguitati in tutta sicurezza.
+non: i prigionieri sono pestati al sicuro.
+group_3:
+non: : i prigionieri sono buttati al sicuro.
+part: : i prigionieri sono pestati al sicuro.",
+56,271it,"The distinction between the two theories @blurred.@
+youdao: La distinzione tra le due teorie sfumò.
+google: La distinzione tra le due teorie sfumata.
+opus: La distinzione tra le due teorie è sfocata.
+group_1:
+full: la distinzione tra le due teorie è sfocata.
+non: la distinzione tra le due teorie non e' chiarto.
+group_2:
+full: la distinzione tra le due teorie è sfocava.
+non: la distinzione tra le due teorie non e' chiaro.
+group_3:
+full: la distinzione tra le due teorie sfumata.
+non: la distinzione tra le due teorie è confusa.",
+57,202it,"The listeners @bolted@ when he discussed his strange ideas.
+youdao: Gli ascoltatori sono scappati via quando ha discusso delle sue strane idee.
+google: Gli ascoltatori sono scappati quando ha discusso delle sue strane idee.
+opus: Gli ascoltatori scapparono quando parlò delle sue strane idee.
+group_1:
+full: gli ascoltatori sono scappati quando ha discusso delle sue strane idee
+non: gli ascoltatori sono scappati quando ha discusso delle sue strane idee
+group_2:
+full: gli ascoltatori sono scappati via quando ha discusso delle sue strane idee.
+non: gli ascoltatori sono andati via quando ha discusso le sue strane idee.
+group_3:
+full: gli ascoltatori sono scappati quando ha discusso delle sue strane idee.
+non: il pubblico ha riso quando ha discusso della sua strana idea.",
+58,140it,"I'm afraid this @spells@ trouble!
+youdao: Temo che questo significhi guai!
+google: Temo che questo significhi guai!
+opus: Temo che questo incantesimi di guai!
+group_1:
+non: temo che questo significhi guai!
+part: temo che questo significhi guai!
+group_2:
+non: no.
+part: temo che questo significhi guai!
+group_3:
+non: temo che questo sia nei guai!
+part: temo che questo significhi guai!",
+59,310it,"The tax cut will @boost@ the economy.
+youdao: Il taglio fiscale darà impulso all’economia.
+google: Il taglio delle tasse stimolerà l'economia.
+opus: La riduzione delle tasse favorirà l'economia.
+group_1:
+full: il taglio fiscale darà impulso all’economia.
+non: il taglio delle tasse favorira' l'economia.
+group_2:
+full: il taglio delle tasse aumenterà l'economia.
+non: il taglio delle tasse darà impulso all’economia.
+group_3:
+full: il taglio fiscale darà impulso all’economia.
+non: la riduzione delle tasse favorirà l'economia.",
+60,305it,"He @absorbed@ the knowledge or beliefs of his tribe.
+youdao: Assorbiva le conoscenze o le credenze della sua tribù.
+google: Ha assorbito la conoscenza o le credenze della sua tribù.
+opus: Ha assorbito la conoscenza o le credenze della sua tribù.
+group_1:
+full: ha assorbito la conoscenza o le credenze della sua tribù.
+non: ha studiato la conoscenza o le credenze della sua tribù.
+group_2:
+full: ha assorbito la conoscenza o le credenze della sua tribù.
+non: ha compreso la conoscenza o le credenze della sua tribù.
+group_3:
+full: ha assorbito la conoscenza o le credenze della sua tribù.
+non: ha imparato la conoscenza o le credenze della sua tribù.",
+61,226it,"she @snorted@ her disapproval of the proposed bridegroom.
+youdao: Ha russato la sua disapprovazione per lo sposo proposto.
+google: sbuffò la sua disapprovazione per lo sposo proposto.
+opus: Ha sniffato la sua disapprovazione per lo sposo proposto.
+group_1:
+full: sbuffò la sua disapprovazione per lo sposo proposto.
+non: ha disapprovato lo sposo proposto.
+group_2:
+full: disse sbuffando la sua disapprovazione per il proposto sposo.
+non: ha borbottato la sua disapprovazione per lo sposo proposto.
+group_3:
+full: ha sbuffato la sua disapprovazione per lo sposo proposto.
+non: ha indicato la sua disapprovazione per lo sposo proposto.",
+62,132it,"Am I supposed to @swallow@ that story?
+youdao: Dovrei ingoiare quella storia?
+google: Dovrei ingoiare quella storia?
+opus: Dovrei ingoiare quella storia?
+group_1:
+full: dovrei ingoiare quella storia?
+non: dovrei cancellare quella storia?
+group_2:
+full: dovrei ingoiare quella storia?
+non: dovrei non dire quella storia?
+group_3:
+full: dovrei ingoiare quella storia?
+non: dovrei accettare quella storia?",
+63,138it,"She @pumped@ the witnesses for information.
+youdao: Ha pompato i testimoni per informazione.
+google: Ha chiesto informazioni ai testimoni.
+opus: Ha pompato i testimoni per avere informazioni.
+group_1:
+full: ha sforzato i testmoni per informazioni.
+non: ha chiesto informazioni ai testimoni.
+group_2:
+full: ha inforzato i testimoni per aver informazioni.
+non: ha chiesto informazioni ai testimoni.
+group_3:
+full: ha rubato informazioni al testimone.
+non: ha chiesto informazioni ai testimoni.",
+64,125it,"The police @smashed@ the drug ring after they were tipped off.
+youdao: La polizia ha distrutto l’anello della droga dopo che erano stati spenti.
+google: La polizia ha distrutto il giro della droga dopo aver ricevuto una soffiata.
+opus: La polizia ha rotto l'anello della droga dopo aver ricevuto la soffiata.
+group_1:
+full: la polizia ha fracassato il giro della droga dopo aver ricevuto una soffiata.
+non: la polizia ha distrutto il giro della droga dopo aver ricevuto una soffiata.
+group_2:
+full: la polizia ha rimosso l’anello della droga dopo che erano stati spenti.
+non: la polizia ha distrutto l’anello della droga dopo che erano stati spenti.
+group_3:
+full: la polizia ha distrutto il giro della droga dopo aver ricevuto una soffiata.
+non: la polizia ha catturato il giro della droga dopo aver ricevuto una soffiata.",
+65,225it,"She wanted to @ruffle@ his composure.
+youdao: Voleva strofinare la sua compostezza.
+google: Voleva increspare la sua compostezza.
+opus: Voleva arrabbiare la sua compostezza.
+group_1:
+full: voleva increspare la sua compostezza.
+non: voleva disturbare la sua compostezza.
+group_2:
+full: voleva increspare la sua compostezza.
+non: voleva disturbare la sua compostezza.
+group_3:
+non: voleva rompere la sua compostezza.
+full: voleva increspare la sua compostezza.",
+66,215it,"sorrow was @mapped@ on the mother's face.
+youdao: Il dolore è stato mappato sul volto della madre.
+google: il dolore era tracciato sul volto della madre.
+opus: Il dolore è stato mappato sul volto della madre.
+group_1:
+full: il dolore è stato mappato sul volto della madre.
+non: il dolore era tracciato sul volto della madre.
+group_2:
+full: il dolore è stato apparso sul volto della madre.
+non: il dolore era tracciato sul volto della madre.
+group_3:
+full: il dolore era tracciato sul volto della madre.
+non: : il dolore era incarnato sul volto della madre.",
+67,233it,"Greed and ambition @composed@ his personality.
+youdao: L’avidità e l’ambizione componevano la sua personalità.
+google: L'avidità e l'ambizione componevano la sua personalità.
+opus: L'avidità e l'ambizione componevano la sua personalità.
+group_1:
+full: l'avidità e l'ambizione componevano la sua personalità.
+non: l'avidità e l'ambizione costituivano la sua personalità.
+group_2:
+full: l’avidità e l’ambizione componevano la sua personalità.
+non: l’avidità e l’ambizione costruiscevano la sua personalità.
+group_3:
+full: l'avidità e l'ambizione componevano la sua personalità.
+non: l'avidità e l'ambizione formarono la sua personalità.",
+68,239it,"I heard him @volley@ a string of curses.
+youdao: L’ho sentito raffigurare una serie di maledizioni.
+google: L'ho sentito lanciare una serie di imprecazioni.
+opus: L'ho sentito volare una serie di maledizioni.
+group_1:
+full: l'ho sentito lanciare una serie di imprecazioni.
+non: l'ho sentito dire una serie di imprecazioni.
+group_2:
+full: l'ho sentito lanciare una serie di maledizioni.
+non: l’ho sentito emettere una serie di maledizioni.
+group_3:
+full: l'ho sentito volare una serie di maledizioni.
+non: l'ho sentito lanciare una serie di imprecazioni.",
+69,199it,"Every summer, we @visited@ our relatives in the country for a month.
+youdao: Ogni estate visitiamo i nostri parenti nel paese per un mese.
+google: Ogni estate andavamo a trovare i nostri parenti in campagna per un mese.
+opus: Ogni estate, abbiamo visitato i nostri parenti nel paese per un mese.
+group_1:
+full: ogni estate visitiamo i nostri parenti nel paese per un mese.
+non: ogni estate andavamo a vedere i nostri parenti nel paese per un mese.
+group_2:
+full: ogni estate andavamo a trovare i nostri parenti in campagna per un mese.
+non: ogni estate visitiamo i nostri parenti nel paese per un mese.
+group_3:
+full: ogni estate, visitavamo i nostri parenti nel paese per un mese.
+non: ogni estate andavamo a trovare i nostri parenti in campagna per un mese.",
+70,203it,"@fill@ the child with pride.
+youdao: Riempi il bambino di orgoglio.
+google: riempire il bambino di orgoglio.
+opus: riempire il bambino di orgoglio.
+group_1:
+full: riempire il bambino di orgoglio.
+non: il bambino e' pieno di orgoglio.
+group_2:
+full: riempire il bambino di orgoglio.
+non: rendere i bambini pieni di orgoglio.
+group_3:
+full: lasciate che i bambini si riempiano di orgoglio.
+non: rendi orgogliosi i bambini",
+71,216it,"The dress @molds@ her beautiful figure.
+youdao: Il vestito modella la sua bellissima figura.
+google: L'abito modella la sua bella figura.
+opus: Il vestito modella la sua bella figura.
+group_1:
+full: il vestito modella la sua bella figura.
+non: i vestiti evidenziano la sya bella figura.
+group_2:
+full: il vestito modella la sua bella figura.
+non: il vestito sottolinea la sua bella figura.
+group_3:
+full: il vestito modella la sua bella figura.
+non: questo vestito sfoggia una bella figura.",
+72,160it,"She @tugged@ for years to make a decent living.
+youdao: Ha cercato per anni di guadagnarsi da vivere in modo dignitoso.
+google: Ha tirato per anni per guadagnarsi da vivere dignitosamente.
+opus: Ha tirato per anni per guadagnarsi una vita decente.
+group_1:
+full: ha sforzato per anni per guadagnarsi una vita decente.
+non: ha cercato per anni di guadagnarsi una vita decente.
+group_2:
+full: ha tirato per anni per guadagnarsi una vita decente.
+non: ha cercato per anni per guadagnarsi una vita decente.
+group_3:
+non: ha cercato per anni di guadagnarsi una vita decente.
+full: ha tirato per anni per guadagnarsi una vita decente.",
+73,257it,"The new moon @peeped@ through the tree tops.
+youdao: La luna nuova sbirciò attraverso le cime degli alberi.
+google: La luna nuova faceva capolino tra le cime degli alberi.
+opus: La nuova luna ha sbirciato tra le cime dell'albero.
+group_1:
+full: la luna nuova sbirciò attraverso le cime degli alberi.
+non: la luna nuova penetra nella cima degli alberi
+group_2:
+full: la nuova luna ha sbirciato tra le cime dell'albero.
+non: la luna nuova faceva capolino tra le cime degli alberi.
+group_3:
+full: la nuova luna ha sbirciato tra le cime dell'albero.
+non: la luna nuova faceva capolino tra le cime degli alberi.",
+74,277it,"@lay@ the foundation for a new health care plan.
+youdao: Gettare le basi per un nuovo piano di assistenza sanitaria.
+google: porre le basi per un nuovo piano sanitario.
+opus: gettare le basi per un nuovo piano sanitario.
+group_1:
+full: porre le basi per un nuovo piano sanitario.
+non: dare le basi per il nuovo piano sanitario.
+group_2:
+full: gettare le basi per un nuovo piano di assistenza sanitaria.
+non: porre le basi per un nuovo piano sanitario.
+group_3:
+full: porre le basi per un nuovo piano sanitario.
+non: gettare le basi per un nuovo piano di assistenza sanitaria.",
+75,15it,"stock prices are @drifting@ higher.
+youdao: I prezzi delle azioni stanno aumentando.
+google: i prezzi delle azioni stanno salendo.
+opus: I prezzi delle azioni sono sempre più elevati.
+group_1:
+non: i prezzi delle azioni stanno aumentando.
+part: i prezzi delle azioni sono sempre più elevati.
+group_2:
+full: i prezzi delle azioni sono sempre più elevati.
+non: i prezzi delle azioni stanno salendo.
+group_3:
+non: i prezzi delle azioni stanno aumentando.
+part: i prezzi delle azioni stanno salendo.",
+76,267it,"The government @bowed@ to the military pressure.
+youdao: Il governo ha ceduto alle pressioni militari.
+google: Il governo si è piegato alla pressione militare.
+opus: Il governo si inchinò alle pressioni militari.
+group_1:
+full: il governo si inchinò alle pressioni militari.
+non: il governo ha ceduto alle pressioni militari.
+group_2:
+full: il governo ha ceduto alle pressioni militari.
+non: il governo si inchinò alle pressioni militari.
+group_3:
+full: il governo si inchinò alle pressioni militari.
+non: il governo si è sottomesso alla pressione militare.",
+77,6it,"He @injected@ new life into the performance.
+youdao: Ha iniettato nuova vita nell’esibizione.
+google: Ha iniettato nuova vita nella performance.
+opus: Ha iniettato nuova vita nello spettacolo.
+group_1:
+full: ha iniettato nuova vita nello spettacolo.
+non: ha dato nuova vita nello spettacolo.
+group_2:
+full: ha iniettato nuova vita nell’esibizione.
+non: ha dato nuova vita alla performance.
+group_3:
+full: ha iniettato nuova vita nello spettacolo.
+non: ha datto nuova vita nello spettacolo.",
+78,283it,"The vestiges of political democracy were soon @uprooted.@
+youdao: Le vestigia della democrazia politica sono state presto sradicate.
+google: Le vestigia della democrazia politica furono presto sradicate.
+opus: Le vestigia della democrazia politica furono presto sradicate.
+group_1:
+full: le vestigia della democrazia politica furono presto sradicate.
+non: i resti della democrazia politica saranno presto completamente eliminati
+group_2:
+full: le vestigia della democrazia politica sono state presto sradicate.
+non: 
+group_3:
+full: le vestigia della democrazia politica furono presto sradicate.
+non: : le vestigia della democrazia politica sono state presto rimosso.",
+79,34it,"His lack of interest in the project @reflects@ badly on him.
+youdao: La sua mancanza di interesse per il progetto si riflette negativamente su di lui.
+google: La sua mancanza di interesse per il progetto si riflette male su di lui.
+opus: La sua mancanza di interesse per il progetto riflette negativamente su di lui.
+group_1:
+full: la sua mancanza di interesse per il progetto si riflette male su di lui.
+non: : la sua mancanza di interesse per il progetto ha una influenza negativa su di lui.
+group_2:
+full: la sua mancanza di interesse per il progetto si segnala male su di lui.
+non: la sua mancanza di interesse per il progetto si riflette male su di lui.
+group_3:
+full: la sua mancanza di interesse per il progetto si riflette negativamente su di lui.
+non: la sua mancanza di interesse per il progetto si riflette negativamente su di lui.",
+80,165it,"@deflate@ the currency.
+youdao: Sgonfiare la valuta.
+google: sgonfiare la valuta.
+opus: sgonfiare la valuta.
+group_1:
+full: sgonfiare la valuta.
+non: devalutare la valuta
+group_2:
+full: sgonfiare la valuta.
+non: abbassare la valuta.
+group_3:
+full: sgonfiare la valuta.
+non: svalutare la moneta.",
+81,179it,"Don't @twist@ my words.
+youdao: Non torcere le mie parole.
+google: Non distorcere le mie parole.
+opus: Non stravolgere le mie parole.
+group_1:
+full: non distorcere le mie parole.
+non: non fraintendere le mie parole.
+group_2:
+full: non distorcere le mie parole.
+non: non stravolgere le mie parole.
+group_3:
+full: non distorcere le mie parole.
+non: non corrompere le mie parole.",
+82,232it,"He @revived@ this style of opera.
+youdao: Ha rianimato questo stile di opera.
+google: Ha fatto rivivere questo stile di opera.
+opus: Ha rianimato questo stile di opera.
+group_1:
+full: ha rianimato questo stile di opera.
+non: ha dato nuova vita a questo stile di opera.
+group_2:
+full: ha rianimato questo stile di opera.
+non: ha fatto rivivere questo stile di opera.
+group_3:
+full: ha rianimato questo stile di opera.
+non: ha rivitalizzato questo stile di opera.",
+83,223it,"horses were @clogged@ until they were tamed.
+youdao: I cavalli sono stati intasati finché non sono stati manipolati.
+google: i cavalli erano intasati finché non furono addomesticati.
+opus: i cavalli sono stati intasati fino a quando non sono stati domati.
+group_1:
+non: il cavallo dovrebbe essere legato prima di essere domato
+part: i cavalli erano intasati finché non furono addomesticati
+group_2:
+full: i cavalli sono stati intasati fino a quando non sono stati domati.
+non: i cavalli sono stati legati fino a quando non sono stati domati.
+group_3:
+full: i cavalli sono stati intasati fino a quando non sono stati domati.
+non: i cavalli sono stati bloccati prima di essere addomesticati.",
+84,61it,"She could not @recapture@ that feeling of happiness.
+youdao: Non riusciva a ritrovare quel sentimento di felicità.
+google: Non riusciva a ritrovare quella sensazione di felicità.
+opus: Non poteva riprendere quella sensazione di felicità.
+group_1:
+full: non riusciva a ritrovare quel sentimento di felicità.
+non: non poteva riprendere quella sensazione di felicità.
+group_2:
+full: non riusciva a recuperare quella sensazione di felicità.
+non: non riusciva a ritrovare quel sentimento di felicità.
+group_3:
+full: non poteva riprendere quella sensazione di felicità.
+non: non riusciva a ritrovare quella sensazione di felicità.",
+85,170it,"Her efforts will @redound@ to the general good.
+youdao: I suoi sforzi saranno rivolti al bene comune.
+google: I suoi sforzi saranno utili per il bene generale.
+opus: I suoi sforzi ridurranno al bene generale.
+group_1:
+full: i suoi sforzi saranno rivolti al bene comune.
+non: i suoi sforzi saranno utili per il bene generale.
+group_2:
+full: i suoi sforzi torneranno al bene generale.
+non: i suoi sforzi saranno utili per il bene generale.
+group_3:
+full: i suoi sforzi saranno utili per il bene generale.",
+86,89it,"Inheritance may not @ascend@ linearly.
+youdao: L’ eredità non può risalire linearmente.
+google: L'ereditarietà potrebbe non ascendere linearmente.
+opus: L'ereditarietà non può ascendere linearemente.
+group_1:
+full: l'ereditarietà potrebbe non ascendere linearmente.
+non: l'eredità non è necessariamente lineare
+group_2:
+full: l'ereditarietà potrebbe non ascendere linearmente.
+non: l'ereditarietà potrebbe non salire linearmente.
+group_3:
+full: l'ereditarietà non può ascendere linearemente.
+non: l’ eredità non può risalire linearmente.",
+87,197it,"The book @portrays@ the actor as a selfish person.
+youdao: Il libro ritrae l’attore come una persona egoista.
+google: Il libro ritrae l'attore come una persona egoista.
+opus: Il libro raffigura l'attore come una persona egoista.
+group_1:
+full: il libro ritrae l’attore come una persona egoista.
+non: il libro descrive l’attore come una persona egoista.
+group_2:
+full: il libro raffigura l'attore come una persona egoista.
+non: il libro ritrae l'attore come una persona egoista.
+group_3:
+full: il libro ritrae l'attore come una persona egoista.
+non: il libro descrive l'attore come una persona egoista.",
+88,86it,"@inflate@ the currency.
+youdao: Gonfiare la valuta.
+google: gonfiare la valuta.
+opus: gonfiare la valuta.
+group_1:
+full: gonfiare la valuta.
+non: devalutare la valuta.
+group_2:
+full: gonfiare la valuta.
+non: inflazionare la valuta.
+group_3:
+full: gonfiare la valuta.
+non: inflazione.",
+89,108it,"A weather vane @crowns@ the building.
+youdao: Una palette meteo corona l’edificio.
+google: Una banderuola corona l'edificio.
+opus: Una pinna meteo corona l'edificio.
+group_1:
+full: una banderuola corona l'edificio.
+non: una paletta del vento si trova sulla cima dell'edificio.
+group_2:
+full: una banderuola culminava l'edificio.
+non: una banderuola corona l'edificio.
+group_3:
+full: una banderuola corona l'edificio.
+non: una banderuola è appesa in cima all'edificio.",
+90,303it,"This story would @lend@ itself well to serialization on television.
+youdao: Questa storia si presterebbe bene alla serializzazione in televisione.
+google: Questa storia si presterebbe bene alla serializzazione in televisione.
+opus: Questa storia si presta bene alla serializzazione in televisione.
+group_1:
+full: no
+non: questa storia si presterebbe bene alla serializzazione in televisione.
+group_2:
+full: questa storia si presta bene alla serializzazione in televisione.
+non: questa storia si confere bene alla serializzazione in televisione.
+group_3:
+full: questa storia e' @adatta@ per la serializzazione in tv.
+non: questa storia si @presterebbe@ bene alla serializzazione in televisione.",
+91,101it,"The Nazis @swallowed@ the Baltic countries.
+youdao: I nazisti hanno ingoiato i paesi baltici.
+google: I nazisti hanno inghiottito i paesi baltici.
+opus: I nazisti hanno inghiottito i paesi baltici.
+group_1:
+full: i nazisti hanno inghiottito i paesi baltici.
+non: i nazisti hanno occupato i paesi baltici.
+group_2:
+full: i nazisti hanno ingoiato i paesi baltici.
+non: i nazisti hanno conquistato i paesi baltici.
+group_3:
+full: i nazisti hanno inghiottito i paesi baltici.
+non: i nazisti hanno occupato i paesi baltici.",
+92,2it,"The moon @glared@ back at itself from the lake's surface.
+youdao: La luna si guardò intorno dalla superficie del lago.
+google: La luna ricambiava il suo sguardo dalla superficie del lago.
+opus: La luna si è risvegliata dalla superficie del lago.
+group_1:
+full: la luna abbaglia dalla superficie del lago.
+non: la luna ricambiava il suo sguardo dalla superficie del lago.
+group_2:
+full: la luna si è dato uno sguardo dalla superficie del lago.
+non: la luna si specchiava dalla superficie del lago.
+group_3:
+full: la luna ricambiava il suo sguardo dalla superficie del lago.
+non: la luna si riflette sul lago.",
+93,247it,"She had @scraped@ together enough money for college.
+youdao: Aveva raschiato insieme abbastanza soldi per l’università.
+google: Aveva racimolato abbastanza soldi per il college.
+opus: Aveva raschiato abbastanza soldi per il college.
+group_1:
+full: aveva racimolato abbastanza soldi per il college.
+non: aveva accumulato abbastanza soldi per il college.
+group_2:
+full: aveva racimolato abbastanza soldi per l'università.
+non: aveva risparmiato abbastanza soldi per l’università.
+group_3:
+full: aveva racimolato abbastanza soldi per il college.
+non: aveva risparmiato abbastanza soldi per il college.",
+94,246it,"@fuel@ the debate on creationism.
+youdao: Alimentare il dibattito sul creazionismo.
+google: alimentare il dibattito sul creazionismo.
+opus: alimentare il dibattito sul creazionismo.
+group_1:
+full: alimentare il dibattito sul creazionismo.
+non: dare energia al dibattito sul creazionismo.
+group_2:
+full: accentuare il dibattito sul creazionismo.
+non: alimentare il dibattito sul creazionismo.
+group_3:
+full: alimentare il dibattito sul creazionismo.
+non: suscitare il dibattito sul creazionismo.",
+95,173it,"He @sifted@ the information.
+youdao: Ha setacciato le informazioni.
+google: Ha setacciato le informazioni.
+opus: Ha setacciato le informazioni.
+group_1:
+full: ha setacciato le informazioni.
+non: ha scelto le informazioni.
+group_2:
+full: ha setacciato le informazioni.
+non: ha vagliato le informazioni.
+group_3:
+full: ha setacciato le informazioni.
+non: ha filtrato le informazioni.",
+96,104it,"The dancer @floated@ across the stage.
+youdao: La ballerina galleggiò attraverso il palco.
+google: Il ballerino fluttuava sul palco.
+opus: La ballerina galleggiava sul palco.
+group_1:
+full: la ballerina galleggiava sul palco.
+non: la ballerina attraversa il palco.
+group_2:
+full: il ballerino fluttuava sul palco.
+non: la ballerina galleggiava sul palco.
+group_3:
+full: il ballerino fluttuava sul palco.
+non: i ballerini galleggiavano sul palco.",
+97,137it,"The government @relaxed@ the curfew after most of the rebels were caught.
+youdao: Il governo ha allentato il coprifuoco dopo che la maggior parte dei ribelli è stata catturata.
+google: Il governo ha allentato il coprifuoco dopo che la maggior parte dei ribelli è stata catturata.
+opus: Il governo ha rilassato il coprifuoco dopo che la maggior parte dei ribelli sono stati catturati.
+group_1:
+full: il governo ha allentato il coprifuoco dopo che la maggior parte dei ribelli è stata catturata.
+non: il governo ha liberato il coprifuoco dopo che la maggior parte dei ribelli è stata catturata.
+group_2:
+full: il governo ha allentato il coprifuoco dopo che la maggior parte dei ribelli è stata catturata.
+non: il governo ha rilassato il coprifuoco dopo che la maggior parte dei ribelli sono stati catturati.
+group_3:
+full: il governo ha allentato il coprifuoco dopo che la maggior parte dei ribelli è stata catturata.
+non: il governo ha indebolito il coprifuoco dopo che la maggior parte dei ribelli è stata catturata.",
+98,262it,"She had to @recast@ her image to please the electorate in her home state.
+youdao: Ha dovuto riformulare la sua immagine per compiacere gli elettori del suo paese.
+google: Ha dovuto riformulare la sua immagine per compiacere l'elettorato nel suo stato d'origine.
+opus: Ha dovuto rifare la sua immagine per compiacere l'elettorato nel suo stato d'origine.
+group_1:
+full: ha dovuto riformulare la sua immagine per compiacere l'elettorato nel suo stato d'origine.
+non: ha dovuto rifare la sua immagine per compiacere l'elettorato nel suo stato d'origine.
+group_2:
+full: ha dovuto riformulare la sua immagine per compiacere l'elettorato nel suo stato d'origine.
+non: ha dovuto rifare la sua immagine per compiacere l'elettorato nel suo stato d'origine.
+group_3:
+full: ha dovuto rifare la sua immagine per compiacere l'elettorato nel suo stato d'origine.
+non: ha dovuto riformulare la sua immagine per compiacere l'elettorato nel suo stato d'origine.",
+99,16it,"I @attacked@ the problem as soon as I got out of bed.
+youdao: Ho attaccato il problema non appena sono uscito dal letto.
+google: Ho attaccato il problema non appena mi sono alzato dal letto.
+opus: Ho attaccato il problema appena sono scesa dal letto.
+group_1:
+full: ho attaccato il problema non appena mi sono alzato dal letto.
+non: ho affrontato il problema non appena mi sono alzato dal letto.
+group_2:
+full: ho attaccato il problema non appena sono uscito dal letto.
+non: ho affrontato il problema non appena mi sono alzata dal letto.
+group_3:
+full: ho attaccato il problema non appena sono uscito dal letto.
+non: ho risolto il problema non appena mi sono alzato dal letto.",
+100,145it,"Interest in ESP @revived.@
+youdao: L’interesse verso ESP si è ripreso.
+google: L'interesse per l'ESP è rinato.
+opus: L'interesse per l'ESP è tornato.
+group_1:
+full: l’interesse verso esp si è ripreso.
+non: l'interesse per l'esp è tornato.
+group_2:
+full: l'interesse per l'esp si è ravvivato.
+non: l’interesse verso esp si è ripreso.
+group_3:
+full: l'interesse per l'esp è rinato.
+non: l'interesse per l'esp è tornato.",
+101,41it,"@flush@ the wound with antibiotics.
+youdao: Lavare la ferita con antibiotici.
+google: lavare la ferita con antibiotici.
+opus: Asciugare la ferita con gli antibiotici.
+group_1:
+full: no
+non: lavare la ferita con antibiotici.
+group_2:
+full: asciugare la ferita con gli antibiotici.
+non: lavare la ferita con antibiotici.
+group_3:
+full: lavare la ferita con antibiotici.
+non: lavare la ferita con antibiotici.",
+102,62it,"@build@ a modern nation.
+youdao: Costruisci una nazione moderna.
+google: costruire una nazione moderna.
+opus: costruire una nazione moderna.
+group_1:
+full: creare una nazione moderna.
+non: costruire una nazione moderna.
+group_2:
+full: costruisci una nazione moderna.
+non: crea una nazione moderna.
+group_3:
+full: costruisci una nazione moderna.",
+103,286it,"This action @reflects@ his true beliefs.
+youdao: Questa azione riflette le sue vere convinzioni.
+google: Questa azione riflette le sue vere convinzioni.
+opus: Questa azione riflette le sue vere convinzioni.
+group_1:
+full: questa azione riflette la sua vera convinzioni.
+group_2:
+full: questa azione riflette le sue vere convinzioni.
+non: questa azione significa le sue vere convinzioni.
+group_3:
+full: questa azione riflette le sue vere convinzioni.
+non: questa azione denota le sue vere convinzioni.",
+104,157it,"after a glass of wine, he @lightened@ up a bit.
+youdao: Dopo un bicchiere di vino, si è illuminato un po’.
+google: dopo un bicchiere di vino, si è alleggerito un po'.
+opus: dopo un bicchiere di vino, si alleggerì un po'.
+group_1:
+full: dopo un bicchiere di vino, il suo umore si è alleggerito un po'.
+group_2:
+full: dopo un bicchiere di vino, si è alleggerito un po'.
+non: dopo un bicchiere di vino, si è illuminato un po’.
+group_3:
+full: dopo un bicchiere di vino, si è illuminato un po’.
+non: : dopo un bicchiere di vino, si è alleggerito un po'.",
+105,258it,"The salesman is aggressively @pushing@ the new computer model.
+youdao: Il venditore sta spingendo aggressivamente il nuovo modello di computer.
+google: Il venditore sta spingendo in modo aggressivo il nuovo modello di computer.
+opus: Il venditore sta spingendo aggressivamente il nuovo modello di computer.
+group_1:
+full: il venditore sta sbacciando in modo aggressivo il nuovo modello di computer.
+group_2:
+full: il venditore sta promuovendo aggressivamente il nuovo modello di computer.
+non: il venditore sta spingendo in modo aggressivo il nuovo modello di computer.
+group_3:
+full: il venditore sta spingendo aggressivamente il nuovo modello di computer.
+non: il venditore sta promovendo aggressivamente il nuovo modello di computer.",
+106,78it,"His laughter @infects@ everyone who is in the same room.
+youdao: La sua risata infetta tutti quelli che sono nella stessa stanza.
+google: La sua risata contagia tutti quelli che si trovano nella stessa stanza.
+opus: La sua risata infetta chiunque si trovi nella stessa stanza.
+group_1:
+group_2:
+full: la sua risata infetta tutti quelli che sono nella stessa stanza.
+non: la sua risata contamina tutti coloro che si trovano nella stessa stanza.
+group_3:
+full: la sua risata infetta chiunque si trovi nella stessa stanza.
+non: la sua risata influenza chiunque si trovi nella stessa stanza.",
+107,40it,"The spaceship @blazed@ out into space.
+youdao: La navicella spaziale è esplosa nello spazio.
+google: L'astronave esplose nello spazio.
+opus: L'astronave e' esplosa nello spazio.
+group_1:
+full: l'astronave esplose nello spazio.
+non: l'astronave volo' nello spazio.
+group_2:
+full: l'astronave e' esplosa nello spazio.
+non: l'astronave volo' nello spazio.
+group_3:
+full: la navicella spaziale è esplosa nello spazio.
+non: la navicella spaziale è bruciota nello spazio.",
+108,230it,"Industry will @stagnate@ if we do not stimulate our economy.
+youdao: L’industria stagnerà se non stimoleremo la nostra economia.
+google: L'industria ristagnerà se non stimoliamo la nostra economia.
+opus: L'industria ristagnerà se non stimoliamo la nostra economia.
+group_1:
+full: se non stimoliamo la nostra economia, l'industria ristagnerà.
+non: se non stimoliamo l’economia, l’industria fermerà.
+group_2:
+full: l’industria stagnerà se non stimoleremo la nostra economia.
+non: l’industria fermera' se non stimoleremo la nostra economia.
+group_3:
+full: l’industria @stagnerà@ se non stimoleremo la nostra economia.
+non: l'industria @ristagnerà@ se non stimoliamo la nostra economia.",
+109,156it,"@level@ criticism or charges at somebody.
+youdao: Critica o accusa contro qualcuno.
+google: critiche di livello o accuse a qualcuno.
+opus: critica o accuse di livello contro qualcuno.
+group_1:
+full: propone critica contron qualcuno.
+non: critica contron qualcuno.
+group_2:
+full: critica o accuse in grado uguale contro qualcuono
+non: critica o accuse di livello uguale contro qualcuno
+group_3:
+full: critica o accuse di livello contro qualcuno.
+non: criticare o accusare qualcuno.",
+110,20it,"Life in the camp @drained@ him.
+youdao: La vita nel campo lo prosciugò.
+google: La vita nel campo lo prosciugava.
+opus: La vita nel campo l'ha prosciugato.
+group_1:
+full: la vita nel campo l'ha prosciugato.
+non: la vita nel campo l'ha stremato.
+group_2:
+full: la vita nel campo l'ha affaticato.
+non: la vita nel campo lo prosciugava.
+group_3:
+full: la vita nel campo l'ha @prosciugato@.
+non: la vita nel campo l'ha @esaustato@.",
+111,128it,"The mountain was @splashed@ with snow.
+youdao: La montagna è stata spaccata di neve.
+google: La montagna era schizzata di neve.
+opus: La montagna è stata spruzzata di neve.
+group_1:
+non: la montagna e' coperte di neve.
+part: la montagna ha gironzolato di neve.
+group_2:
+full: la montagna è stata corpita di neve.
+non: la montagna è stata spruzzata di neve.
+group_3:
+full: la montagna è stata spruzzata di neve.
+non: le montagne sono coperte di neve.",
+112,237it,"the stock market @plunged.@
+youdao: Il mercato azionario è precipitato.
+google: il mercato azionario è precipitato.
+opus: il mercato azionario è crollato.
+group_1:
+full: il mercato azionario è precipitato.
+non: il mercato azionario è crollato.
+group_2:
+full: il mercato azionario è precipitato.
+non: il mercato azionario è crollato.
+group_3:
+full: il mercato azionario è crollato.
+non: il mercato azionario è precipitato.",
+113,312it,"He @wrestled@ all his life with his feeling of inferiority.
+youdao: Ha lottato tutta la vita con il suo senso di inferiorità.
+google: Ha lottato per tutta la vita con il suo senso di inferiorità.
+opus: Ha lottato per tutta la vita con il suo sentimento di inferiorità.
+group_1:
+full: ha lottato per tutta la vita con il suo complesso di inferiorità.
+non: e' statoalle prese per tutta la vita con il suo complesso di inferiorità.
+group_2:
+full: ha lottato per tutta la vita con il suo senso di inferiorità.
+non: ha sbarcato per tutta la vita con il suo senso di inferiorità.
+group_3:
+full: ha lottato per tutta la vita con il suo sentimento di inferiorità
+non: si e' battuto tutta la vita con il suo senso di inferiorità.",
+114,241it,"The locks @pound@ the water of the canal.
+youdao: Le chiuse spengono l’acqua del canale.
+google: Le chiuse martellano l'acqua del canale.
+opus: Le serrature colpiscono l'acqua del canale.
+group_1:
+full: le chiuse martellano l'acqua del canale.
+non: le chiuse spengono l’acqua del canale.
+group_2:
+full: le chiuse martellano l'acqua del canale.
+non: le chiuse colpiscono l'acqua del canale.
+group_3:
+full: le chiuse spengono l’acqua del canale.
+non: le chiuse battono contro l'acqua del canale.",
+115,219it,"@preserve@ the peace in the family.
+youdao: Preservare la pace in famiglia.
+google: preservare la pace in famiglia.
+opus: preservare la pace in famiglia.
+group_1:
+full: preservare la pace in famiglia.
+non: no
+group_2:
+full: preservare la pace in famiglia.
+non: tenere la pace in famiglia.
+group_3:
+full: preservare la pace in famiglia.
+non: mantenere la pace in famiglia.",
+116,198it,"The Republicans are @floating@ the idea of a tax reform.
+youdao: I repubblicani stanno ventilando l’idea di una riforma fiscale.
+google: I repubblicani lanciano l'idea di una riforma fiscale.
+opus: I repubblicani stanno fluttuando l'idea di una riforma fiscale.
+group_1:
+full: i repubblicani stanno proponento l'idea di una riforma fiscale.
+non: i repubblicani stanno ventilando l'idea di una riforma fiscale.
+group_2:
+full: i repubblicani lanciano l'idea di una riforma fiscale.
+non: i repubblicani stanno ventilando l’idea di una riforma fiscale.
+group_3:
+full: i repubblicani stanno fluttuando l'idea di una riforma fiscale.
+non: i repubblicani lanciano l'idea di una riforma fiscale.",
+117,169it,"These events could @fracture@ the balance of power.
+youdao: Questi eventi potrebbero rompere il rapporto di forza.
+google: Questi eventi potrebbero rompere l'equilibrio di potere.
+opus: Questi eventi potrebbero rompere l'equilibrio del potere.
+group_1:
+non: questi eventi possono sconvolgere l'equilibrio di potere.
+part: questi eventi potrebbero rompere l'equilibrio di potere.
+group_2:
+full: questi eventi potrebbero fratturare l'equilibrio del potere.
+non: questi eventi potrebbero rompere l'equilibrio del potere.
+group_3:
+full: questi eventi potrebbero frantumare l'equilibrio di potere.
+non: questi eventi potrebbero rompere l'equilibrio del potere.",
+118,148it,"I @wrestled@ with this decision for years.
+youdao: Ho lottato per anni contro questa decisione.
+google: Ho lottato con questa decisione per anni.
+opus: Ho lottato con questa decisione per anni.
+group_1:
+full: ho lottato con questa decisione per diversi anni.
+non: mi sono dilungato a lungo su questa decisione.
+group_2:
+full: ho infastidito con questa decisione per anni.
+non: ho lottato con questa decisione per anni.
+group_3:
+full: ho lottato con questa decisione per anni.
+non: ho pensato a questa decisione per diversi anni.",
+119,256it,"These big jets are @tied@ to large airports.
+youdao: Questi grandi jet sono collegati a grandi aeroporti.
+google: Questi grandi jet sono legati ai grandi aeroporti.
+opus: Questi grandi jet sono legati ai grandi aeroporti.
+group_1:
+full: questi grandi jet sono legati a grandi aeroporti.
+non: questi grandi jet sono collegati a grandi aeroporti.
+group_2:
+full: questi grandi jet sono legati ai grandi aeroporti.
+non: questi grandi jet sono collegati a grandi aeroporti.
+group_3:
+full: questi grandi jet sono collegati a grandi aeroporti.
+non: questi grandi jet sono legati ai grandi aeroporti.",
+120,164it,"His mind @groped@ to make the connection.
+youdao: La sua mente gemette per fare la connessione.
+google: La sua mente cercava di stabilire il collegamento.
+opus: La sua mente ha palpato per fare il collegamento.
+group_1:
+full: la sua mente cercava di stabilire il collegamento.
+non: la sua mente si scervellava stabilire il collegamento.
+group_2:
+full: la sua mente cercava di stabilire il collegamento.
+non: la sua mente ha palpato per fare il collegamento.
+group_3:
+non: la sua mente ha provato a fare la connessione.
+part: la sua mente cercava di stabilire il collegamento.",
+121,92it,"Meteors @blazed@ across the atmosphere.
+youdao: I meteori brillavano attraverso l’atmosfera.
+google: Meteore divamparono nell'atmosfera.
+opus: Le meteore hanno attraversato l'atmosfera.
+group_1:
+full: i meteori brillavano attraverso l’atmosfera.
+non: le meteore hanno attraversato l'atmosfera.
+group_2:
+full: i meteori brillavano attraverso l’atmosfera.
+non: le meteore hanno attraversato l'atmosfera.
+group_3:
+non: le meteore hanno attraversato l'atmosfera.
+part: le meteore brillano nell'atmosfera.",
+122,42it,"@stamp@ fruit extract the juice.
+youdao: Francobolli frutta estrae il succo.
+google: timbrare la frutta estrarre il succo.
+opus: timbrare la frutta estrae il succo.
+group_1:
+non: spremere il frutto per estrarre il succo.
+part: pestare il frutto per estrarre il succo.
+group_2:
+full: timbrare la frutta estrae il succo.
+non: bollare la frutta estrarre il succo.
+group_3:
+full: schiacciare la frutta estrae il succo
+non: pestare la frutta estrae il succo.",
+123,8it,"The beams @scanned@ the night sky.
+youdao: I raggi scannerizzavano il cielo notturno.
+google: I raggi scrutavano il cielo notturno.
+opus: I raggi hanno scansionato il cielo notturno.
+group_1:
+non: i raggi attraversano il cielo notturno.
+part: i raggi brillano nel cielo nottorno.
+group_2:
+full: i raggi hanno scansionato il cielo notturno.
+non: i raggi hanno irradiato il cielo notturno.
+group_3:
+part: i raggi scrutavano il cielo notturno.",
+124,23it,"She was @besieged@ by so many problems that she got discouraged.
+youdao: È stata assediata da così tanti problemi che si è scoraggiata.
+google: Era assediata da tanti problemi che si scoraggiava.
+opus: È stata assediata da così tanti problemi che si è scoraggiata.
+group_1:
+full: era assediata da così tanti problemi che si sentiva scoraggiata.
+non: è talmente afflitta da problemi che si sentiva scoraggiata.
+group_2:
+full: è stata assediata da così tanti problemi che si è scoraggiata.
+non: era tormentata da così tanti problemi che si è scoraggiata.
+group_3:
+non: era tormentata da tanti problemi che si scoraggiava.
+full: era assediata da tanti problemi che si scoraggiava.",
+125,31it,"The new teacher tends to @steamroller.@
+youdao: Il nuovo insegnante tende a ruggire.
+google: Il nuovo insegnante tende a fare il rullo compressore.
+opus: Il nuovo insegnante tende a rullare.
+group_1:
+non: il nuovo insegnante vuole vincere con slancio
+part: il nuovo insegnante tende a rullare.
+group_2:
+full: il nuovo insegnante tende a rullare.
+non: 
+group_3:
+full: il nuovo insegnante tende a rullare.
+non: il nuovo insegnante tende a pressione.",
+126,189it,"This writer really @fractures@ the language.
+youdao: Questo scrittore rompe davvero il linguaggio.
+google: Questo scrittore spezza davvero la lingua.
+opus: Questo scrittore ha davvero rotto il linguaggio.
+group_1:
+full: questo scrittore rompe davvero il linguaggio.
+non: questo scrittore spezza davvero il linguaggio.
+group_2:
+full: questo scrittore rompe davvero la lingua.
+non: questo scrittore spezza davvero la lingua.
+group_3:
+full: questo scrittore spezza davvero la lingua.
+non: questo scrittore rompe davvero il linguaggio.",
+127,250it,"@mount@ a theater production.
+youdao: Monta una produzione teatrale.
+google: montare una produzione teatrale.
+opus: Montare una produzione teatrale.
+group_1:
+full: montare un pezzo teatrale.
+non: creare un pezzo teatrale.
+group_2:
+full: preparare una produzione teatrale.
+non: montare una produzione teatrale.
+group_3:
+full: montare una produzione teatrale.
+non: condurre una produzione teatrale.",
+128,63it,"The music @swelled@ to a crescendo.
+youdao: La musica è andata crescendo.
+google: La musica crebbe in un crescendo.
+opus: La musica si gonfiava a un crescendo.
+group_1:
+non: la musica raggiunge un crescendo.
+part: la musica crebbe in un crescendo.
+group_2:
+full: la musica andava in un crescendo.
+non: la musica si gonfiava a un crescendo.
+group_3:
+full: la musica si gonfiava a un crescendo.
+non: la musica si intensifica gradualmente fino a crescere.",
+129,142it,"The river @thundered@ below.
+youdao: Il fiume sprofondò sotto.
+google: Il fiume tuonava sotto.
+opus: Il fiume ha tuonato sotto.
+group_1:
+full: il fiume scalpitava sotto.
+non: il fiume sfrecciava.
+group_2:
+full: il fiume rimbombava sotto di noi.
+non: il fiume scorreva sotto.
+group_3:
+full: il fiume tuonava sotto.
+non: il fiume suonava sotto.",
+130,242it,"She was @streaming@ with sweat.
+youdao: Lei stava streaming con sudore.
+google: Stava sudando.
+opus: Era in streaming con il sudore.
+group_1:
+non: stava sudando molto.
+part: stava facendo vapore con il sudore.
+group_2:
+full: era in bagnato con il sudore.
+non: era in streaming con il sudore.
+group_3:
+full: era in streaming con il sudore.
+non: stava sudando.",
+131,293it,"The mother was @swelling@ with importance when she spoke of her son.
+youdao: La madre si stava gonfiando con importanza quando ha parlato di suo figlio.
+google: La madre si gonfiava di importanza quando parlava di suo figlio.
+opus: La madre si gonfiava di importanza quando parlava di suo figlio.
+group_1:
+full: la madre si stava gonfiando con importanza quando ha parlato di suo figlio.
+non: la madre sembra molto orgogliosa quando parla di suo figlio.
+group_2:
+full: la madre si stava imbevendo con importanza quando ha parlato di suo figlio.
+non: la madre si gonfiava di importanza quando parlava di suo figlio.
+group_3:
+full: la madre si gonfiava di importanza quando parlava di suo figlio.
+non: la madre accentuava l’importanza quando parlava di suo figlio.",
+132,245it,"His political ideas @color@ his lectures.
+youdao: Le sue idee politiche colmano le sue lezioni.
+google: Le sue idee politiche colorano le sue lezioni.
+opus: Le sue idee politiche colorano le sue lezioni.
+group_1:
+full: le sue idee politiche hanno aggiunto colore alle sue lezioni.
+non: le sue idee politiche hanno influenzato il suo discorso.
+group_2:
+full: le sue idee politiche colorano le sue lezioni.
+non: le sue idee politiche ha arrichito le sue lezioni.
+group_3:
+full: le sue idee politiche colorano le sue lezioni.
+non: le sue idee politiche ritoccano le sue lezioni.",
+133,77it,"the government @digested@ the entire law into a code.
+youdao: Il governo ha digerito l’intera legge in un codice.
+google: il governo ha digerito l'intera legge in un codice.
+opus: Il governo ha digerito l'intera legge in un codice.
+group_1:
+full: il governo ha digerito l’intera legge in un codice.
+non: il governo ha codificato l’intera legge in un codice.
+group_2:
+full: il governo ha digerito l’intera legge in un codice.
+non: il governo ha raccolto l'intera legge in un codice.
+group_3:
+full: il governo ha digerito l'intera legge in un codice.
+non: il governo ha codificato l'intera legge.",
+134,96it,"Companies will now @stampede@ to release their latest software.
+youdao: Le aziende faranno a gara per pubblicare il loro software più recente.
+google: Le aziende ora si precipiteranno per rilasciare il loro ultimo software.
+opus: Le aziende ora stampe per rilasciare il loro ultimo software.
+group_1:
+full: le aziende ora faranno a gara per pubblicare il loro ultimo software.
+non: le aziende ora si precipiteranno per pubblicare il loro ultimo software.
+group_2:
+full: le aziende ora si precipiteranno per rilasciare il loro ultimo software.
+non: le aziende ora si affrettano a rilasciare il loro ultimo software.
+group_3:
+full: le aziende ora stampe per rilasciare il loro ultimo software.
+non: le aziende faranno a gara per pubblicare il loro software più recente.",
+135,56it,"His heart @palpitated.@
+youdao: Il suo cuore palpitava.
+google: Il suo cuore palpitava.
+opus: Il suo cuore ha palpitato.
+group_1:
+full: il suo cuore palpitava.
+non: il suo cuore batteva all'impazzata.
+group_2:
+full: il suo cuore fremereva.
+non: il suo cuore palpitava.
+group_3:
+full: il suo cuore palpitava.
+non: si è commosso",
+136,273it,"The comedian @convulsed@ the crowd.
+youdao: Il comico ha scosso la folla.
+google: Il comico ha sconvolto la folla.
+opus: Il comico ha convulso la folla.
+group_1:
+full: il comico ha convulso la folla.
+non: il comico ha sconvolto la folla.
+group_2:
+full: il comico ha reso sorridere la folla.
+non: il comico ha convulso la folla.
+group_3:
+full: il comico ha convulso la folla.
+non: il comico ha scosso la folla.",
+137,130it,"He @pasted@ his opponent.
+youdao: Ha incollato il suo avversario.
+google: Ha incollato il suo avversario.
+opus: Ha incolpato il suo avversario.
+group_1:
+full: ha incolpato i suoi avversari.
+non: ha picchiato i suoi avversari.
+group_2:
+full: ha diffamato il suo avversario.
+non: ha incolpato il suo avversario.
+group_3:
+full: ha sconfitto il suo avversario.
+non: ha superato il suo avversario.",
+138,265it,"The heat @scorched@ the countryside.
+youdao: Il calore bruciò la campagna.
+google: Il caldo bruciava la campagna.
+opus: Il caldo ha bruciato la campagna.
+group_1:
+full: il caldo bruciava la campagna.
+non: il caldo incendiò la campagna.
+group_2:
+full: il caldo ha scaldato la campagna.
+non: il caldo ha bruciato la campagna.
+group_3:
+full: il caldo ha bruciato la campagna
+non: il caldo ha distrutto la campagna.",
+139,287it,"He @breathed@ new life into the old house.
+youdao: Ha respirato nuova vita nella vecchia casa.
+google: Ha dato nuova vita alla vecchia casa.
+opus: Ha dato nuova vita alla vecchia casa.
+group_1:
+full: ha instillato nuova vita alla vecchia casa.
+non: ha dato nuova vita alla vecchia casa.
+group_2:
+full: ha portato nuova vita alla vecchia casa.
+non: ha dato nuova vita alla vecchia casa.
+group_3:
+full: ha respirato nuova vita nella vecchia casa.
+non: ha dato nuova vita alla vecchia casa.",
+140,75it,"The hikers @topped@ the mountain just before noon.
+youdao: Gli escursionisti hanno scalato la montagna poco prima di mezzogiorno.
+google: Gli escursionisti hanno raggiunto la cima della montagna poco prima di mezzogiorno.
+opus: Gli escursionisti hanno superato la montagna poco prima di mezzogiorno.
+group_1:
+full: gli escursionisti hanno raggiunto la cima della montagna poco prima di mezzogiorno.
+non: gli escursionisti hanno scalato la cima della montagna poco prima di mezzogiorno.
+group_2:
+full: gli escursionisti hanno raggiunto la cima della montagna poco prima di mezzogiorno.
+non: gli escursionisti hanno scalato la montagna poco prima di mezzogiorno.
+group_3:
+non: gli escursionisti hanno superato la montagna poco prima di mezzogiorno.
+part: gli escursionisti hanno raggiunto la cima della montagna poco prima di mezzogiorno.",
+141,167it,"The sudden fame @puffed@ her ego.
+youdao: La fama improvvisa soffiò il suo ego.
+google: L'improvvisa fama ha gonfiato il suo ego.
+opus: L'improvvisa fama ha gonfiato il suo ego.
+group_1:
+full: l'improvvisa fama ha gonfiato il suo ego.
+non: l'improvvisa fama ha resa presuntuosa.
+group_2:
+full: l'improvvisa fama ha gonfiato il suo ego.
+non: l'improvvisa fama ha aumentato il suo ego.
+group_3:
+full: l'improvvisa fama ha gonfiato il suo ego.
+non: la fama improvvisa soffiò il suo ego.",
+142,266it,"Congress @condensed@ the three- year plan into a six- month plan.
+youdao: Il congresso ha condensato il piano triennale in un piano semestrale.
+google: Il Congresso ha condensato il piano triennale in un piano semestrale.
+opus: Il Congresso ha condensato il piano di tre anni in un piano di sei mesi.
+group_1:
+full: il congresso ha condensato il piano triennale in un piano semestrale.
+non: il congresso ha accorciato il piano triennale in un piano semestrale.
+group_2:
+full: il congresso ha condensato il piano triennale in un piano semestrale.
+non: il congresso ha cambiato il piano triennale in un piano semestrale.
+group_3:
+full: il congresso ha condensato il piano triennale in un piano semestrale.
+non: il congresso ha alterato il piano triennale in un piano semestrale.",
+143,97it,"She @stuffed@ herself at the dinner.
+youdao: Si è farcito alla cena.
+google: Si è abbuffata alla cena.
+opus: Si e' imbottigliata alla cena.
+group_1:
+full: si è abbuffata alla cena.
+non: si è ingozzata alla cena.
+group_2:
+full: si è abbuffata a cena.
+non: si è riempita di cibo per la cena.
+group_3:
+full: si e' imbottigliata alla cena
+non: era piena alla cena.",
+144,38it,"She @traced@ the circumstances of her birth.
+youdao: Lei tracciò le circostanze della sua nascita.
+google: Ha rintracciato le circostanze della sua nascita.
+opus: Ha rintracciato le circostanze della sua nascita.
+group_1:
+full: ha tracciato le circostanze della sua nascita.
+non: ha ricostruito le circostanze della sua nascita.
+group_2:
+full: ha rintracciato le circostanze della sua nascita.
+non: ha trovato le circostanze della sua nascita.
+group_3:
+full: ha rintracciato le circostanze della sua nascita.
+non: ha scoperto le circostanze della sua nascita.",
+145,191it,"The bad review of his work @deflated@ his self- confidence.
+youdao: La cattiva recensione del suo lavoro indebolì la fiducia in se stesso.
+google: La cattiva recensione del suo lavoro ha sgonfiato la sua autostima.
+opus: La cattiva recensione del suo lavoro ha sgonfiato la sua fiducia in se stessi.
+group_1:
+full: la cattiva recensione del suo lavoro ha sgonfiato la fiducia in se stesso.
+non: la cattiva recensione del suo lavoro ha combattuto la fiducia in se stesso.
+group_2:
+full: la cattiva recensione del suo lavoro ha sgonfiato la sua autostima.
+non: la cattiva recensione del suo lavoro indebolì la fiducia in se stesso.
+group_3:
+full: la cattiva recensione del suo lavoro ha sgonfiato la sua autostima.
+non: la cattiva valutazione del suo lavoro indeboliva la sua fiducia in se stesso.",
+146,299it,"The debate @sharpened.@
+youdao: La discussione si è inasprita.
+google: Il dibattito si è inasprito.
+opus: Il dibattito si è affilato.
+group_1:
+non: la discussione si enfatizzo'.
+part: la discussione si accentuo'
+group_2:
+full: il dibattito si è inasprito.
+non: il dibattito si è affilato.
+group_3:
+full: il dibattito si è inasprito.
+non: la polemica si è intensificata.",
+147,70it,"They @fastened@ various nicknames to each other.
+youdao: Si attaccavano vari nick l’uno all’altro.
+google: Si sono attaccati vari soprannomi l'un l'altro.
+opus: Si attaccarono vari soprannomi l'un l'altro.
+group_1:
+non: gli uni si soprannominano con vari soprannomini.
+part: si sono attaccati vari soprannomi l'un l'altro.
+group_2:
+full: si attaccavano vari nick l’uno all’altro.
+non: si sono affibbiati vari soprannomi.
+group_3:
+full: si sono attaccati vari soprannomi l'un l'altro.
+non: hanno fissato vari soprannomi l'un l'altro.",
+148,193it,"I @swallowed@ my anger and kept quiet.
+youdao: Ho ingoiato la mia rabbia e sono rimasto in silenzio.
+google: Ho ingoiato la mia rabbia e sono rimasto zitto.
+opus: Ho ingoiato la mia rabbia e ho taciuto.
+group_1:
+full: ho ingoiato la rabbia e rimasi in silenzio.
+non: ho accettato i la rabbia e rimasi in silenzio.
+group_2:
+full: ho ingoiato la mia rabbia e sono rimasto in silenzio.
+non: ho contrallato la mia rabbia e sono rimasto in silenzio.
+group_3:
+full: ho ingoiato la mia rabbia e ho taciuto.
+non: ho trattenuto la mia rabbia e sono rimasto in silenzio.",
+149,300it,"Her face @glowed@ when she came out of the sauna.
+youdao: Il suo volto brillava quando uscì dalla sauna.
+google: Il suo viso si illuminò quando uscì dalla sauna.
+opus: La sua faccia brillava quando e' uscita dalla sauna.
+group_1:
+full: il suo viso si è ragante quando è uscita dalla sauna.
+non: il suo viso e'rispleso quando e' uscita dalla sauna.
+group_2:
+full: la sua faccia infiammava quando e' uscita dalla sauna.
+non: il suo viso si illuminò quando uscì dalla sauna.
+group_3:
+part: la sua faccia brillava quando e' uscita dalla sauna.
+non: il suo viso si illuminava di rosso quando uscì dalla sauna.",
+150,154it,"this may @land@ you in jail.
+youdao: Questo potrebbe farti finire in prigione.
+google: questo potrebbe portarti in prigione.
+opus: Questo potrebbe farti finire in prigione.
+group_1:
+non: questo potrebbe farti andare in prigione.
+part: questo potrebbe farti uscire in prigione.
+group_2:
+full: questo potrebbe portarti in prigione.
+non: questo potrebbe farti finire in prigione.
+group_3:
+non: questo potrebbe farti finire in prigione.
+part: questo potrebbe portarti in prigione.",
+151,243it,"They @topped@ off their dinner with a cognac.
+youdao: Hanno tagliato fuori la cena con un cognac.
+google: Hanno completato la cena con un cognac.
+opus: Hanno saltato la cena con un cognac.
+group_1:
+full: hanno completato la cena con un cognac.
+non: loro hanno terminato la cena con un cognac.
+group_2:
+non: hanno completato la cena con un cognac.
+group_3:
+full: hanno completato la cena con un cognac.
+non: hanno aggiunto un cognac alla fine della cena.",
+152,285it,"The press was @gagged.@
+youdao: La stampa è stata imbavagliata.
+google: La stampa è stata imbavagliata.
+opus: La stampa era imbavagliata.
+group_1:
+full: la stampa era imbavagliata.
+non: la stampa era censurata.
+group_2:
+full: la stampa è stata imbavagliata.
+non: i media sono stati messi a tacere.
+group_3:
+full: la stampa era imbavagliata.
+non: la stampa è vietata.",
+153,127it,"She @devoured@ his novels.
+youdao: Ha divorato i suoi romanzi.
+google: Ha divorato i suoi romanzi.
+opus: Ha divorato i suoi romanzi.
+group_1:
+full: ha divorato i suoi romanzi.
+non: ha fruito dei suoi romanzi.
+group_2:
+full: ha divorato i suoi romanzi.
+non: ha letto con entusiasmo i suoi romanzi
+group_3:
+full: ha divorato i suoi romanzi.
+non: ha letto i suoi romanzi.",
+154,227it,"She @swallowed@ the last words of her speech.
+youdao: Ha ingoiato le ultime parole del suo discorso.
+google: Deglutì le ultime parole del suo discorso.
+opus: Ha ingoiato le ultime parole del suo discorso.
+group_1:
+full: ha digerito le ultime parole del discorso.
+non: non ha parlato le ultime parole del discorso.
+group_2:
+full: deglutì le ultime parole del suo discorso.
+non: ha ingoiato le ultime parole del suo discorso.
+group_3:
+full: ha ingoiato le ultime parole del suo discorso.
+non: ha finito le ultime parole del suo discorso.",
+155,171it,"Their language @inclines@ us to believe them.
+youdao: Il loro linguaggio ci induce a crederci.
+google: Il loro linguaggio ci porta a crederci.
+opus: La loro lingua ci spinge a crederci.
+group_1:
+full: il loro linguaggio ci e inclinato a credergli.
+non: il loro linguaggio ci spinge a credergli.
+group_2:
+full: il loro linguaggio ci inclina a crederci.
+non: il loro linguaggio ci induce a crederci.
+group_3:
+full: il loro linguaggio ci induce a crederci.
+non: il loro linguaggio ci porta a crederci.",
+156,249it,"society was @infected@ by racism.
+youdao: La società era infettata dal razzismo.
+google: la società è stata infettata dal razzismo.
+opus: la società è stata infettata dal razzismo.
+group_1:
+full: la società era infettata dal razzismo.
+non: la società è influenzata dal razzismo.
+group_2:
+full: la società è stata infettata dal razzismo.
+non: la società è stata guastato dal razzismo.
+group_3:
+full: la società è stata infettata dal razzismo.
+non: la società è colpita dal razzismo.",
+157,28it,"sorrow had @lined@ his face.
+youdao: Dolore aveva allineato il suo volto.
+google: il dolore gli aveva segnato il volto.
+opus: Il dolore gli aveva fiancheggiato la faccia.
+group_1:
+non: il dolore era pieno di faccia.
+part: il dolore aveva foderato il suo volto.
+group_2:
+full: il dolore gli aveva segnato il volto.
+non: dolore aveva allineato il suo volto.
+group_3:
+full: dolore aveva allineato il suo volto.
+non: il dolore gli aveva segnato il volto.",
+158,123it,"He @downed@ three martinis before dinner.
+youdao: Ha abbattuto tre martinini prima di cena.
+google: Ha buttato giù tre martini prima di cena.
+opus: Ha abbattuto tre Martini prima di cena.
+group_1:
+full: ha buttato giù tre martini prima di cena.
+non: ha bevuto tre martini prima di cena.
+group_2:
+full: ha buttato giù tre martini prima di cena.
+non: ha bevuto tre martini prima di cena.
+group_3:
+full: ha abbattuto tre martini prima di cena.
+non: ha mangiato tre martini prima di cena.",
+159,59it,"The White House @sits@ on Pennsylvania Avenue.
+youdao: La casa bianca sta in Pennsylvania Avenue.
+google: La Casa Bianca si trova in Pennsylvania Avenue.
+opus: La Casa Bianca si trova sulla Pennsylvania Avenue.
+group_1:
+non: la casa bianca si trova su pennsylvania avenue.
+part: la casa bianca è situata a pennsylvania avenue.
+group_2:
+full: la casa bianca sta in pennsylvania avenue.
+non: la casa bianca si trova in pennsylvania avenue.
+group_3:
+full: la casa bianca situa in pennsylvania avenue.
+non: la casa bianca si trova sulla pennsylvania avenue.",
+160,43it,"her indifference to his amorous advances really @steamed@ the young man.
+youdao: La sua indifferenza per i suoi progressi amorosi davvero irradiò il giovane.
+google: la sua indifferenza per le sue avances amorose fece davvero arrabbiare il giovane.
+opus: La sua indifferenza verso le sue amorose avances ha davvero riscaldato il giovane.
+group_1:
+full: la sua indifferenza per le sue avances amorose fece davvero ribollire il giovane.
+non: la sua indifferenza per le sue avances amorose si è innervosito il giovane.
+group_2:
+full: la sua indifferenza per i suoi progressi amorosi davvero irradiò il giovane.
+non: la sua indifferenza verso le sue amorose avances ha davvero riscaldato il giovane.
+group_3:
+non: la sua indifferenza verso le sue amorose avances ha davvero riscaldato il giovane.
+part: la sua indifferenza per le sue avances amorose fece davvero arrabbiare il giovane.",
+161,279it,"He @landed@ several blows on his opponent's head.
+youdao: Ha lanciato diversi colpi alla testa del suo avversario.
+google: Ha sferrato diversi colpi sulla testa del suo avversario.
+opus: Ha atterrato parecchi colpi sulla testa del suo avversario.
+group_1:
+full: ha piombato diversi colpi alla testa del suo avversario.
+non: ha caduto diversi colpi alla testa del suo avversario.
+group_2:
+full: ha sferrato diversi colpi sulla testa del suo avversario.
+non: ha atterrato parecchi colpi sulla testa del suo avversario.
+group_3:
+full: ha lanciato parecchi colpi sulla testa del suo avversario.
+non: ha sferrato diversi colpi sulla testa del suo avversario.",
+162,196it,"The news were @leaked@ to the paper.
+youdao: Le notizie sono trapelate al giornale.
+google: La notizia è trapelata al giornale.
+opus: Le notizie sono state trapelate al giornale.
+group_1:
+full: l'informazione è fato trapelare al giornale.
+non: l'informazione è stata divulgata al giornale.\
+group_2:
+full: la notizia è trapelata al giornale.
+non: la notizia è sfuggita al giornale.
+group_3:
+full: le notizie sono trapelate al giornale.
+non: la notizia è stata diffusa al giornale.",
+163,65it,"Unrest @erupted@ in the country.
+youdao: Nel paese scoppiarono disordini.
+google: I disordini sono scoppiati nel paese.
+opus: E' scoppiato un buco nel paese.
+group_1:
+full: i disordini sono scoppiati nel paese.
+non: nel paese si sono verificate i disordini.
+group_2:
+full: nel paese appaiono disordini.
+non: i disordini sono scoppiati nel paese.
+group_3:
+full: i disordini sono stati in eruzione nel paese.
+non: i disordini sono scoppiati nel paese.",
+164,174it,"A rash @erupted@ on her arms after she had touched the exotic plant.
+youdao: Un’eruzione è scoppiata sulle braccia dopo che aveva toccato la pianta esotica.
+google: Un'eruzione cutanea le è esplosa sulle braccia dopo aver toccato la pianta esotica.
+opus: Un'eruzione cutanea le eruttava sulle braccia dopo che aveva toccato la pianta esotica.
+group_1:
+full: mi spuntò uno sfogo sulle braccia appena abbia toccato la pianta esotica.
+non: mi comparì uno sfogo sulle braccia appena abbia toccato la pianta esotica.
+group_2:
+full: un'eruzione cutanea le è esplosa sulle braccia dopo aver toccato la pianta esotica.
+non: dopo aver toccato la pianta esotica, le è apparsa un'eruzione cutanea sulle braccia.
+group_3:
+full: un'eruzione cutanea le è esplosa sulle braccia dopo aver toccato la pianta esotica.
+non: dopo aver toccato questa strana pianta, improvvisamente sviluppò un'eruzione cutanea sul braccio.",
+165,66it,"@communicate@ a disease.
+youdao: Comunicare una malattia.
+google: comunicare una malattia
+opus: comunicare una malattia.
+group_1:
+full: trasmettere una malattia.
+non: diffondere una malattia.
+group_2:
+full: diffondere una malattia.
+non: comunicare una malattia.
+group_3:
+full: disseminate infection
+non: transmettere una malattia",
+166,82it,"he @buzzed@ the servant.
+youdao: Ha ronzato il servo.
+google: ronzò il servitore.
+opus: Ha suonato il servo.
+group_1:
+part: ha citofonato il servo.
+non: ha chiamato il servo.
+group_2:
+full: ronzò il servitore.
+non: ha suonato il servo.
+group_3:
+non: he called out to his servant.
+part: he disturbed his servant.",
+167,35it,"She @interrupted@ her pregnancy.
+youdao: Ha interrotto la gravidanza.
+google: Ha interrotto la gravidanza.
+opus: Ha interrotto la gravidanza.
+group_1:
+full: ha interrotto la gravidanza.
+non: ha sospeso la gravidanza.
+group_2:
+full: ha interrotto la gravidanza.
+non: ha sospeso la gravidanza.
+group_3:
+full: ha @interrotto@ la gravidanza.
+non: ha @terminato@ la gravidanza.",
+168,153it,"My son @drifted@ around for years in California before going to law school.
+youdao: Mio figlio è andato in giro per anni in California prima di andare alla facoltà di giurisprudenza.
+google: Mio figlio è andato alla deriva per anni in California prima di andare a scuola di legge.
+opus: Mio figlio e' andato alla deriva per anni in California prima di andare alla facolta' di legge.
+group_1:
+full: mio figlio ha vagato per anni in california prima di frequentare la facoltà di legge.
+non: mio figlio ha girovagato per anni in california prima di frequentare la facoltà di legge.
+group_2:
+full: mio figlio ha girovagato per anni in california prima di frequentare la facoltà di legge.
+non: mio figlio ha perso la scuola per anni in california prima di frequentare la facoltà di legge.
+group_3:
+non: mio figlio ha viaggiato per anni in california prima di andare alla facoltà di giurisprudenza.
+part: mio figlio è andato in giro per anni in california prima di andare alla facoltà di giurisprudenza.",
+169,36it,"Suspense was @building@ right from the beginning of the opera.
+youdao: Suspense si stava costruendo sin dall’inizio dell’opera.
+google: La suspense stava crescendo fin dall'inizio dell'opera.
+opus: Suspense stava costruendo fin dall'inizio dell'opera.
+group_1:
+non: la suspense cresceva fin dall'inizio dell'opera.
+part: la suspense si è sviluppata fin dall'inizio dell'opera.
+group_2:
+full: suspense si stava costruendo sin dall’inizio dell’opera.
+non: la suspense stava crescendo fin dall'inizio dell'opera.
+group_3:
+non: suspense e’ sorta dall'inizio dell'opera.
+full: suspense si stava costruendo sin dall’inizio dell’opera",
+170,150it,"Her optimism @whistled@ away these worries.
+youdao: Il suo ottimismo ha dissipato queste preoccupazioni.
+google: Il suo ottimismo ha spazzato via queste preoccupazioni.
+opus: Il suo ottimismo ha fischiato via queste preoccupazioni.
+group_1:
+full: il suo ottimismo ha fischiato allontani queste preoccupazioni.
+non: il suo ottimismo ha allontanato queste preoccupazioni.
+group_2:
+full: il suo ottimismo ha cacciato via queste preoccupazioni.
+non: il suo ottimismo ha fischiato via queste preoccupazioni.
+group_3:
+full: il suo ottimismo ha fischiato via queste preoccupazioni.
+non: il suo ottimismo ha dissipato queste preoccupazioni.",
+171,30it,"the meat was @swimming@ in a fatty gravy.
+youdao: La carne stava nuotando in un sugo grasso.
+google: la carne nuotava in un sugo grasso.
+opus: La carne nuotava in una salsa grassa.
+group_1:
+non: la carne si presenta con un grasso grasso di carne.
+part: la carne era immersa in un sugo grasso.
+group_2:
+full: la carne rivoltava in una salsa grassa.
+non: la carne nuotava in una salsa grassa.
+group_3:
+full: la carne nuotava in un sugo grasso.
+non: la carne si era inzuppata in un sugo grasso.",
+172,294it,"Make the people's hearts @glow.@
+youdao: Fate brillare i cuori della gente.
+google: Fai brillare il cuore delle persone.
+opus: Fai brillare il cuore della gente.
+group_1:
+non: rende le persone raggiante.
+full: far brillare i cuori delle persone.
+group_2:
+full: fai pulire il cuore della gente.
+non: fai brillare il cuore della gente.
+group_3:
+full: @illumina@ il cuore della gente.
+non: @ispira@ il cuore della gente.",
+173,55it,"They @taxed@ him failure to appear in court.
+youdao: Hanno tassato la mancata comparizione in tribunale.
+google: Lo hanno tassato per la mancata comparizione in tribunale.
+opus: L'hanno tassato per non essere presente in tribunale.
+group_1:
+full: gli hanno tassato la mancata comparizione in tribunale.
+non: gli hanno imposto la mancata comparizione in tribunale.
+group_2:
+full: gli hanno imposto la mancata comparizione in tribunale.
+non: gli hanno contestato la mancata comparizione in tribunale.
+group_3:
+full: l'hanno tassato per non essere presente in tribunale.
+non: l'hanno accusato per non essere presente in tribunale.",
+174,214it,"This story will @grab@ you.
+youdao: Questa storia ti afferrerà.
+google: Questa storia ti catturerà.
+opus: Questa storia ti afferrera'.
+group_1:
+full: questa storia ti catturerà.
+non: questa storia ti piacerà.
+group_2:
+full: questa storia ti catturerà.
+non: questa storia ti afferrerà.
+group_3:
+full: questa storia ti afferrerà.
+non: questa storia ti attrarrà.",
+175,217it,"@build@ a defense on nothing but the accused person's reputation.
+youdao: Costruire una difesa solo sulla reputazione della persona accusata.
+google: costruire una difesa su nient'altro che sulla reputazione della persona accusata.
+opus: costruire una difesa su nient'altro che la reputazione dell'imputato.
+group_1:
+full: costruire una difesa solo sulla reputazione dell'accusato.
+non: si difendere solo sulla reputazione dell'accusato.
+group_2:
+full: fondare una difesa su nient'altro che la reputazione dell'imputato.
+non: costruire una difesa su nient'altro che sulla reputazione della persona accusata.
+group_3:
+full: @costruire@ una difesa solo sulla reputazione della persona accusata
+non: @creare@ una difesa solo sulla reputazione della persona accusata",
+176,244it,"he @flashed@ a$ 100 bill.
+youdao: Ha battuto un biglietto da 100 dollari.
+google: ha mostrato una banconota da 100 dollari.
+opus: Ha mostrato una banconota da 100 dollari.
+group_1:
+full: ha mostrato una banconota da 100 dollari. per un attimo
+non: ha mostrato una banconota da 100 dollari.
+group_2:
+full: ha mostrato una banconota da 100 dollari.
+non: ha flash una banconota da 100 dollari.
+group_3:
+full: ha mostrato una banconota da 100 dollari.
+non: ha preso una banconota da 100 dollari.",
+177,105it,"The cigar smoke @curled@ up at the ceiling.
+youdao: Il fumo del sigaro arricciato sul soffitto.
+google: Il fumo del sigaro saliva fino al soffitto.
+opus: Il fumo di sigaro si è raggomitolato al soffitto.
+group_1:
+full: il fumo del sigaro si arricciava verso il soffitto.
+non: il fumo del sigaro saliva verso il soffitto.
+group_2:
+full: il fumo del sigaro arricciato sul soffitto.
+non: il fumo del sigaro arricciato sul soffitto.
+group_3:
+full: il fumo del sigaro arricciato sul soffitto.
+non: il fumo del sigaro sale dal soffitto.",
+178,200it,"Tears @guttered@ down her face.
+youdao: Le lacrime le strangolarono il viso.
+google: Le lacrime le rigavano il viso.
+opus: Le lacrime le sgorgavano in faccia.
+group_1:
+full: le lacrime le rigarono il viso.
+non: le lacrime le scese lungo il viso.
+group_2:
+full: le lacrime le rigavano il viso.
+non: le lacrime le scorrevano il viso.
+group_3:
+non: le lacrime le scorrevano sul viso.
+part: le lacrime le rigavano il viso.",
+179,161it,"The author @recaptures@ an old idea here.
+youdao: L’autore ricattura qui una vecchia idea.
+google: L'autore riprende qui una vecchia idea.
+opus: L'autore riprende una vecchia idea qui.
+group_1:
+full: l’autore ricattura qui una vecchia idea.
+non: l'autore riprende una vecchia idea qui.
+group_2:
+full: l'autore riprende qui una vecchia idea.
+non: l'autore ha una vecchia idea di nuovo.
+group_3:
+full: l'autore riprende una vecchia idea qui.
+non: qui l'autore ribadisce una vecchia idea.",
+180,195it,"The company @matched@ the employees' contributions.
+youdao: L’azienda corrispondeva ai contributi dei dipendenti.
+google: L'azienda ha eguagliato i contributi dei dipendenti.
+opus: L'azienda corrispondeva ai contributi dei dipendenti.
+group_1:
+full: l'azienda corrisponde i contributi dei dipendenti.
+non: l'azienda ha eguagliato i contributi dei dipendenti.
+group_2:
+full: l'azienda ha eguagliato i contributi dei dipendenti.
+non: l'azienda corrispondeva ai contributi dei dipendenti.
+group_3:
+non: l’azienda corrispondeva ai contributi dei dipendenti.
+part: l'azienda ha eguagliato i contributi dei dipendenti.",
+181,116it,"@flood@ the market with tennis shoes.
+youdao: Inondare il mercato di scarpe da tennis.
+google: inondare il mercato di scarpe da tennis.
+opus: inondare il mercato con le scarpe da tennis.
+group_1:
+full: inondare il mercato di scarpe da tennis.
+non: riepire il mercato di scarpe da tennis.
+group_2:
+full: allagare il mercato con le scarpe da tennis.
+non: inondare il mercato di scarpe da tennis.
+group_3:
+full: inondare il mercato di scarpe da tennis
+non: riempire il mercato di scarpe da tennis",
+182,91it,"She @designed@ a good excuse for not attending classes that day.
+youdao: Ha progettato una buona scusa per non frequentare le lezioni quel giorno.
+google: Ha progettato una buona scusa per non frequentare le lezioni quel giorno.
+opus: Ha progettato una buona scusa per non frequentare le lezioni quel giorno.
+group_1:
+non: aveva trovato una buona scusa per non frequentare a lezione quel giorno.
+part: aveva escogitato una buona scusa per non frequentare a lezione quel giorno.
+group_2:
+full: ha trovato una buona scusa per non frequentare le lezioni quel giorno.
+non: ha progettato una buona scusa per non frequentare le lezioni quel giorno.
+group_3:
+full: ha escogitato una buona scusa per non frequentare le lezioni quel giorno.
+non: ha preparato una buona scusa per non frequentare le lezioni quel giorno.",
+183,4it,"The editors of the left- leaning paper @attacked@ the new House Speaker.
+youdao: I redattori del documento di sinistra attaccano il nuovo presidente della casa.
+google: I redattori del giornale di sinistra attaccarono il nuovo presidente della Camera.
+opus: I redattori della carta a sinistra hanno attaccato il nuovo Presidente della Camera.
+group_1:
+full: i redattori del giornale di sinistra hanno attaccato il nuovo presidente della camera.
+non: i redattori di questo giornale di sinistra hanno criticato il nuovo presidente della camera.
+group_2:
+full: i redattori del giornale di sinistra attaccarono il nuovo presidente della camera.
+non: i redattori del giornale di sinistra hanno affrontato il nuovo presidente della camera.
+group_3:
+full: i redattori del documento di sinistra attaccano il nuovo presidente della casa.
+non: i redattori della carta a sinistra hanno criticato il nuovo presidente della camera.",
+184,10it,"Don't @abuse@ the system.
+youdao: Non abusare del sistema.
+google: Non abusare del sistema.
+opus: Non abusare del sistema.
+group_1:
+full: non abusare del sistema.
+non: non fare cattivo uso del sistema.
+group_2:
+full: non abusare del sistema.
+non: non abusare del sistema.
+group_3:
+full: non abusare del sistema.
+non: non usare il sistema.",
+185,252it,"She @captured@ all the men's hearts.
+youdao: Ha catturato tutti i cuori degli uomini.
+google: Ha catturato tutti i cuori degli uomini.
+opus: Ha catturato tutti i cuori degli uomini.
+group_1:
+full: ha catturato il cuore di tutti gli uomini.
+non: lei attrae tutti gli uomini.
+group_2:
+full: ha imparato tutti i cuori degli uomini.
+non: ha catturato tutti i cuori degli uomini.
+group_3:
+full: ha catturato tutti i cuori degli uomini.
+non: ha conquistato il cuore di tutti gli uomini.",
+186,71it,"She @spelled@ her husband at the wheel.
+youdao: Ha scritto suo marito al volante.
+google: Ha scritto suo marito al volante.
+opus: Ha scritto suo marito al volante.
+group_1:
+non: ha preso il posto del suo marito al volante.
+part: ha sostituito suo marito al volante
+group_2:
+full: ha sostituito suo marito al volante.
+non: 
+group_3:
+full: ha scritto suo marito al volante.
+non: ha chiesto a suo marito di guidare.",
+187,218it,"Let them @match@ their best athletes against ours.
+youdao: Lasciali confrontare i loro migliori atleti con i nostri.
+google: Facciamogli confrontare i loro migliori atleti con i nostri.
+opus: Lasciate che combinino i loro migliori atleti con i nostri.
+group_1:
+full: si misurare i loro migliori atleti con noi.
+non: mettiamo a confronto i loro migliori atleti con noi.
+group_2:
+full: lasciali confrontare i loro migliori atleti con i nostri.
+non: lasciali comparare i loro migliori atleti con i nostri.
+group_3:
+non: lasciamoli competere con i nostri atleti con i loro migliori atleti.
+part: facciamogli confrontare i loro migliori atleti con i nostri.",
+188,134it,"The French try to @sell@ us their image as great lovers.
+youdao: I francesi cercano di venderci la loro immagine di grandi amanti.
+google: I francesi cercano di venderci la loro immagine di grandi amanti.
+opus: I francesi cercano di venderci la loro immagine di grandi amanti.
+group_1:
+full: i francesi cercano di venderci la loro immagine di grandi amanti.
+non: i francesi cercano di convimcerci la loro immagine di grandi amanti.
+group_2:
+full: i francesi cercano di offrirci la loro immagine di grandi amanti.
+non: i francesi cercano di trasmettere la loro immagine di grandi amanti.
+group_3:
+full: i francesi cercano di venderci la loro immagine di grandi amanti.
+non: i francesi stanno cercando di promuoverci l'immagine del loro grande amante.",
+189,268it,"We @rotate@ the lead soprano every night.
+youdao: Ruotiamo il soprano di piombo ogni notte.
+google: Ruotiamo il soprano principale ogni sera.
+opus: Ruotiamo il soprano di piombo ogni notte.
+group_1:
+full: ruotiamo il soprano di piombo ogni sera.
+non: ci alterniamo come il soprano di piombo ogni notte.
+group_2:
+full: ruotiamo il soprano di piombo ogni notte.
+non: il soprano solista viene sostituito ogni sera.
+group_3:
+full: ruotiamo il soprano di piombo ogni notte.
+non: cambiamo il soprano di piombo ogni notte.",
+190,210it,"The scientists had to @accommodate@ the new results with the existing theories.
+youdao: Gli scienziati dovevano adattare i nuovi risultati alle teorie esistenti.
+google: Gli scienziati hanno dovuto adattare i nuovi risultati alle teorie esistenti.
+opus: Gli scienziati dovevano accogliere i nuovi risultati con le teorie esistenti.
+group_1:
+full: gli scienziati hanno dovuto accogliere i nuovi risultati con le teorie esistenti.
+non: gli scienziati hanno dovuto adattare i nuovi risultati alle teorie esistenti.
+group_2:
+full: gli scienziati dovevano accettare i nuovi risultati con le teorie esistenti.
+non: gli scienziati dovevano accogliere i nuovi risultati con le teorie esistenti.
+group_3:
+full: gli scienziati dovevano accogliere i nuovi risultati con le teorie esistenti.
+non: gli scienziati dovevano adattare i nuovi risultati alle teorie esistenti.",
+191,180it,"@juggle@ an account so as to hide a deficit.
+youdao: Gioca un conto per nascondere un deficit.
+google: manipolare un conto in modo da nascondere un disavanzo.
+opus: manipolare un conto in modo da nascondere un deficit.
+group_1:
+full: destreggiare un conto in modo da nascondere un deficit.
+non: alterare un conto in modo da nascondere un deficit.
+group_2:
+full: manipolare un conto in modo da nascondere un disavanzo.
+non: giogare un conto in modo da nascondere un disavanzo.
+group_3:
+full: truccare un conto in modo da nascondere un disavanzo.
+non: manipolare un conto in modo da nascondere un deficit.",
+192,144it,"the rebels had @salted@ the fields with mines and traps.
+youdao: I ribelli avevano salato i campi con mine e trappole.
+google: i ribelli avevano salato i campi con mine e trappole.
+opus: I ribelli avevano salato i campi con mine e trappole.
+group_1:
+non: i ribelli avevano posato i campi di mine e trappole.
+part: i ribelli avevano cosparso i campi di mine e trappole.
+group_2:
+full: i ribelli avevano cosparso i campi di mine e trappole.
+non: i ribelli avevano riempito i campi di mine e trappole.
+group_3:
+non: i ribelli avevano salato i campi con mine e trappole.
+part: i ribelli avevano messo i campi con mine e trappole.",
+193,289it,"People were @pouring@ out of the theater.
+youdao: La gente usciva dal teatro.
+google: La gente stava uscendo dal teatro.
+opus: La gente sgorgava dal teatro.
+group_1:
+full: la gente si riversava fuori dal teatro.
+non: la gente usciva dal teatro.
+group_2:
+full: la gente usciva dal teatro.
+non: la gente versava dal teatro.
+group_3:
+full: la gente sgorgava dal teatro.
+non: la gente usciva dal teatro.",
+194,81it,"The residents of this village @adhered@ to Catholicism.
+youdao: Gli abitanti di questo villaggio aderivano al cattolicesimo.
+google: Gli abitanti di questo villaggio aderirono al cattolicesimo.
+opus: Gli abitanti di questo villaggio hanno aderito al cattolicesimo.
+group_1:
+full: gli abitanti di questo villaggio aderivano al cattolicesimo.
+non: gli abitanti di questo villaggio abbracciavano il cattolicesimo.
+group_2:
+full: gli abitanti di questo villaggio credenza al cattolicesimo.
+non: gli abitanti di questo villaggio aderivano al cattolicesimo.
+group_3:
+full: gli abitanti di questo villaggio aderivano al cattolicesimo.
+non: gli abitanti di questo villaggio credono nel cattolicesimo.",
+195,88it,"@sow@ suspicion or beliefs.
+youdao: Seminare sospetti o credenze.
+google: seminare sospetti o credenze.
+opus: seminare sospetti o credenze.
+group_1:
+full: seminare sospetti o credenze.
+non: fomentare sospetti ocredenze.
+group_2:
+full: seminare sospetti o credenze.
+non: insinuare sospetti o convinzioni.
+group_3:
+full: seminare sospetti o credenze.
+non: suscitare sospetti o credenze.",
+196,57it,"only few plants can @immigrate@ to the island.
+youdao: Solo poche piante possono immigrare sull’isola.
+google: solo poche piante possono immigrare sull'isola.
+opus: Solo poche piante possono emigrare sull'isola.
+group_1:
+full: solo poche piante possono immigrare sull’isola.
+non: solo alcune piante possono essere trapiantate sull'isola
+group_2:
+full: solo poche piante possono emigrare sull'isola.
+non: solo poche piante possono immigrare sull'isola.
+group_3:
+full: solo poche piante possono immigrare sull'isola.
+non: solo poche piante possono essere trapiantate su quest'isola.",
+197,18it,"The champagne @flowed@ at the wedding.
+youdao: Lo champagne galleggiò al matrimonio.
+google: Lo champagne scorreva al matrimonio.
+opus: Lo champagne scorreva al matrimonio.
+group_1:
+non: lo champagne spruzza al matrimonio.
+part: lo champagne vola al matrimonio.
+group_2:
+full: lo champagne scorreva a fiumi al matrimonio.
+non: molto champagne servito al matrimonio
+group_3:
+full: lo champagne scorreva al matrimonio.
+non: lo champagne traboccava al matrimonio.",
+198,7it,"The conversation @gravitated@ towards politics.
+youdao: La conversazione si è spostata verso la politica.
+google: La conversazione gravitava sulla politica.
+opus: La conversazione gravitava verso la politica.
+group_1:
+full: la conversazione ha gravitato intorno alla politica.
+non: la comunicazione si rivolge alla politica.
+group_2:
+full: la conversazione ha gravitato sulla politica.
+non: la conversazione si è spostata verso la politica.
+group_3:
+full: la conversazione gravitava verso la politica.
+non: la conversazione tende alla politica.",
+199,112it,"They @clawed@ their way to the top of the mountain.
+youdao: Si sono aggrappati alla cima della montagna.
+google: Si fecero strada con gli artigli fino alla cima della montagna.
+opus: Si sono avvicinati alla cima della montagna.
+group_1:
+non: loro salirono in cima alla montagna.
+part: loro si arrampicarono su per la cima alla montagna.
+group_2:
+full: si sono aggrappati alla cima della montagna.
+non: si sono avvicinati alla cima della montagna.
+group_3:
+full: si fecero strada con gli artigli fino alla cima della montagna.
+non: sono saliti in cima alla montagna con grande difficoltà.",
+200,182it,"The principal @visited@ his rage on the students.
+youdao: Il preside ha visitato la sua rabbia sugli studenti.
+google: Il preside ha sfogato la sua rabbia sugli studenti.
+opus: Il preside ha visitato la sua rabbia sugli studenti.
+group_1:
+non: il preside ha sfogato la sua rabbia sugli studenti.
+part: il preside ha riversato la sua rabbia sugli studenti.
+group_2:
+full: il preside ha sfogato la sua rabbia sugli studenti.
+non: il preside ha sfogato la sua rabbia sugli studenti.
+group_3:
+full: il preside ha visitato la sua rabbia sugli studenti.
+non: il preside ha sfogato la sua rabbia sugli studenti.",
+201,255it,"The current boom in the economy @sucked@ many workers in from abroad.
+youdao: L’attuale boom dell’economia ha risucchiato molti lavoratori dall’estero.
+google: L'attuale boom dell'economia ha risucchiato molti lavoratori dall'estero.
+opus: L'attuale boom dell'economia ha risucchiato molti lavoratori dall'estero.
+group_1:
+full: l'attuale boom economico ha risucchiato molti lavoratori dall'estero.
+non: l'attuale boom economico ha avuto un impatto su molti lavoratori dall'estero.
+group_2:
+full: l'attuale boom dell'economia ha assorbito molti lavoratori dall'estero.
+non: l'attuale boom dell'economia ha risucchiato molti lavoratori dall'estero.
+group_3:
+full: l'attuale boom dell'economia ha risucchiato molti lavoratori dall'estero.
+non: l'attuale boom dell'economia ha attirato molti lavoratori dall'estero.",
+202,58it,"They @sifted@ through the job candidates.
+youdao: Hanno sorpassato i candidati al lavoro.
+google: Hanno passato al setaccio i candidati al lavoro.
+opus: Hanno setacciato i candidati al lavoro.
+group_1:
+full: hanno passato al setaccio i candidati al lavoro.
+non: hanno vagliato i candidati al lavoro.
+group_2:
+full: hanno selezionato i candidati al lavoro.
+non: hanno sorpassato i candidati al lavoro.
+group_3:
+full: hanno setacciato i candidati al lavoro.
+non: hanno vagliato attentamente i candidati.",
+203,118it,"@wallow@ in your success!
+youdao: Permetti il tuo successo!
+google: goditi il tuo successo!
+opus: Ingoia il tuo successo!
+group_1:
+non: godivi il tuo successo!
+part: crogiolatevi nel vostro successo!
+group_2:
+full: asseconda il tuosucesso!
+non: ingoia il tuo successo!
+group_3:
+full: immergiti nel tuo successo!
+non: goditi il tuo successo!",
+204,159it,"This job doesn't @match@ my dreams.
+youdao: Questo lavoro non corrisponde ai miei sogni.
+google: Questo lavoro non corrisponde ai miei sogni.
+opus: Questo lavoro non corrisponde ai miei sogni.
+group_1:
+full: questo lavoro non corrisponde ai miei sogni.
+non: questo lavoro non combacia con i miei sogni.
+group_2:
+full: questo lavoro non corrisponde ai miei sogni.
+non: questo lavoro non abbinare ai miei sogni.
+group_3:
+full: questo lavoro non corrisponde ai miei sogni.
+non: questo lavoro è incompatibile con i miei sogni.",
+205,298it,"The war @uprooted@ many people.
+youdao: La guerra ha sradicato molte persone.
+google: La guerra ha sradicato molte persone.
+opus: La guerra ha sradicato molte persone.
+group_1:
+full: la guerra ha sradicato molte persone.
+non: la guerra ha migrato molte persone.
+group_2:
+full: la guerra ha sradicato molte persone.
+non: la guerra ha ucciso molte persone.
+group_3:
+full: la guerra ha sradicato molte persone.
+non: la guerra ha causato lo sfollamento di molte persone.",
+206,186it,"This drug will @sharpen@ your vision.
+youdao: Questo farmaco renderà più nitida la vista.
+google: Questo farmaco acuirà la tua vista.
+opus: Questo farmaco affilera' la tua vista.
+group_1:
+full: questo farmaco aguzza la vista.
+non: questo farmaco rende più acuta la vista.
+group_2:
+full: questo farmaco renderà più nitida la vista.
+non: questo farmaco affilera' la tua vista.
+group_3:
+full: questo farmaco renderà più nitida la vista.
+non: questo farmaco migliorerà la tua vista.",
+207,162it,"He @showered@ her with presents.
+youdao: Lui la fece inondare di regali.
+google: L'ha inondata di regali.
+opus: Le ha fatto la doccia con dei regali.
+group_1:
+full: l'ha sommersa di regali.
+non: lei l’ha allagata con i regali.
+group_2:
+full: l'ha esibito di regali.
+non: lui la fece inondare di regali.
+group_3:
+non: le ha dato molti regali.
+part: l'ha inondata di regali.",
+208,278it,"her resistance @melted@ under his charm.
+youdao: La sua resistenza si dissolse sotto il suo fascino.
+google: la sua resistenza si sciolse sotto il suo fascino.
+opus: La sua resistenza si sciolse sotto il suo fascino.
+group_1:
+full: la sua resistenza si è sciolta sotto il suo fascino.
+non: la sua resistenza ha svanito sotto il suo fascino.
+group_2:
+full: la sua resistenza si scompare sotto il suo fascino.
+non: la sua resistenza si sciolse sotto il suo fascino.
+group_3:
+full: la sua resistenza @si sciolse@ sotto il suo fascino.
+non: la sua resistenza @scomparve@ sotto il suo fascino",
+209,24it,"Sales were @climbing@ after prices were lowered.
+youdao: Le vendite aumentavano dopo la diminuzione dei prezzi.
+google: Le vendite sono aumentate dopo che i prezzi sono stati abbassati.
+opus: Le vendite stavano salendo dopo che i prezzi sono stati abbassati.
+group_1:
+full: le vendite stavano salendo dopo che i prezzi sono stati abbassati.
+non: le vendite stavano aumentando dopo che i prezzi sono stati abbassati.
+group_2:
+full: le vendite stavano salendo dopo che i prezzi sono stati abbassati.
+non: le vendite aumentavano dopo che i prezzi sono stati abbassati.
+group_3:
+full: le vendite stavano salendo dopo che i prezzi sono stati abbassati.
+non: le vendite aumentavano dopo la diminuzione dei prezzi.",
+210,19it,"A hot soup will @revive@ me.
+youdao: Una zuppa calda mi ravviverà.
+google: Una zuppa calda mi farà rivivere.
+opus: Una zuppa calda mi fara' rivivere.
+group_1:
+full: una zuppa calda mi ravviverà.
+non: una zuppa calda mi aiuterà.
+group_2:
+full: una zuppa calda mi ravviverà.
+non: una zuppa calda mi farà rivivere.
+group_3:
+full: una zuppa calda mi ravviverà.
+non: una zuppa calda mi ringiovaniva.",
+211,90it,"The mother @drinks@ in every word of her son on the stage.
+youdao: La madre beve in ogni parola di suo figlio sul palco.
+google: La madre beve ogni parola di suo figlio sul palco.
+opus: La madre beve in ogni parola di suo figlio sul palco.
+group_1:
+full: la madre beve in ogni parola di suo figlio sul palco.
+non: la madre beve ogni parola di suo figlio sul palco.
+group_2:
+full: la madre soddisfare in ogni parola di suo figlio sul palco.
+non: la madre beve ogni parola di suo figlio sul palco.
+group_3:
+full: la madre beve in ogni parola di suo figlio sul palco.
+non: la madre ascoltava attentamente ogni parola che suo figlio diceva sul palco.",
+212,296it,"the workers @spell@ every four hours.
+youdao: I lavoratori scandiscono ogni quattro ore.
+google: i lavoratori scrivono ogni quattro ore.
+opus: i lavoratori si pronunciano ogni quattro ore.
+group_1:
+full: i lavoratori cambiano ogni quattro ore.
+non: i lavoratori spicciolano ogni quattro ore.
+group_2:
+full: i lavoratori spostano ogni quattro ore.
+non: i lavoratori scrivono ogni quattro ore.
+group_3:
+full: i lavoratori si pronunciano ogni quattro ore.
+non: i lavoratori scrivono ogni quattro ore.",
+213,190it,"The bus @thundered@ down the road.
+youdao: L’autobus è precipitato lungo la strada.
+google: L'autobus rombava lungo la strada.
+opus: L'autobus ha tuonato lungo la strada.
+group_1:
+full: l'autobus ha tuonato lungo la strada.
+non: l'autobus ha mosso lungo la strada.
+group_2:
+full: l'autobus rombava lungo la strada.
+non: l’autobus è precipitato lungo la strada.
+group_3:
+full: : l'autobus ha tuonato lungo la strada.
+non: l'autobus rombava lungo la strada.",
+214,297it,"He @transformed@ into a monster.
+youdao: Si è trasformato in un mostro.
+google: Si è trasformato in un mostro.
+opus: Si e' trasformato in un mostro.
+group_1:
+full: si è trasformato in un mostro.
+non: si è cambiato in un mostro.
+group_2:
+full: si è trasformato in un mostro.
+non: si è convertito in un mostro.
+group_3:
+full: si è trasformato in un mostro.
+non: e' diventato un mostro.",
+215,64it,"The hiker @negociated@ the high mountain pass.
+youdao: L’hiker negoziò il valico di alta montagna.
+google: L'escursionista ha negoziato l'alto passo di montagna.
+opus: L'escursionista ha negoziato il passo di alta montagna.
+group_1:
+full: l'escursionista ha negoziatol'alto passo di montagna.
+non: l'escursionista ha passato l'alto passo di montagna.
+group_2:
+full: l'escursionista ha superato il passo di alta montagna.
+non: l'escursionista ha percorso il passo di alta montagna.
+group_3:
+full: l'escursionista ha negoziato l'alto passo di montagna.
+non: l'escursionista ha cancellato l'alto passo di montagna.",
+216,308it,"The Senator @steamrollered@ the bill to defeat.
+youdao: Il senatore ha buttato via il disegno di legge per sconfiggerlo.
+google: Il senatore ha schiacciato il disegno di legge per sconfiggerlo.
+opus: Il senatore ha rullato il conto per sconfiggere.
+group_1:
+full: il senatore ha schiacciato come un rulli vapore il disegno di legge per sconfiggere.
+non: il senatore ha rullato il conto per sconfiggere.
+group_2:
+full: il senatore ha obbligato il disegno di legge per sconfiggerlo.
+non: il senatore ha schiacciato il disegno di legge per sconfiggerlo.
+group_3:
+full: il senatore ha schiacciato il disegno di legge per sconfiggerlo.
+non: il senatore ha condannato il disegno di legge per sconfiggerlo.",
+217,46it,"We @poured@ money into the education of our children.
+youdao: Abbiamo investito denaro nell’istruzione dei nostri figli.
+google: Abbiamo versato denaro nell'istruzione dei nostri figli.
+opus: Abbiamo versato denaro nell'educazione dei nostri figli.
+group_1:
+full: abbiamo versato denaro nell'istruzione dei nostri figli.
+non: abbiamo investito denaro nell’istruzione dei nostri figli.
+group_2:
+full: abbiamo investito denaro nell’istruzione dei nostri figli.
+non: abbiamo versato denaro nell'educazione dei nostri figli.
+group_3:
+full: abbiamo versato denaro nell'istruzione dei nostri figli.
+non: abbiamo investito denaro nell’istruzione dei nostri figli.",
+218,306it,"a man whose name is permanently @stamped@ on our maps.
+youdao: Un uomo il cui nome è impresso in modo permanente sulle nostre mappe.
+google: un uomo il cui nome è impresso in modo permanente sulle nostre mappe.
+opus: Un uomo il cui nome e' permanentemente timbrato sulle nostre mappe.
+group_1:
+full: un uomo il cui nome è stampato permanente sulle nostre mappe.
+non: un uomo il cui nome è impresso in modo permanente sulle nostre mappe.
+group_2:
+full: un uomo il cui nome e' permanentemente timbrato sulle nostre mappe.
+non: un uomo il cui nome è impresso in modo permanente sulle nostre mappe.
+group_3:
+full: un uomo il cui nome e' permanentemente timbrato sulle nostre mappe.
+non: un uomo il cui nome è impresso in modo permanente sulle nostre mappe.",
+219,26it,"The professor @plunged@ his students into the study of the Italian text.
+youdao: Il professore ha immerso i suoi studenti nello studio del testo italiano.
+google: Il professore immergeva i suoi studenti nello studio del testo italiano.
+opus: Il professore ha immerso i suoi studenti nello studio del testo italiano.
+group_1:
+full: il professore ha immerso i suoi studenti nello studio del testo italiano.
+non: il professore ha dedicato i suoi studenti nello studio del testo italiano.
+group_2:
+full: il professore ha immerso i suoi studenti nello studio del testo italiano.
+non: il professore ha chiesto i suoi studenti di studiare il testo italiano.
+group_3:
+full: il professore ha immerso i suoi studenti nello studio del testo italiano.
+non: il professore ha spinto i suoi studenti nello studio del testo italiano.",
+220,119it,"The problem @roots@ in her depression.
+youdao: Il problema nasce dalla sua depressione.
+google: Il problema ha radici nella sua depressione.
+opus: Il problema ha radici nella sua depressione.
+group_1:
+full: il problema ha radici nella sua depressione.
+non: il problema nasce dalla sua depressione.
+group_2:
+full: il problema nasce dalla sua depressione.
+non: il problema ha radici nella sua depressione.
+group_3:
+full: il problema ha radici nella sua depressione
+non: il problema nasce dalla sua depressione.",
+221,187it,"The path @climbed@ all the way to the top of the hill.
+youdao: Il sentiero salì fino in cima alla collina.
+google: Il sentiero è salito fino alla cima della collina.
+opus: Il sentiero si arrampicò fino alla cima della collina.
+group_1:
+full: il sentiero si arrampicò fino alla cima della collina.
+non: il sentiero salì fino in cima alla collina.
+group_2:
+full: il sentiero salì fino in cima alla collina.
+non: il sentiero si arrampicò fino alla cima della collina.
+group_3:
+full: il sentiero si arrampicò fino alla cima della collina.
+non: il sentiero è salito fino alla cima della collina.",
+222,290it,"the butter cream @smothered@ the cake.
+youdao: La crema di burro ha soffocato la torta.
+google: la crema al burro ha soffocato la torta.
+opus: la crema di burro ha soffocato la torta.
+group_1:
+full: la crema di burro ha ricoperto la torta.
+non: la crema di burro ha bollato la torta.
+group_2:
+full: la crema al burro ha avvolto la torta.
+non: la crema al burro ha ricoperto la torta.
+group_3:
+full: la crema di burro ha soffocato la torta.
+non: la crema ha incollato la torta.",
+223,100it,"Our economy @precipitated@ into complete ruin.
+youdao: La nostra economia precipitò nella rovina totale.
+google: La nostra economia precipitò nella completa rovina.
+opus: La nostra economia è precipitata in rovina completa.
+group_1:
+full: la nostra economia precipitò nella rovina totale.
+non: la nostra economia assistò nella rovina totale.
+group_2:
+full: la nostra economia precipitò nella rovina totale.
+non: la nostra economia accadde nella rovina totale.
+group_3:
+full: la nostra economia è precipitata in rovina completa.
+non: la nostra economia sta accelerando in rovina completa.",
+224,141it,"The bullets @whistled@ past him.
+youdao: Le pallottole fischiavano davanti a lui.
+google: I proiettili gli fischiarono accanto.
+opus: I proiettili gli fischiavano addosso.
+group_1:
+full: i proiettili gli fischiarono accanto.
+non: i proiettili gli passarono accanto.
+group_2:
+full: i proiettili gli fischiarono accanto.
+non: i proiettili gli sorvolano accanto.
+group_3:
+full: i proiettili gli fischiarono accanto.
+non: il proiettile gli è volato davanti.",
+225,188it,"@key@ one's actions to the voters' prevailing attitude.
+youdao: Azioni chiave per l’atteggiamento prevalente degli elettori.
+google: adattare le proprie azioni all'atteggiamento prevalente degli elettori.
+opus: Le azioni chiave per l'atteggiamento prevalente degli elettori.
+group_1:
+full: le azioni chiave per l'atteggiamento prevalente degli elettori.
+non: le azioni sono importanti per l'atteggiamento prevalente degli elettori.
+group_2:
+full: azioni chiave per l’atteggiamento prevalente degli elettori.
+non: 
+group_3:
+full: l'atteggiamento prevalente degli elettori.
+non: l'atteggiamento prevalente degli elettori.",
+226,54it,"She @radiates@ happiness.
+youdao: Emana felicità.
+google: Irradia felicità.
+opus: Lei irradia felicità.
+group_1:
+full: irradia felicità.
+non: dimostra felicità.
+group_2:
+full: irradia felicità.
+non: emana la felicita' .
+group_3:
+full: irradia felicità
+non: emana felicità",
+227,176it,"One can never fully @repair@ the suffering and losses of the Jews in the Third Reich.
+youdao: Non si potranno mai riparare completamente le sofferenze e le perdite degli ebrei del terzo Reich.
+google: Non si potranno mai riparare completamente le sofferenze e le perdite degli ebrei nel Terzo Reich.
+opus: Non si possono mai riparare completamente le sofferenze e le perdite degli ebrei nel Terzo Reich.
+group_1:
+full: non si potranno mai riparare completamente le sofferenze e le perdite degli ebrei del terzo reich.
+non: non si potranno mai accomodare completamentele sofferenze e le perdite degli ebrei del terzo reich.
+group_2:
+full: non si potranno mai riparare completamente le sofferenze e le perdite degli ebrei del terzo reich.
+non: non si potrà mai ripagare completamente la sofferenza e le perdite degli ebrei nel terzo reich.
+group_3:
+full: non si possono mai riparare completamente le sofferenze e le perdite degli ebrei nel terzo reich.
+non: non si possono mai recuperare completamente le sofferenze e le perdite degli ebrei nel terzo reich.",
+228,146it,"He @absorbed@ the costs for the accident.
+youdao: Lui assorbiva i costi per l’incidente.
+google: Ha assorbito i costi dell'incidente.
+opus: Ha assorbito i costi dell'incidente.
+group_1:
+full: ha assorbito i costi dell'incidente.
+non: ha assunto i costi dell'incidente.
+group_2:
+full: ha assorbito i costi dell'incidente.
+non: ha accettato le spese per l'incidente.
+group_3:
+full: ha assorbito i costi dell'incidente.
+non: ha speso i costi nell'incidente.",
+229,85it,"Her husband often @abuses@ alcohol.
+youdao: Suo marito spesso abusa dell’alcol.
+google: Suo marito abusa spesso di alcol.
+opus: Suo marito spesso abusa dell'alcol.
+group_1:
+full: suo marito abusa spesso di alcol.
+non: suo marito beve spesso di alcol.
+group_2:
+full: suo marito spesso bere molto dell'alcol.
+non: suo marito spesso abusa dell'alcol.
+group_3:
+full: suo marito spesso abusa dell'alcol.
+non: suo marito spesso consuma eccessivo di alcol",
+230,263it,"He @heaped@ him with work.
+youdao: Lui lo guardò con il lavoro.
+google: Lo riempiva di lavoro.
+opus: L'ha riempito di lavoro.
+group_1:
+full: lo riempiva di lavoro.
+non: lo impila di lavoro.
+group_2:
+full: lo ha caricato di lavoro.
+non: lo riempiva di lavoro.
+group_3:
+non: gli è stato assegnato molto lavoro.
+full: l'ha riempito di lavoro.",
+231,121it,"This office is @buzzing@ with activity.
+youdao: Questo ufficio è pieno di attività.
+google: Questo ufficio è pieno di attività.
+opus: Questo ufficio e' pieno di attivita'.
+group_1:
+full: questo ufficio ferve l'attività.
+non: questo ufficio e' pieno di attività.
+group_2:
+full: questo ufficio è pieno di attività.
+non: questo ufficio è animato da un'intensa attività.
+group_3:
+non: questo ufficio e' pieno di attivita'.
+full: questo ufficio sta ronzando con l’attivita'.",
+232,67it,"The critics @puffed@ up this Broadway production.
+youdao: I critici gonfiarono questa produzione su larga scala.
+google: I critici hanno gonfiato questa produzione di Broadway.
+opus: I critici hanno gonfiato questa produzione di Broadway.
+group_1:
+full: i critici hanno gonfiato questa produzione di broadway.
+non: i critici hanno dilatato questa produzionedi broadway.
+group_2:
+full: i critici hanno gonfiato questa produzione di broadway.
+non: i critici hanno soffiato questa produzione di broadway.
+group_3:
+full: i critici hanno gonfiato questa produzione di broadway.
+non: i critici hanno esagerato la produzione di broadway.",
+233,248it,"@nagging@ concerns and doubts.
+youdao: Angoscianti timori e dubbi.
+google: preoccupazioni e dubbi assillanti.
+opus: Nutrire preoccupazioni e dubbi.
+group_1:
+full: preoccupazioni e dubbi assillanti.
+non: angoscianti timori e dubbi.
+group_2:
+full: preoccupazioni e dubbi assillanti.
+non: nutrire preoccupazioni e dubbi.
+group_3:
+full: preoccupazioni e dubbi assillanti.
+non: tormentando preoccupazioni e dubbi.",
+234,53it,"The crisis @precipitated@ by Russia's revolution.
+youdao: La crisi è precipitata dalla rivoluzione russa.
+google: La crisi precipitata dalla rivoluzione russa.
+opus: La crisi è precipitata dalla rivoluzione russa.
+group_1:
+full: la crisi è precipitata dalla rivoluzione russa.
+non: la crisi è assistita dalla rivoluzione russa.
+group_2:
+full: la crisi è precipitata dalla rivoluzione russa.
+non: la crisi è provocata dalla rivoluzione russa.
+group_3:
+full: la crisi è precipitata dalla rivoluzione russa.
+non: la crisi è suscitata dalla rivoluzione russa.",
+235,205it,"The war @inflated@ the economy.
+youdao: La guerra gonfiò l’economia.
+google: La guerra ha gonfiato l'economia.
+opus: La guerra ha gonfiato l'economia.
+group_1:
+full: la guerra ha gonfiato l'economia.
+non: la guerra ha dilatato l'economia.
+group_2:
+full: la guerra gonfiò l’economia.
+non: la guerra ha inflazionato l'economia.
+group_3:
+full: la guerra ha gonfiato l'economia.
+non: la guerra ha fatto l'economia inflazionare.",
+236,48it,"The latest intelligence is @flashed@ to all command posts.
+youdao: Le ultime informazioni vengono inviate a tutti i posti di comando.
+google: L'intelligence più recente viene trasmessa a tutti i posti di comando.
+opus: L'ultima intelligenza viene trasmessa a tutti i posti di comando.
+group_1:
+full: le ultime informazioni sono emesse a tutti i posti di comando.
+non: l'intelligence più recente viene trasmessa a tutti i posti di comando.
+group_2:
+full: no
+non: l'ultima intelligenza viene trasmessa a tutti i posti di comando.
+group_3:
+full: le ultime informazioni vengono inviate a tutti i posti di comando.
+non: no",
+237,52it,"The government @floated@ the ruble for a few months.
+youdao: Il governo ha fatto fallire il rublo per qualche mese.
+google: Il governo ha lanciato il rublo per alcuni mesi.
+opus: Il governo ha lanciato il rublo per alcuni mesi.
+group_1:
+full: il governo fece galleggiare il rublo per alcuni mesi.
+non: il governo ha fatto fallire il rublo per qualche mese.
+group_2:
+full: no
+non: il governo ha fluttuato il rublo per alcuni mesi.
+group_3:
+full: il governo ha fatto fluttuare il rublo per diversi mesi.
+non: il governo ha lanciato il rublo per alcuni mesi.",
+238,103it,"This experience @transformed@ her completely.
+youdao: Questa esperienza l’ha trasformata completamente.
+google: Questa esperienza l'ha trasformata completamente.
+opus: Questa esperienza l'ha trasformata completamente.
+group_1:
+full: questa esperienza l'ha trasformata completamente.
+non: questa esperienza l'ha cambiata completamente.
+group_2:
+full: questa esperienza l’ha trasformata completamente.
+non: questa esperienza la cambiò completamente.
+group_3:
+full: questa esperienza l'ha trasformata completamente.
+non: questa esperienza l'ha alterato completamente.",
+239,120it,"The oscillator @hunts@ about the correct frequency.
+youdao: L’oscillatore insegue la frequenza corretta.
+google: L'oscillatore cerca la frequenza corretta.
+opus: L'oscillatore caccia circa la frequenza corretta.
+group_1:
+full: l'oscillatore caccia circa la frequenza corretta.
+non: l’oscillatore insegue la frequenza corretta.
+group_2:
+full: l'oscillatore caccia circa la frequenza corretta.
+non: l'oscillatore cerca la frequenza corretta.
+group_3:
+full: l’oscillatore insegue la frequenza corretta.
+non: l'oscillatore cerca la frequenza corretta.",
+240,235it,"He @locked@ his hands around her neck.
+youdao: Le chiuse le mani attorno al collo.
+google: Le strinse le mani intorno al collo.
+opus: Le ha chiuso le mani intorno al collo.
+group_1:
+full: le ha chiuso le mani intorno al collo.
+non: le strinse le mani intorno al collo.
+group_2:
+full: le ha cinto le mani intorno al collo.
+non: le chiuse le mani attorno al collo.
+group_3:
+full: le ha chiuso le mani intorno al collo.
+non: le strinse le mani intorno al collo.",
+241,274it,"The guy hanging around the school is @pushing@ drugs.
+youdao: Il tizio appeso intorno alla scuola sta spingendo delle droghe.
+google: Il tizio che gira per la scuola spaccia droga.
+opus: Il tizio che gira per la scuola sta facendo uso di droghe.
+group_1:
+full: il tizio che gira per la scuola spaccia droga.
+non: il tizio appeso intorno alla scuola sta spingendo delle droghe.
+group_2:
+full: il tizio che gira per la scuola spaccia droga.
+non: il tizio che gira per la scuola vende droga.
+group_3:
+full: il tizio che gira per la scuola spaccia droga.
+non: il tizio che gira per la scuola vende droga.",
+242,309it,"The bridge broke and @precipitated@ the train into the river below.
+youdao: Il ponte si ruppe e fece precipitare il treno nel fiume sottostante.
+google: Il ponte si ruppe e fece precipitare il treno nel fiume sottostante.
+opus: Il ponte ha rotto e precipitato il treno nel fiume sottostante.
+group_1:
+full: il ponte si ruppe e fece precipitare il treno nel fiume sottostante.
+non: il ponte si ruppe e fece assistare il treno nel fiume sottostante.
+group_2:
+full: il ponte si ruppe e fece cadere il treno nel fiume sottostante.
+non: il ponte si ruppe e fece precipitare il treno nel fiume sottostante.
+group_3:
+full: il ponte si ruppe e fece precipitare il treno nel fiume sottostante.
+non: il ponte si ruppe e il treno cadde nel fiume sottostante.",
+243,280it,"The bad news @shook@ her hopes.
+youdao: Le cattive notizie scuotevano le sue speranze.
+google: La cattiva notizia ha scosso le sue speranze.
+opus: La cattiva notizia ha scosso le sue speranze.
+group_1:
+full: le cattive notizie scuotevano le sue speranze.
+non: le cattive notizie agitavano le sue speranze.
+group_2:
+full: la cattiva notizia ha scosso le sue speranze.
+non: no.
+group_3:
+full: le cattive notizie hanno scosso le sue speranze.
+non: la cattiva notizia ha indebolito le sue speranze.",
+244,114it,"The liberal party @pushed@ for reforms.
+youdao: Il partito liberale ha spinto per le riforme.
+google: Il partito liberale ha spinto per le riforme.
+opus: Il partito liberale ha spinto per le riforme.
+group_1:
+full: il partito liberale ha spinto per le riforme.
+non: il partito liberale ha promosso per le riforme.
+group_2:
+full: the liberal party @pushed@ for reforms.
+non: il partito liberale ha insistito per le riforme.
+group_3:
+full: il partito liberale ha spinto per le riforme.
+non: i liberali stimolarono le riforme.",
+245,213it,"The new measures @deflated@ the economy.
+youdao: Le nuove misure hanno sgonfiato l’economia.
+google: Le nuove misure hanno sgonfiato l'economia.
+opus: Le nuove misure hanno sgonfiato l'economia.
+group_1:
+full: le nuove misure hanno sgonfiato l’economia.
+non: le nuove misure hanno disperato l’economia.
+group_2:
+full: le nuove misure hanno sgonfiato l’economia.
+non: le nuove misure hanno fatto bassare l'economia.
+group_3:
+full: le nuove misure hanno ridotto l’economia.
+non: le nuove misure hanno sgonfiato l’economia.",
+246,5it,"We @rotate@ the crops so as to maximize the use of the soil.
+youdao: Ruotiamo le colture in modo da massimizzare l’uso del suolo.
+google: Ruotiamo le colture in modo da massimizzare l'utilizzo del suolo.
+opus: Ruotiamo le colture in modo da massimizzare l'uso del terreno.
+group_1:
+full: ruotiamo le colture in modo da massimizzare l'utilizzo del suolo.
+non: coltiviamo le colture in modo da massimizzare l'utilizzo del suolo.
+group_2:
+full: no
+non: ruotiamo le colture in modo da massimizzare l’uso del suolo.
+group_3:
+full: ruotiamo le colture in modo da massimizzare l’uso del suolo.
+non: ruotiamo le colture in modo da massimizzare l’uso del suolo.",
+247,14it,"This @poses@ an interesting question.
+youdao: Questo pone una domanda interessante.
+google: Questo pone una domanda interessante.
+opus: Questo pone una domanda interessante.
+group_1:
+full: questo pone una domanda interessante.
+non: questo adducca una domanda interessante.
+group_2:
+full: questo pone una domanda interessante.
+non: questo comporta una domanda interessante.
+group_3:
+full: questo pone una domanda interessante.
+non: ciò produce una domanda interessante.",
+248,76it,"She @clawed@ the doorknob.
+youdao: Lei strinse la maniglia della porta.
+google: Ha artigliato la maniglia della porta.
+opus: Ha graffiato la maniglia della porta.
+group_1:
+full: ha graffiato la maniglia della porta.
+non: ha artigliato la maniglia della porta.
+group_2:
+full: ha graffiato la maniglia della porta.
+non: lei strinse la maniglia della porta.
+group_3:
+full: ha artigliato la maniglia della porta.
+non: ha graffiato la maniglia della porta.",
+249,178it,"The old cheese was @crawling@ with maggots.
+youdao: Il vecchio formaggio era pieno di vermi.
+google: Il vecchio formaggio brulicava di vermi.
+opus: Il vecchio formaggio brulicava di vermi.
+group_1:
+full: il vecchio formaggio brulicava di vermi.
+non: il vecchio formaggio era pieno di vermi.
+group_2:
+full: il vecchio formaggio brulicava di vermi.
+non: il vecchio formaggio era pieno di vermi.
+group_3:
+full: il vecchio formaggio brulicava di vermi.
+non: il vecchio formaggio strisciava con vermi",
+250,222it,"She was @crushed@ by his refusal of her invitation.
+youdao: È stata schiacciata dal suo rifiuto del suo invito.
+google: Era schiacciata dal suo rifiuto del suo invito.
+opus: E' stata schiacciata dal suo rifiuto del suo invito.
+group_1:
+full: è stata schiacciata dal suo rifiuto del suo invito.
+non: è stata pressa dal suo rifiuto del suo invito.
+group_2:
+full: era schiacciata dal suo rifiuto del suo invito.
+non: ha rifiutato il suo invito, il che l'ha distrutta.
+group_3:
+non: era rattristato per il suo rifiuto del suo invito.
+full: e' stata schiacciata dal suo rifiuto del suo invito.",
+251,206it,"Our new synthetic fabric @breathes@ and is perfect for summer wear.
+youdao: Il nostro nuovo tessuto sintetico respira ed è perfetto per l’usura estiva.
+google: Il nostro nuovo tessuto sintetico respira ed è perfetto per l'abbigliamento estivo.
+opus: Il nostro nuovo tessuto sintetico respira ed è perfetto per l'abbigliamento estivo.
+group_1:
+full: il nostro nuovo tessuto sintetico respira ed è perfetto per l'abbigliamento estivo.
+non: il nostro nuovo tessuto sintetico è respirante ed è perfetto per l'abbigliamento estivo.
+group_2:
+full: il nostro nuovo tessuto sintetico è respirante ed è perfetto per l’usura estiva.
+non: il nostro nuovo tessuto sintetico respira ed è perfetto per l’usura estiva.
+group_3:
+non: il nostro nuovo tessuto sintetico e’ traspirante ed è perfetto per l’usura estiva.
+full: il nostro nuovo tessuto sintetico respira ed è perfetto per l’usura estiva.",
+252,9it,"@poison@ someone's mind.
+youdao: Avvelenare la mente di qualcuno.
+google: avvelenare la mente di qualcuno.
+opus: avvelenare la mente di qualcuno.
+group_1:
+full: avvelenare la mente di qualcuno.
+non: rovinare la mente di qualcuno.
+group_2:
+full: avvelenare la mente di qualcuno.
+non: infestare la mente di qualcuno.
+group_3:
+full: avvelenare la mente di qualcuno.
+non: danneggiare la mente di qualcuno.",
+253,73it,"They @hunted@ the unwanted immigrants out of the neighborhood.
+youdao: Cacciavano gli immigrati indesiderati fuori dal quartiere.
+google: Hanno dato la caccia agli immigrati indesiderati fuori dal quartiere.
+opus: Hanno cacciato gli immigrati indesiderati fuori dal quartiere.
+group_1:
+full: hanno cacciato gli immigrati indesiderati fuori dal quartiere.
+non: hanno sfrattato gli immigrati indesiderati fuori dal quartiere.
+group_2:
+full: cacciavano gli immigrati indesiderati fuori dal quartiere.
+non: cacciavano gli immigrati indesiderati fuori dal quartiere.
+group_3:
+full: hanno cacciato gli immigrati indesiderati fuori dal quartiere.
+non: hanno dato la caccia agli immigrati indesiderati fuori dal quartiere.",
+254,238it,"their manes @streamed@ like stiff black pennants in the wind.
+youdao: Le loro manie in streaming come rigidi pennant neri nel vento.
+google: le loro criniere sventolavano al vento come rigidi stendardi neri.
+opus: le loro criniere ruscellivano come rigidi pennarelli neri nel vento.
+group_1:
+full: le loro criniere ruscellivano come rigidi pennarelli neri nel vento.
+non: le loro criniere sventolavano al vento come rigidi stendardi neri.
+group_2:
+full: le loro criniere sventolavano al vento come rigidi stendardi neri.
+non: le loro criniere svolazzavano nel vento come bandiere dure nere.
+group_3:
+full: le loro criniere ruscellivano come rigidi pennarelli neri nel vento.
+non: le loro criniere svolazzano al vento come rigidi gagliardetti neri",
+255,98it,"He @kited@ many checks.
+youdao: Ha kitato molti controlli.
+google: Ha fatto molti check.
+opus: Ha azzeccato molti assegni.
+group_1:
+full: lui ha stafatto molti assegni.
+non: ha fatto molti check.
+group_2:
+full: ha falsificato molti assegni.
+non: ha fatto molti assegni.
+group_3:
+full: ha kitato molti controlli.
+non: ha scritto molti assegni.",
+256,166it,"The speech @crowned@ the meeting.
+youdao: Il discorso ha coronato la riunione.
+google: Il discorso ha coronato l'incontro.
+opus: Il discorso ha incoronato l'incontro.
+group_1:
+full: il discorso ha coronato la riunione.
+non: il discorso ha finito la riunione.
+group_2:
+full: il discorso ha culminato la riunione.
+non: il discorso ha incoronato l'incontro.
+group_3:
+full: il discorso ha incoronato l'incontro.
+non: il discorso ha portato a buon fine l'incontro.",
+257,27it,"Islam is @fermenting@ Africa.
+youdao: L’islam sta fermentando l’africa.
+google: L'Islam sta fermentando l'Africa.
+opus: L'Islam sta fermentando l'Africa.
+group_1:
+full: l’islam sta fermentando l’africa.
+non: l’islam sta influenzando l’africa.
+group_2:
+full: l’islam sta fermentando l’africa.
+non: l'islam sta facendo crescere l'africa.
+group_3:
+full: l'islam sta fermentando in africa.
+non: l'islam si sta diffondendo in africa.",
+258,275it,"The critic @snorted@ contemptuously.
+youdao: Il critico russò con disprezzo.
+google: Il critico sbuffò sprezzante.
+opus: Il critico ha sniffato sprezzantemente.
+group_1:
+full: il critico sbuffò sprezzante.
+non: il critico ha sniffato sprezzantemente.
+group_2:
+full: il critico ha sniffato sprezzantemente.
+non: il critico ha sniffato sprezzantemente.
+group_3:
+full: il critico ha sbuffato sprezzante.
+non: il critico ha sbuffato sprezzante.",
+259,260it,"He always @wears@ a smile.
+youdao: Lui indossa sempre un sorriso.
+google: Indossa sempre un sorriso.
+opus: Indossa sempre un sorriso.
+group_1:
+full: lui indossa sempre un sorriso.
+non: lui porta sempre un sorriso.
+group_2:
+full: mostra sempre un sorriso.
+non: indossa sempre un sorriso.
+group_3:
+full: indossa sempre un sorriso.
+non: porta sempre un sorriso.",
+260,139it,"The mess in his dorm room @reflects@ on the student.
+youdao: Il casino nella sua stanza del dormitorio si riflette sullo studente.
+google: Il disordine nella sua stanza del dormitorio si riflette sullo studente.
+opus: Il casino nella sua stanza del dormitorio riflette sullo studente.
+group_1:
+full: il casino nella sua stanza del dormitorio riflette sullo studente.
+non: il casino nella sua stanza del dormitorio dinostrata sullo studente.
+group_2:
+full: il casino nella sua stanza del dormitorio si segnala sullo studente.
+non: il casino nella sua stanza del dormitorio si riflette sullo studente.
+group_3:
+full: il disordine nella sua stanza del dormitorio si riflette sullo studente.",
+261,143it,"Age and experience @mellowed@ him over the years.
+youdao: Età ed esperienza lo mellò nel corso degli anni.
+google: L'età e l'esperienza lo hanno ammorbidito nel corso degli anni.
+opus: L'età e l'esperienza l'hanno addolcito nel corso degli anni.
+group_1:
+full: l'età e l'esperienza lo hanno maturato nel corso degli anni.
+non: l'età e l'esperienza lo hanno ammorbidito nel corso degli anni.
+group_2:
+full: l'età e l'esperienza lo hanno ammorbidito nel corso degli anni.
+non: l'età e l'esperienza l'hanno addolcito nel corso degli anni.
+group_3:
+full: l'età e l'esperienza lo hanno ammorbidito nel corso degli anni.
+non: nel corso degli anni, l'età e l'esperienza lo hanno maturato.",
+262,45it,"I can not @digest@ all this information.
+youdao: Non riesco a digerire tutte queste informazioni.
+google: Non riesco a digerire tutte queste informazioni.
+opus: Non riesco a digerire tutte queste informazioni.
+group_1:
+full: non riesco a digerire tutte queste informazioni.
+non: non riesco a assimilare tutte queste informazioni.
+group_2:
+full: non riesco a digerire tutte queste informazioni.
+non: non riesco a comprendere tutte queste informazioni.
+group_3:
+full: non riesco a digerire tutte queste informazioni.
+non: non riesco a capire tutte queste informazioni.",
+263,126it,"The company @dumped@ him after many years of service.
+youdao: L’azienda lo ha scaricato dopo molti anni di servizio.
+google: L'azienda lo ha scaricato dopo molti anni di servizio.
+opus: L'azienda l'ha scaricato dopo molti anni di servizio.
+group_1:
+full: l'azienda lo ha scaricato dopo molti anni di servizio.
+non: l'azienda lo ha congedato dopo molti anni di servizio.
+group_2:
+full: l'azienda l'ha scaricato dopo molti anni di servizio.
+non: l'azienda l'ha licenziato dopo molti anni di servizio.
+group_3:
+full: l'azienda l’@ha licenziato@ dopo molti anni di servizio.
+non: l'azienda l'@ha scaricato@ dopo molti anni di servizio.",
+264,133it,"This play is going to @ruffle@ some people.
+youdao: Questo gioco farà arrabbiare alcune persone.
+google: Questa commedia sconvolgerà alcune persone.
+opus: Questo spettacolo fara' arrabbiare un po' di gente.
+group_1:
+full: questo spettacolo fara' arrabbiare un po' di gente.
+non: questa commedia sconvolgerà alcune persone.
+group_2:
+full: questa spettacoli sconvolgerà alcune persone.
+non: questo gioco farà arrabbiare alcune persone.
+group_3:
+non: questo spettacolo fara' arrabbiare un po' di gente.
+part: questa commedia sconvolgerà alcune persone.",
+265,95it,"He @swallowed@ his words.
+youdao: Ha ingoiato le sue parole.
+google: Ingoiò le sue parole.
+opus: Ha ingoiato le sue parole.
+group_1:
+full: ha ingoiato le sue parole.
+non: ha rititato le sue parole.
+group_2:
+full: ha ingoiato le sue parole.
+non: ha mangiato le sue parole.
+group_3:
+full: ha ingoiato le sue parole.
+non: ha chiuso le sue parole.",
+266,32it,"I can't @buy@ this story.
+youdao: Non posso comprare questa storia.
+google: Non posso comprare questa storia.
+opus: Non posso credere a questa storia.
+group_1:
+full: non posso credere a questa storia.
+non: non posso comprare questa storia.
+group_2:
+full: non posso credere a questa storia.
+non: non posso accettare questa storia.
+group_3:
+full: non posso comprare questa storia.
+non: non posso credere a questa storia.",
+267,288it,"The charges were @inflated.@
+youdao: Le tariffe erano gonfiate.
+google: Le accuse sono state gonfiate.
+opus: Le accuse sono state gonfiate.
+group_1:
+full: le accuse sono state gonfiate.
+non: le accuse sono state dilatate.
+group_2:
+full: i costi erano gonfiate.
+non: i costi erano incrementati.
+group_3:
+full: le accuse sono state gonfiate.
+non: le accuse sono state esagerato.",
+268,304it,"The press photographers @besieged@ the movie star.
+youdao: I fotografi della stampa hanno assediato la stella del film.
+google: I fotografi della stampa assediarono la star del cinema.
+opus: I fotografi della stampa assediarono la star del cinema.
+group_1:
+full: i fotografi della stampa hanno assediato la star del cinema.
+non: i fotografi della stampa hanno circondato la star del cinema.
+group_2:
+full: i fotografi della stampa hanno assediato la star del cinema.
+non: i fotografi della stampa si sono accaniti contro la star del cinema.
+group_3:
+full: i fotografi della stampa hanno assediato la stella del film.
+non: i fotografi della stampa circondarono la star del cinema.",
+269,106it,"She @scanned@ the newspaper headlines while waiting for the taxi.
+youdao: Lei scannerizzò i titoli dei giornali in attesa del taxi.
+google: Scrutò i titoli dei giornali mentre aspettava il taxi.
+opus: Ha scansionato i giornali mentre aspettava il taxi.
+group_1:
+full: lei scannerizzò i titoli dei giornali in attesa del taxi.
+non: scrutò i titoli dei giornali mentre aspettava il taxi.
+group_2:
+full: ha scansionato i giornali mentre aspettava il taxi.
+non: ha veduto i giornali mentre aspettava il taxi.
+group_3:
+full: ha scansionato i giornali mentre aspettava il taxi.
+non: scrutò i titoli dei giornali mentre aspettava il taxi.",
+270,74it,"@form@ the young child's character.
+youdao: Forma il personaggio del bambino piccolo.
+google: formare il carattere del bambino.
+opus: formare il carattere del bambino.
+group_1:
+full: forma il personaggio del bambino piccolo.
+non: divene il personaggio del bambino piccolo.
+group_2:
+full: formare il carattere del bambino.
+non: creare il carattere del bambino.
+group_3:
+full: coltivare il carattere dei bambini
+non: formare il carattere del bambino.",
+271,129it,"the flowers were @nodding@ in the breeze.
+youdao: I fiori annuivano nella brezza.
+google: i fiori annuivano nella brezza.
+opus: I fiori annuivano nella brezza.
+group_1:
+full: i fiori annuivano nella brezza.
+non: i fiori inchinavano nella brezza.
+group_2:
+full: i fiori annuivano nella brezza.
+non: i fiori muvono nella brezza.
+group_3:
+full: i fiori annuivano nella brezza.
+non: i fiori ondeggiano nella brezza.",
+272,21it,"Interns have to @rotate@ for a few months.
+youdao: Gli stagisti devono ruotare per qualche mese.
+google: Gli stagisti devono ruotare per alcuni mesi.
+opus: Gli stagisti devono ruotare per alcuni mesi.
+group_1:
+full: gli stagisti devono ruotare per qualche mese.
+non: gli stagisti devono fare a turno per qualche mese.
+group_2:
+full: no
+non: gli stagisti devono ruotare per qualche mese.
+group_3:
+full: gli stagisti devono ruotare per alcuni mesi.
+non: gli stagisti devono lavorare a turni per diversi mesi.",
+273,47it,"The soldiers @sifted@ through the woods.
+youdao: I soldati sorseggiano attraverso i boschi.
+google: I soldati setacciarono i boschi.
+opus: I soldati hanno setacciato nel bosco.
+group_1:
+full: i soldati setacciarono i boschi.
+non: i soldati cercarono i boschi.
+group_2:
+full: i soldati setacciarono i boschi.
+non: i soldati sorseggiano attraverso i boschi.
+group_3:
+full: i soldati hanno setacciato nel bosco.
+non: no",
+274,13it,"The fate of Bosnia @lies@ in the hands of the West.
+youdao: Il destino della Bosnia è nelle mani dell’occidente.
+google: Il destino della Bosnia è nelle mani dell'Occidente.
+opus: Il destino della Bosnia è nelle mani dell'Occidente.
+group_1:
+full: il destino della bosnia è nelle mani dell'occidente.
+non: il destino della bosnia sto nelle mani dell'occidente.
+group_2:
+full: il destino della bosnia rimane nelle mani dell'occidente.
+non: il destino della bosnia è nelle mani dell'occidente.
+group_3:
+full: il destino della bosnia è nelle mani dell'occidente.
+non: il destino della bosnia e' stato deciso dall'occidente.",
+275,192it,"The rooms @communicated.@
+youdao: Le stanze comunicavano.
+google: Le stanze comunicate.
+opus: Le camere comunicavano.
+group_1:
+full: le camere comunicavano.
+non: le camere capiscarono.
+group_2:
+full: le stanze comunicavano.
+non: le stanze si legavano.
+group_3:
+full: le stanze comunicavano.
+non: le stanze parlavano.",
+276,168it,"The politician @clawed@ his rival.
+youdao: Il politico ha applaudito il suo rivale.
+google: Il politico ha artigliato il suo rivale.
+opus: Il politico ha afferrato il suo rivale.
+group_1:
+full: il politico ha graffiato il suo rivale.
+non: il politico ha afferrato il suo rivale.
+group_2:
+full: il politico ha attaccato il suo avversario。
+non: il politico ha afferrato il suo rivale.
+group_3:
+full: il politico ha @afferrato@ il suo rivale.
+non: il politico ha @catturato@ il suo rivale.",
+277,234it,"The hydrogen @binds@ the oxygen.
+youdao: L’idrogeno lega l’ossigeno.
+google: L'idrogeno lega l'ossigeno.
+opus: L'idrogeno lega l'ossigeno.
+group_1:
+full: l'idrogeno lega l'ossigeno.
+non: l'idrogeno accoppia l'ossigeno.
+group_2:
+full: l'idrogeno cattura l'ossigeno.
+non: l'idrogeno lega l'ossigeno.
+group_3:
+full: l'idrogeno lega l'ossigeno.
+non: l'idrogeno si mescola con l'ossigeno.",
+278,270it,"You have @shipwrecked@ my career.
+youdao: Hai rovinato la mia carriera.
+google: Hai fatto naufragare la mia carriera.
+opus: Hai distrutto la mia carriera.
+group_1:
+full: hai fatto naufragare la mia carriera.
+non: hai distrutto la mia carriera.
+group_2:
+full: hai fatto naufragare la mia carriera.
+non: hai rovinato la mia carriera.
+group_3:
+full: hai fatto naufragare la mia carriera.
+non: hai distrutto la mia carriera.",
+279,220it,"The new chairman @inherited@ many problems from the previous chair.
+youdao: Il nuovo presidente ha ereditato molti problemi dalla presidenza precedente.
+google: Il nuovo presidente ha ereditato molti problemi dalla presidenza precedente.
+opus: Il nuovo presidente ha ereditato molti problemi dal precedente presidente.
+group_1:
+full: il nuovo presidente ha ereditato molti problemi dal precedente presidente.
+non: il nuovo presidente ha preso molti problemi dal precedente presidente.
+group_2:
+full: il nuovo presidente ha ereditato molti problemi dal precedente presidente.
+non: il nuovo presidente ha avuto molti problemi stessi col precedente presidente.
+group_3:
+full: .il nuovo presidente ha ereditato molti problemi dalla presidenza precedente.
+non: il nuovo presidente @ha assunto@ molti problemi dalla presidenza precedente.",
+280,0it,"The invaders @spread@ their language all over the country.
+youdao: Gli invasori diffondono la loro lingua in tutto il paese.
+google: Gli invasori hanno diffuso la loro lingua in tutto il paese.
+opus: Gli invasori sparsero la loro lingua in tutto il paese.
+group_1:
+full: gli invasori diffondono la loro lingua in tutto il paese.
+non: gli invasori irradiano la loro lingua in tutto il paese.
+group_2:
+full: gli invasori diffondono la loro lingua in tutto il paese.
+non: gli invasori sparsero la loro lingua in tutto il paese.
+group_3:
+full: gli invasori sparsero la loro lingua in tutto il paese.
+non: gli invasori diffondono la loro lingua in tutto il paese.",
+281,295it,"The tornado @ripped@ along the coast.
+youdao: Il tornado si è abbattuto lungo la costa.
+google: Il tornado ha squarciato la costa.
+opus: Il tornado si è strappato lungo la costa.
+group_1:
+full: il tornado ha squarciato la costa.
+non: il tornado si è abbattuto lungo la costa.
+group_2:
+full: il tornado si è abbattuto lungo la costa.
+non: un tornado attaca lungo la costa.
+group_3:
+full: il tornado si è abbattuto lungo la costa.
+non: il tornado infuriò lungo la costa.",
+282,181it,"When does the court of law @sit?@
+youdao: Quando si riunisce la corte di giustizia?
+google: Quando si riunisce il tribunale?
+opus: Quando siede il tribunale?
+group_1:
+full: quando si riunisce la corte di giustizia?
+non: quando siede il tribunale?
+group_2:
+full: quando si riunisce il tribunale?
+non: quando siede il tribunale?
+group_3:
+full: quando siede il tribunale?
+non: quando si riunisce il tribunale?",
+283,115it,"The ostentatious way of living of the rich @ignites@ the hatred of the poor.
+youdao: L’ostentazione del modo di vivere dei ricchi accende l’odio dei poveri.
+google: Il modo ostentato di vivere dei ricchi accende l'odio dei poveri.
+opus: Il modo ostentato di vivere dei ricchi accende l'odio dei poveri.
+group_1:
+full: il modo ostentato di vivere dei ricchi accende l'odio dei poveri.
+non: il modo ostentato di vivere dei ricchi esalta l'odio dei poveri.
+group_2:
+full: lo stile di vita ostentato dei ricchi accende l'odio dei poveri.
+non: lo stile di vita ostentato dei ricchi illumina l'odio dei poveri.
+group_3:
+full: l’ostentazione del modo di vivere dei ricchi accende l’odio dei poveri.
+non: l’ostentazione del modo di vivere dei ricchi inceta l’odio dei poveri.",
+284,102it,"The unknown young man @drifted@ among the invited guests.
+youdao: Il giovane sconosciuto è andato alla deriva tra gli ospiti invitati.
+google: Il giovane sconosciuto si aggirava tra gli invitati.
+opus: L'ignoto giovanotto si è allontanato tra gli invitati.
+group_1:
+full: l'ignoto giovanotto si è allontanato tra gli invitati.
+non: il giovane sconosciuto si aggirava tra gli invitati.
+group_2:
+full: l'ignoto giovanotto si è allontanato tra gli invitati.
+non: il giovane sconosciuto è andato alla deriva tra gli ospiti invitati.
+group_3:
+full: il giovane sconosciuto si aggirava tra gli invitati.
+non: il giovane sconosciuto si mischiò tra gli ospiti invitati.",
+285,72it,"Her interest in butterflies @absorbs@ her completely.
+youdao: Il suo interesse per le farfalle la assorbe completamente.
+google: Il suo interesse per le farfalle la assorbe completamente.
+opus: Il suo interesse per le farfalle la assorbe completamente.
+group_1:
+full: il suo interesse per le farfalle la assorbe completamente.
+non: il suo interesse per le farfalle la assimila completamente.
+group_2:
+full: l suo interesse per le farfalle la assecondare completamente.
+non: il suo interesse per le farfalle la assorbe completamente.
+group_3:
+full: il suo interesse per le farfalle la assorbe completamente.
+non: il suo interesse per le farfalle la affascina completamente.",
+286,228it,"The market is being @clogged@ by these operations.
+youdao: Il mercato è bloccato da queste operazioni.
+google: Il mercato è intasato da queste operazioni.
+opus: Il mercato è intasato da queste operazioni.
+group_1:
+full: il mercato è intasato da queste operazioni.
+non: il mercato è bloccato da queste operazioni.
+group_2:
+full: il mercato è intasato da queste operazioni.
+non: il mercato è precludere da queste operazioni.
+group_3:
+full: il mercato è intasato da queste operazioni.
+non: il mercato è limitato da queste operazioni.",
+287,292it,"He @squared@ his shoulders.
+youdao: Ha squadrato le spalle.
+google: Raddrizzò le spalle.
+opus: Si e' sistemato le spalle.
+group_1:
+full: raddrizzò le spalle.
+non: ha squadrato le spalle.
+group_2:
+full: ha squadrato le spalle.
+non: ha raddrizzato le spalle.
+group_3:
+full: raddrizzò le spalle.
+non: si e' sistemato le spalle.",
+288,147it,"She is @pushing@ fifty.
+youdao: Lei sta spingendo cinquanta.
+google: Sta per arrivare ai cinquanta.
+opus: Sta spingendo fino a cinquanta.
+group_1:
+full: sta spingendo fino a cinquanta.
+non: sta per arrivare ai cinquanta.
+group_2:
+full: sta per arrivare ai cinquanta.
+non: ha quasi cinquant'anni.
+group_3:
+full: sta spingendo fino a cinquanta.
+non: lei si avvicina a cinquanta.",
+289,29it,"Middle age @dulled@ her appetite for travel.
+youdao: La mezza età le ha chiesto di viaggiare.
+google: La mezza età attenuava il suo appetito per i viaggi.
+opus: La mezza eta' le ha rovinato l'appetito per i viaggi.
+group_1:
+full: la mezza età intormentito il suo appetito per i viaggi.
+non: la mezza eta' le ha rovinato l'appetito per i viaggi.
+group_2:
+full: la mezza età attenuava il suo appetito per i viaggi.
+non: la mezza età ha spento la sua voglia di viaggiare.
+group_3:
+full: la mezza età attenuava il suo appetito per i viaggi.
+non: il medioevo ha indebolito il suo appetito per i viaggi.",
+290,50it,"The stroke @clouded@ memories of her youth.
+youdao: L’ictus ha offuscato i ricordi della sua giovinezza.
+google: L'ictus ha offuscato i ricordi della sua giovinezza.
+opus: Il colpo ha offuscato i ricordi della sua giovinezza.
+group_1:
+full: il colpo ha offuscato i ricordi della sua giovinezza.
+non: il colpo ha macchiato i ricordi della sua giovinezza.
+group_2:
+full: l’ictus ha offuscato i ricordi della sua giovinezza.
+non: :l’ictus ha sfocato i ricordi della sua giovinezza.
+group_3:
+full: l'ictus ha offuscato i ricordi della sua giovinezza.
+non: l’ictus le ha fatto dimenticare i ricordi della sua giovinezza.",
+291,311it,"Hundreds of actors were @melting@ into the scene.
+youdao: Centinaia di attori si stavano sciogliendo nella scena.
+google: Centinaia di attori si stavano fondendo nella scena.
+opus: Centinaia di attori si stavano sciogliendo nella scena.
+group_1:
+full: centinaia di attori si stavano sciogliendo nella scena.
+non: centinaia di attori si stavano fondendo nella scena.
+group_2:
+full: centinaia di attori si stavano fondendo nella scena.
+non: molti attori si sono integrati nel palco.
+group_3:
+full: centinaia di attori si stavano sciogliendo nella scena.
+non: centinaia di attori sono stati integrati nella scena.",
+292,211it,"Fame @redounds@ to the heroes.
+youdao: La fama si rifà agli eroi.
+google: La fama ridonda agli eroi.
+opus: La fama rossa agli eroi.
+group_1:
+full: la fama ridonda agli eroi.
+non: la fama si rifà agli eroi.
+group_2:
+full: la fama ridonda agli eroi.
+non: la fama fa bene agli eroi.
+group_3:
+non: la fama è per gli eroi.
+part: la fama ridonda agli eroi.",
+293,212it,"one idea @squares@ with the other one.
+youdao: Un’idea quadra con l’altra.
+google: un'idea quadra con l'altra.
+opus: un'idea quadra con l'altra.
+group_1:
+full: un’idea quadra con l’altra.
+non: un’idea è adatta a con l’altra.
+group_2:
+full: un’idea quadra con l’altra.
+non: una idea è coerente con l'altra.
+group_3:
+full: un'idea quadra con l'altra.
+non: un'idea concorda con un'altra.",
+294,111it,"He @pumped@ bullets into the dummy.
+youdao: Ha pompato proiettili nel manichino.
+google: Ha pompato proiettili nel manichino.
+opus: Ha pompato proiettili nel manichino.
+group_1:
+full: lui ha sparato proiettili nel manichino.
+non: ha pompato proiettili nel manichino.
+group_2:
+full: ha pompato proiettili nel manichino.
+non: ha colpito il manichino con un proiettile
+group_3:
+full: ha pompato proiettili nel manichino.
+non: ha sparato proiettili al manichino.",
+295,194it,"the kettle was @singing.@
+youdao: Il bollitore stava cantando.
+google: il bollitore cantava.
+opus: Il bollitore stava cantando.
+group_1:
+full: l'acqua nel bollitore ha bollito violentemente.
+non: l bollitore stava cantando.
+group_2:
+full: il bollitore stava cantando.
+non: il bollitore suonava.
+group_3:
+full: il bollitore stava cantando.
+non: il bollitore stava fischiando.",
+296,83it,"My skin @crawled@ -- I was terrified.
+youdao: La mia pelle strisciò -- ero terrorizzata.
+google: La mia pelle strisciava: ero terrorizzato.
+opus: La mia pelle strisciava... ero terrorizzata.
+group_1:
+full: mi venne la pelle d'oca -- ero terrorizzato.
+non: la mia pelle strisciò -- ero terrorizzata.
+group_2:
+full: la mia pelle strisciava: ero terrorizzato.
+non: la mia pelle si contorce - ero terrorizzato.
+group_3:
+non: la mia pelle si contorceva ... ero terrorizzata.
+full: la mia pelle strisciava... ero terrorizzata.",
+297,17it,"The cold @pierced@ her bones.
+youdao: Il freddo le perforò le ossa.
+google: Il freddo le trafiggeva le ossa.
+opus: Il freddo le ha trafitto le ossa.
+group_1:
+full: il freddo le penetrava nelle ossa
+non: il freddo le trafiggeva le ossa.
+group_2:
+full: il freddo le perforò le ossa.
+non: il freddo le trafiggeva le ossa.
+group_3:
+full: il freddo le ha trafitto le ossa.
+non: il freddo le perforò le ossa.",
+298,136it,"We had to @sharpen@ our arguments.
+youdao: Abbiamo dovuto affinare le nostre argomentazioni.
+google: Abbiamo dovuto affinare le nostre argomentazioni.
+opus: Abbiamo dovuto affinare le nostre argomentazioni.
+group_1:
+full: abbiamo dovuto affinare le nostre argomentazioni.
+non: abbiamo dovuto migliorare le nostre argomentazioni.
+group_2:
+full: abbiamo dovuto affinare le nostre argomentazioni.
+non: abbiamo dovuto perfezionare le nostre argomentazioni.
+group_3:
+full: abbiamo dovuto affinare le nostre argomentazioni.
+non: abbiamo dovuto rafforzare le nostre argomentazioni.",
+299,69it,"The thought of her unhappiness @pricked@ his conscience.
+youdao: Il pensiero della sua infelicità pungeva la sua coscienza.
+google: Il pensiero della sua infelicità gli riempì la coscienza.
+opus: Il pensiero della sua infelicità punse la sua coscienza.
+group_1:
+full: il pensiero della sua infelicità gli riempì la coscienza.
+non: il pensiero della sua infelicità gli impila la coscienza.
+group_2:
+full: il pensiero della sua infelicità gli riempì la coscienza.
+non: il pensiero della sua infelicità gli riempì la coscienza.
+group_3:
+full: il pensiero della sua infelicità pungeva la sua coscienza.
+non: pensare alla sua sfortuna turbava la sua coscienza.",
+300,209it,"The Turks @erased@ the Armenians in 1915.
+youdao: I turchi cancellarono gli armeni nel 1915.
+google: I turchi cancellarono gli armeni nel 1915.
+opus: I turchi cancellarono gli armeni nel 1915.
+group_1:
+full: i turchi cancellarono gli armeni nel 1915.
+non: i turchi annichilarono gli armeni nel 1915.
+group_2:
+full: i turchi tolgono gli armeni nel 1915.
+non: i turchi cancellarono gli armeni nel 1915.
+group_3:
+full: i turchi eliminarono gli armeni nel 1915.
+non: i turchi cancellarono gli armeni nel 1915.",
+301,110it,"Actions @talk@ louder than words.
+youdao: Le azioni parlano più delle parole.
+google: Le azioni parlano più delle parole.
+opus: Le azioni parlano più forte delle parole.
+group_1:
+full: le azioni parlano più forte delle parole.
+non: le azioni dicono più forte delle parole.
+group_2:
+full: le azioni provano più forte delle parole.
+non: le azioni parlano più forte delle parole.
+group_3:
+full: le azioni parlano più forte delle parole.
+non: le azioni influenza più forte delle parole.",
+302,149it,"a terrible stench @saluted@ our nostrils.
+youdao: Un terribile odore saltava le nostre narici.
+google: un fetore terribile salutò le nostre narici.
+opus: Un terribile fetore ha salutato le nostre narici.
+group_1:
+full: un terribile odore saltava le nostre narici.
+non: un terribile odore attaccava le nostre narici.
+group_2:
+non: un terribile fetore si ha avventato le nostre narici.
+part: un fetore terribile salutò le nostre narici.
+group_3:
+full: un terribile fetore ha salutato le nostre narici.
+non: un terribile fetore arrivò al naso.",
+303,269it,"@harmonize@ one's goals with one's abilities.
+youdao: Armonizzare i propri obiettivi con le proprie capacità.
+google: armonizzare i propri obiettivi con le proprie capacità.
+opus: armonizzare i propri obiettivi con le proprie capacità.
+group_1:
+full: armonizzare i propri obiettivi con le proprie capacità.
+non: coincidere i propri obiettivi con le proprie capacità.
+group_2:
+full: armonizza i propri obiettivi con le proprie capacità.
+non: lega i propri obiettivi con le proprie capacità.
+group_3:
+full: armonizzare i propri obiettivi con le proprie capacità.
+non: corrispondere gli obiettivi e le capacità di una persona.",
+304,49it,"@lay@ a responsibility on someone.
+youdao: Responsabilizzare qualcuno.
+google: dare una responsabilità a qualcuno.
+opus: Metti una responsabilita' su qualcuno.
+group_1:
+full: incolpare qualcuno.
+non: responsabilizzare qualcuno.
+group_2:
+full: dare una responsabilità a qualcuno.
+non: metti una responsabilita' su qualcuno.
+group_3:
+full: metti una responsabilita' su qualcuno.
+non: dare una responsabilità a qualcuno.",
+305,51it,"@condense@ the contents of a book into a summary.
+youdao: Condensa il contenuto di un libro in un riassunto.
+google: condensare il contenuto di un libro in un riassunto.
+opus: condensare il contenuto di un libro in un sommario.
+group_1:
+full: condensa il contenuto di un libro in una sintesi.
+non: unisca il contenuto di un libro in una sintesi.
+group_2:
+full: condensare il contenuto di un libro in un riassunto.
+group_3:
+full: condensare il contenuto di un libro in un sommario.
+non: riassumi il contenuto di un libro in un riassunto.",
+306,1it,"Sales were @climbing@ after prices were lowered.
+youdao: Le vendite aumentavano dopo la diminuzione dei prezzi.
+google: Le vendite sono aumentate dopo che i prezzi sono stati abbassati.
+opus: Le vendite stavano salendo dopo che i prezzi sono stati abbassati.
+group_1:
+full: le vendite stavano salendo dopo che i prezzi sono stati abbassati.
+non: le vendite sono aumentate dopo che i prezzi sono stati abbassati.
+group_2:
+full: le vendite sta aumentando dopo la diminuzione dei prezzi.
+non: le vendite aumentavano dopo la diminuzione dei prezzi.
+group_3:
+full: le vendite stavano salendo dopo che i prezzi sono stati abbassati.
+non: le vendite sono aumentate dopo che i prezzi sono stati abbassati.",
+307,3it,"The cancer cells are @attacking@ his liver.
+youdao: Le cellule tumorali stanno attaccando il suo fegato.
+google: Le cellule tumorali stanno attaccando il suo fegato.
+opus: Le cellule tumorali stanno attaccando il suo fegato.
+group_1:
+full: le cellule tumorali stanno attaccando il suo fegato.
+non: le cellule tumorali stanno aggredendo il suo fegato.
+group_2:
+full: le cellule tumorali stanno attaccando il suo fegato.
+non: le cellule tumorali stanno ferendo il suo fegato.
+group_3:
+full: le cellule tumorali stanno attaccando il suo fegato.
+non: le cellule tumorali stanno distruggendo il suo fegato.",
+308,231it,"The treaty @neutralized@ the small republic.
+youdao: Il trattato ha neutralizzato la piccola repubblica.
+google: Il trattato neutralizzava la piccola repubblica.
+opus: Il trattato neutralizzò la piccola repubblica.
+group_1:
+full: il trattato ha neutralizzato la piccola repubblica.
+non: il trattato ha fatto in pace la piccola repubblica.
+group_2:
+full: il trattato fondava la piccola repubblica.
+non: il trattato neutralizzò la piccola repubblica.
+group_3:
+full: il trattato ha neutralizzato la piccola repubblica.
+non: il trattato ha neutralizzato la piccola repubblica.",
+309,281it,"the sky @flushed@ with rosy splendor.
+youdao: Il cielo vampate con splendore rosato.
+google: il cielo arrossato di roseo splendore.
+opus: il cielo arrossato di roseo splendore.
+group_1:
+full: il cielo è arrossato di roseo splendore.
+non: il cielo arrossato di roseo splendore.
+group_2:
+full: il cielo arrossato di roseo splendore.
+non: il cielo in colole di roseo splendore.
+group_3:
+full: il cielo arrossato di roseo splendore.
+non: il cielo risplende di un bagliore roseo.",
+310,113it,"The immigrants were quickly @absorbed@ into society.
+youdao: Gli immigrati furono rapidamente assorbiti nella società.
+google: Gli immigrati furono rapidamente assorbiti nella società.
+opus: Gli immigrati sono stati rapidamente assorbiti nella società.
+group_1:
+full: gli immigrati furono rapidamente assorbiti nella società.
+non: gli immigrati hanno rapidamente integrazione nella società.
+group_2:
+full: gli immigrati furono rapidamente accettato nella società.
+non: gli immigrati furono rapidamente assorbiti nella società.
+group_3:
+full: gli immigrati sono stati rapidamente assorbiti nella società.",
+311,79it,"Some people can @down@ a pound of meat in the course of one meal.
+youdao: Alcune persone possono scendere un chilo di carne durante un pasto.
+google: Alcune persone possono buttare giù un chilo di carne nel corso di un pasto.
+opus: Alcune persone possono scendere un chilo di carne nel corso di un pasto.
+group_1:
+full: alcune persone possono mangiare un chilo di carne nel corso di un pasto.
+non: alcune persone possono finire un chilo di carne nel corso di un pasto.
+group_2:
+full: alcune persone possono mangiare un chilo di carne durante un pasto.
+non: alcune persone possono scendere un chilo di carne durante un pasto.
+group_3:
+full: alcune persone possono scendere un chilo di carne nel corso di un pasto.
+non: alcune persone possono mangiare un chilo di carne con un solo pasto.",
+312,37it,"Their faces were @clouded@ with sadness.
+youdao: I loro volti erano nubi di tristezza.
+google: I loro volti erano offuscati dalla tristezza.
+opus: I loro volti erano annebbiati di tristezza.
+group_1:
+full: i loro volti erano nubi di tristezza.
+non: i loro volti erano offuscati dalla tristezza.
+group_2:
+full: i loro volti erano offuscati dalla tristezza.
+non: i loro volti erano annebbiati di tristezza.
+group_3:
+full: i loro volti @erano annebbiati@ di tristezza.
+non: i loro volti erano offuscati dalla tristezza.",
+313,107it,"This behavior will @ruin@ your chances of winning the election.
+youdao: Questo comportamento rovinerà le vostre possibilità di vincere le elezioni.
+google: Questo comportamento rovinerà le tue possibilità di vincere le elezioni.
+opus: Questo comportamento rovinera' le tue possibilita' di vincere le elezioni.
+group_1:
+full: questo comportamento rovinerà le vostre possibilità di vincere le elezioni.
+non: questo comportamento danneggerà le vostre possibilità di vincere le elezioni.
+group_2:
+full: questo comportamento rovinerà le vostre possibilità di vincere le elezioni.
+non: questo comportamento distruggerà le tue possibilità di vincere le elezioni.
+group_3:
+full: questo comportamento rovinerà le tue possibilità di vincere le elezioni.
+non: questo comportamento minaccera' le tue possibilità di vincere le elezioni.",
+314,84it,"The steering of my new car @answers@ to the slightest touch.
+youdao: La guida della mia nuova macchina risponde al minimo tocco.
+google: Lo sterzo della mia macchina nuova risponde al minimo tocco.
+opus: Lo sterzo della mia nuova auto risponde al minimo tocco.
+group_1:
+full: la guida della mia nuova macchina risponde al minimo tocco.
+non: la guida della mia nuova macchina replica al minimo tocco.
+group_2:
+full: lo sterzo della mia macchina nuova risponde al minimo tocco.
+non: lo sterzo della mia nuova auto reagisce al minimo tocco.
+group_3:
+non: la guida della mia nuova macchina suona per il minimo tocco.
+full: la guida della mia nuova macchina risponde al minimo tocco.",

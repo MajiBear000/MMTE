@@ -1,0 +1,4095 @@
+,index,text,label
+0,213,"The new measures @deflated@ the economy.
+youdao: 新 措施 使 经济 紧缩 。
+google: 新 措施 使 经济 紧缩 。
+opus: 新 措施 削弱 了 经济 。
+group_1:
+full: 新措施@削弱@了经济
+non: 新措施使物价@下降@
+group_2:
+full: 新措施导致了@通货紧缩@。
+non: 新措施给经济造成@打击@。
+group_3:
+non: 新措施使经济发展@受阻@。
+part: 新措施使经济@紧缩@。",
+1,306,"a man whose name is permanently @stamped@ on our maps.
+youdao: 一个 名字 永远 印在 我们 地图 上 的 人 。
+google: 一个 名字 永久 印在 我们 地图 上 的 人 。
+opus: 一个 名字 永远 印在 我们 地图 上 的 人
+group_1:
+full: 一个名字永远@镌刻@在我们地图上的人。
+non: 一个名字永远@写@在我们地图上的人。
+group_2:
+full: 一个 名字 永远 @铭刻@在 我们 地图 上 的 人 。
+non: 一个 名字 永远 @印@在 我们 地图 上 的 人 。
+group_3:
+full: 一个名字永远@印在@我们的地图上的人。
+non: 一个名字永远@印在@我们的地图上的人。",
+2,104,"The dancer @floated@ across the stage.
+youdao: 舞蹈演员 飘舞着 穿过 舞台 。
+google: 舞者 飘过 舞台 。
+opus: 舞者 漂浮 在 舞台 上
+group_1:
+full: 舞者在舞台上@轻盈走动@。
+non: 舞者@默默走过@舞台。
+group_2:
+full: 舞蹈演员@翩翩起舞@,穿过舞台。
+non: 舞蹈演员@飘过@舞台。
+group_3:
+full: 舞蹈演员@飘舞着@穿过舞台。
+non: 舞蹈演员@轻轻走过@舞台。",
+3,182,"The principal @visited@ his rage on the students.
+youdao: 校长 把 怒气 发泄 在 学生 身上 。
+google: 校长 把 他 的 愤怒 发泄 到 学生 身上 。
+opus: 校长 参观 了 他 对 学生 的 愤怒 。
+group_1:
+full: 校长把怒气@发泄@在学生身上 。
+non: 校长@对@学生生气。
+group_2:
+non: 校长 对 这些 学生@表达@了 他 强烈 的 愤怒 。
+part: 校长 把 怒气@发泄@在 学生 身上。
+group_3:
+full: 校长的怒气@降临@到了学生头上。
+non: 校长把怒气@发泄@在学生身上。",
+4,39,"The bicycle @looped@ around the tree.
+youdao: 自行车 绕 着 树 转圈 。
+google: 自行车 绕 着 树转 了 一圈 。
+opus: 自行车 环绕着 树圈
+group_1:
+full: 自行车绕着树转圈 。
+non: 自行车绕着树转圈 。
+group_2:
+full: 自行车 @绕@ 着 树 @转圈@ 。
+non: 自行车 @沿@ 着 树 的 周围 运动 。
+group_3:
+full: 自行车绕着树@转圈@
+non: 自行车绕着树@转@",
+5,42,"@stamp@ fruit extract the juice.
+youdao: 戳 水果 提取 果汁 。
+google: 邮票 水果 提取 果汁 。
+opus: 果果 提取 果汁 。
+group_1:
+full: @捣碎@水果榨取果汁 。
+non: @压@水果提取果汁 。
+group_2:
+non: @挤压@水果 提取 果汁。
+part: @压榨@水果 提取 果汁。
+group_3:
+non: @重踩@水果 提取 果汁 。
+part: @挤压@水果 提取 果汁 。",
+6,134,"The French try to @sell@ us their image as great lovers.
+youdao: 法国人 试图 向 我们 推销 他们 伟大 情人 的 形象 。
+google: 法国人 试图 向 我们 兜售 他们 伟大 情人 的 形象 。
+opus: 法国人 试图 卖 我们   他们 的 形象   作为 伟大 的 恋人 。
+group_1:
+full: 法国人试图向我们@推销@他们伟大情人的形象 。
+non: 法国人试图向我们@传播@他们伟大情人的形象 。
+group_2:
+full: 法国人 试图 向 我们 @兜售@ 他们 伟大 恋人 的 形象。
+non: 法国人 试图 向 我们 @推销@ 他们 伟大 恋人 的 形象。
+group_3:
+non: 法国人试图向我们@销售@他们完美情人的形象。
+part: 法国人试图向我们@展示@他们完美情人的形象。",
+7,192,"The rooms @communicated.@
+youdao: 这些 房间 相通 。
+google: 房间 沟通 。
+opus: 房间 的 沟通 。
+group_1:
+full: 这些房间彼此@相通@ 。
+non: 这些房间是@连在一起的@
+group_2:
+full: 这些 房间 @相通@。
+non: 这些 房间 @相互连通@。
+group_3:
+full: 这些房间@相通@。
+non: 这些房间@交流@。",
+8,308,"The Senator @steamrollered@ the bill to defeat.
+youdao: 那位 参议员 强 行使 该 法案 失败 。
+google: 参议员 以 压倒性 的 方式 使 议案 落败 。
+opus: 参议员 把 法案 推倒 了
+group_1:
+full: 那位参议员@施压@使该法案失败 。
+non: 参议员强行把法案推倒了。
+group_2:
+full: 参议员以@压倒性@的方式使议案落败。
+non: 参议员@强行@驳倒该议案。
+group_3:
+non: 那位参议员@强行@使该法案失败
+part: 那位参议员@施加强大压力@使该议案落败",
+9,280,"The bad news @shook@ her hopes.
+youdao: 这个 坏消息 动摇 了 她 的 希望 。
+google: 这个 坏消息 动摇 了 她 的 希望 。
+opus: 坏消息 动摇 了 她 的 希望 。
+group_1:
+full: 这个坏消息@动摇@了她的希望 。
+non: 这个坏消息使她的希望破灭 。
+group_2:
+full: 这个 坏消息 @动摇@ 了 她 的 希望 。
+non: 这个 坏消息 让 她 @失望@。
+group_3:
+full: 这个坏消息@动摇@了她的希望。
+non: 这个坏消息@动摇@了她的希望。",
+10,25,"I @salute@ your courage!
+youdao: 我 向 你 的 勇气 致敬 !
+google: 我 向 你 的 勇气 致敬 ！
+opus: 我 向 你 的 勇气 致敬 !
+group_1:
+full: 我向你的勇气@致敬@ !
+non: 我敬佩你的勇气。
+group_2:
+full: 我 向 你 的 勇气 @敬礼@ !
+non: 我 向 你 的 勇气 @致敬@ !
+group_3:
+full: 我向你的勇气@致敬@！
+non: 我@敬佩@你的勇气！",
+11,227,"She @swallowed@ the last words of her speech.
+youdao: 她 咽下 了 最后 几句话 。
+google: 她 把 演讲 的 最后 一句 话 咽 了 下去 。
+opus: 她 吞下 了 她 演讲 的 最后 一句 话 。
+group_1:
+full: 她@咽@下了最后几句话 。
+non: 她最后几句话@没有说@。
+group_2:
+full: 她@咽下了@演讲的最后一句话。
+non: 她@没有说出@演讲的最后一句话。
+group_3:
+full: 她 @咽下@ 了 最后 几句话 。
+non: 她 @吞下@ 了 最后 几句话 。",
+12,153,"My son @drifted@ around for years in California before going to law school.
+youdao: 我 儿子 在 上 法学院 之前 在 加州 漂泊 了 多年 。
+google: 在 上 法学院 之前 ， 我 的 儿子 在 加利福尼亚 漂泊 了 多年 。
+opus: 我 儿子 在 加州 漂泊 多年   之后 才 上 法学院
+group_1:
+full: 我儿子在上法学院之前在加州@漂泊@了多年 。
+non: 我儿子在上法学院之前在加州@流浪@了多年 。
+group_2:
+full: 我 儿子 在 上 法学院 之前 在 加州 @漂泊@ 了 多年 。
+non: 我 儿子 在 上 法学院 之前 在 加州 @过@ 了 许多 年 。
+group_3:
+full: 我 儿子 在 上 法学院 之前 在 加州 @漂泊 @了 多年 。
+non: : 我 儿子 在 上 法学院 之前 在 加州 @漂流@ 了 多年 。",
+13,97,"She @stuffed@ herself at the dinner.
+youdao: 她 狼吞虎咽 地 吃晚饭 。
+google: 她 在 晚餐 时 大吃大喝 。
+opus: 她 自己 在 晚餐 上 填饱 肚子 了
+group_1:
+full: 她@狼吞虎咽@地吃晚饭 。
+non: 她@急匆匆地吃@晚饭。
+group_2:
+full: 她 在 晚餐 时 @大吃大喝@ 。
+non: 她 在 晚餐 时@填饱@肚子。
+group_3:
+non: 她在晚餐时@大吃大喝@。
+part: 她@狼吞虎咽@地吃晚饭。",
+14,19,"A hot soup will @revive@ me.
+youdao: 一杯 热汤 会 使 我 苏醒过来 。
+google: 热汤 会 让 我 恢复 活力 。
+opus: 热汤 能 让 我 复活
+group_1:
+full: 热汤会让我@复活@。
+non: 一杯热汤会使我@恢复精神@。
+group_2:
+full: 一杯 热汤 能 让 我 @苏醒过来@。
+non: 一杯 热汤 能 让 我 @复活@。
+group_3:
+full: 热汤会让我@感觉重获新生@
+non: 热汤会让我@恢复活力@",
+15,231,"The treaty @neutralized@ the small republic.
+youdao: 条约 使 这个 小 共和国 失去 了 地位 。
+google: 该 条约 中立 了 这个 小 共和国 。
+opus: 条约 解除 了 小 共和国 的 效力 。
+group_1:
+full: 该条约@中立@了这个小共和国 。
+non: 该条约让这个小共和国@孤立无援@。
+group_2:
+non: 该 条约 @解除@了 这个 小 共和国 的 效力 。
+part: 该 条约 @不承认@这个 小 共和国。
+group_3:
+full: 这个条约使这个小共和国@保持中立@。
+non: 这个条约使这个小共和国@保持中立@。",
+16,240,"Her optimism @neutralizes@ his gloom.
+youdao: 她 的 乐观 中 和 了 他 的 忧郁 。
+google: 她 的 乐观 抵消 了 他 的 忧郁 。
+opus: 她 的 乐观 情绪 消除 了 他 的 忧郁
+group_1:
+full: 她的乐观@抚平@了他的忧郁 。
+non: 她的乐观使他的忧郁@缓和@。
+group_2:
+non: 她的乐观@中和@了他的忧郁。
+part: 她的乐观情绪@融化@了他的忧郁。
+group_3:
+non: 她 的 乐观 @减少@了 他 的 忧郁 。
+part: 她 的 乐观 @治愈@ 了 他 的 忧郁 。",
+17,174,"A rash @erupted@ on her arms after she had touched the exotic plant.
+youdao: 她 碰 了 这种 奇异 的 植物 后 ， 手臂 上起 了 疹子 。
+google: 在 她 接触 了 这种 外来 植物 后 ， 她 的 手臂 出现 了 皮疹 。
+opus: 她 触摸 外来 植物 后 , 手臂 上 爆发 了 皮疹 。
+group_1:
+full: 她触摸外来植物后 , 手臂上@爆发@了皮疹 。
+non: 她触摸外来植物后 , 手臂上@起@了皮疹 。
+group_2:
+full: 她触摸外来植物后 , 手臂上@爆发了@皮疹。
+non: 她触摸外来植物后 ,手臂上@起了@疹子。
+group_3:
+full: 在她碰了这种外来植物之后,她的手臂上@起@了疹子。
+non: 在她碰了这种外来植物之后,她的手臂上@起@了疹子。",
+18,256,"These big jets are @tied@ to large airports.
+youdao: 这些 大型 喷气式 飞机 与 大型 机场 联系 在 一起 。
+google: 这些 大型 喷气式 飞机 与 大型 机场 相连 。
+opus: 这些 大型 喷气机 被绑 在 大型 机场 上
+group_1:
+full: 这些大型喷气式飞机与大型机场@相连@。
+non: 这些大型喷气机在大型机场上。
+group_2:
+full: 这些 大型 喷气式 飞机 与 大型 机场@相连@ 。
+non: 这些 大型 喷气式 飞机 与 大型 机场 相 @联系@ 。
+group_3:
+full: 这些大型喷气式飞机与大型机场@适配@。
+non: 这些大型喷气式飞机与大型机场@连接@在一起。",
+19,78,"His laughter @infects@ everyone who is in the same room.
+youdao: 他 的 笑声 感染 了 同一 间 屋子里 的 每个 人 。
+google: 他 的 笑声 感染 了 在 同一个 房间 里 的 每个 人 。
+opus: 他 的 笑声 感染 了 同一个 房间 里 的 每 一个 人
+group_1:
+full: 他的笑声@感染@了在同一个房间里的每个人 。
+non: 他的笑声让同一个房间里的每个人都快乐。
+group_2:
+full: 他的笑声@感染@了屋子里的每个人。
+non: 他的笑声@影响@了屋子里的每个人。
+group_3:
+full: 他的笑声@感染@了在同一间屋子里的每个人。
+non: 他的笑声@影响@了在同一间屋子里的每个人。",
+20,56,"His heart @palpitated.@
+youdao: 他 的 心 怦怦直跳 。
+google: 他 的 心 怦怦直跳 。
+opus: 他 的 心跳 迅速
+group_1:
+full: 他的心@悸动@。
+non: 他的心@快速跳动@。
+group_2:
+full: 他 的 心 @怦怦直跳@。
+non: 他 的 心 在 @跳动@。
+group_3:
+full: 他的心在@颤动@
+non: 他的心@跳得很快@",
+21,232,"He @revived@ this style of opera.
+youdao: 他 复兴 了 这种 风格 的 歌剧 。
+google: 他 复兴 了 这种 歌剧 风格 。
+opus: 他 恢复 了 歌剧 的 风格
+group_1:
+full: 他@复兴@了这种歌剧风格 。
+non: 他使这种歌剧风格@重新上演@。
+group_2:
+full: 他 @复兴@ 了 这种 风格 的 歌剧 。
+non: 他 @恢复@ 了 这种 风格 的 歌剧 。
+group_3:
+full: 他@复兴@了这种风格的歌剧
+non: 他使这种风格的歌剧@再次流行@",
+22,203,"@fill@ the child with pride.
+youdao: 让 孩子 充满 骄傲 。
+google: 让 孩子 充满 自豪感 。
+opus: 让 孩子 充满 骄傲
+group_1:
+full: 让孩子@充满@自豪感 。
+non: 让孩子很骄傲。
+group_2:
+full: 让 孩子 充满 @自豪感@。
+non: 让 孩子 充满 @骄傲感@。
+group_3:
+full: 让孩子@变得@自豪。
+non: 让孩子@变得@自豪。",
+23,311,"Hundreds of actors were @melting@ into the scene.
+youdao: 数以百计 的 演员 融入 了 现场 。
+google: 数百名 演员 融入 了 场景 。
+opus: 成百上千 的 演员 正在 融化   进入 现场 。
+group_1:
+full: 数百名演员@融入@了场景 。
+non: 成百上千的演员@适应@了场景。
+group_2:
+non: 数百名 演员@融 在@场景 里。
+part: 数百名 演员 与 现场@合为一体@。
+group_3:
+full: 数以百计的演员@融入@了画面。
+non: 数以百计的演员@融入@了画面。",
+24,77,"the government @digested@ the entire law into a code.
+youdao: 政府 把 整个 法律 消化 成 法典 。
+google: 政府 将 整部 法律 消化 成 一部 法典 。
+opus: 政府 将 整个 法律 化为 法典
+group_1:
+full: 政府将整个法律@化@为法典
+non: 政府将整部法律@整理@成一部法典 。
+group_2:
+full: 政府 将 整部 法律 @化@ 成 一部 法典 。
+non: 政府 将 整部 法律 @整合@ 成 一部 法典 。
+group_3:
+full: 政府将整部法律@化@为一部法典。
+non: 政府将整部法律@转化@为一部法典。",
+25,105,"The cigar smoke @curled@ up at the ceiling.
+youdao: 雪茄 的 烟 在 天花板 上 袅袅 升起 。
+google: 雪茄 烟雾 在 天花板 上 袅袅 升起 。
+opus: 雪茄烟 卷 在 天花板 上
+group_1:
+full: 雪茄烟雾在天花板上@盘旋@。
+non: 雪茄烟@升起@在天花板上
+group_2:
+full: 雪茄 的 烟 在 天花板 上 @袅袅 升起@。
+non: 雪茄 的 烟 在 天花板 上 @环绕着@ 升起。
+group_3:
+full: 雪茄的烟@旋转@至天花板上。
+non: 雪茄的烟@飘@到天花板上。",
+26,20,"Life in the camp @drained@ him.
+youdao: 集中营 的 生活 使 他 筋疲力尽 。
+google: 营地 里 的 生活 让 他 筋疲力尽 。
+opus: 难民营 里 的 生活 让 他 精疲力尽
+group_1:
+full: 集中营的生活使他@筋疲力尽@ 。
+non: 集中营的生活让他很@累@。
+group_2:
+full: 营地里的生活让他@筋疲力尽@ 。
+non: 营地里的生活让他@劳累 @。
+group_3:
+full: 在营地里的生活@吸干了@他的精力
+non: 在营地里的生活让他@很累@",
+27,120,"The oscillator @hunts@ about the correct frequency.
+youdao: 振荡器 在 正确 的 频率 附近 摆动 。
+google: 振荡器 寻找 正确 的 频率 。
+opus: 振荡器 在 寻找 正确 的 频率
+group_1:
+full: 振荡器@追踪@正确的频率 。
+non: 振荡器在正确的频率附近@摆动@ 。
+group_2:
+full: 振荡器在正确的频率附近@摆动@ 。
+non: 振荡器@寻找@正确频率 。
+group_3:
+non: 振荡器在@寻找@正确的频率。
+part: 振荡器在@搜寻@正确的频率。",
+28,67,"The critics @puffed@ up this Broadway production.
+youdao: 评论家 们 对 这部 百老汇 作品 大加 吹捧 。
+google: 评论家 夸大 了 这部 百老汇 的 作品 。
+opus: 批评家 们 把 百老汇 的 作品 都 翻 了 个 底朝天
+group_1:
+full: 评论家们对这部百老汇作品大加@吹捧@。
+non: 评论家们对这部百老汇作品@夸奖@。
+group_2:
+full: 批评家 们 对 这部 百老汇 作品 @大加 吹捧@ 。
+non: 评论家 们 @夸大@ 这部 百老汇 作品 。
+group_3:
+full: 剧评家们对这部百老汇的作品@大肆赞扬@。
+non: 剧评家们@吹捧@这部百老汇的作品。",
+29,159,"This job doesn't @match@ my dreams.
+youdao: 这份 工作 不 符合 我 的 梦想 。
+google: 这份 工作 不 符合 我 的 梦想 。
+opus: 这份 工作 不 符合 我 的 梦想
+group_1:
+full: 这份工作与我的梦想不@匹配@。
+non: 这份工作不@符合@我的梦想 。
+group_2:
+non: 这份工作不@符合@我的梦想。
+part: 这份工作和我的梦想@相差甚远@。
+group_3:
+full: 这份工作与我的梦想不@相称@
+non: 这份工作与我的梦想不@符@",
+30,9,"@poison@ someone's mind.
+youdao: 毒害 某人 的 思想 。
+google: 毒害 某人 的 思想 。
+opus: 毒害 某人 的 心灵
+group_1:
+full: @毒害@某人的思想 。
+non: @危害@某人的思想。
+group_2:
+full: @腐蚀@ 某人 的 思想。
+non: @毒害@ 某人 的 思想。
+group_3:
+non: @毒害@ 某人 的 思想 。
+part: :@侵害@ 某人 的 思想 。",
+31,284,"Some nice results @emerged@ from the study.
+youdao: 这项 研究 得出 了 一些 不错 的 结果 。
+google: 研究 中 出现 了 一些 不错 的 结果 。
+opus: 这项 研究 产生 了 一些 良好 的 结果 。
+group_1:
+full: 这项研究了@浮现@了一些不错的结果 。
+non: 这项研究@出现@了一些不错的结果 。
+group_2:
+full: 这项 研究 @得出@ 了 一些 不错 的 结果 。
+non: 这项 研究 @出现@ 了 一些 不错 的 结果 。
+group_3:
+full: 这项研究中@得出@了一些不错的结果。
+non: 这项研究中@产生@了一些不错的结果。",
+32,196,"The news were @leaked@ to the paper.
+youdao: 消息 泄露 给 了 报纸 。
+google: 消息 被 泄露 给 了 报纸 。
+opus: 新闻 被 透露 给 报社 了
+group_1:
+full: 新闻被@泄露@给报社了
+non: 新闻被@告知@给报社 了
+group_2:
+full: 消息 被@透露@给 报社 了。
+non: 消息 被@秘密地传达@给 报社 了。
+group_3:
+full: 消息被@泄露@给报社了。
+non: 消息被@提供@给了报社。",
+33,24,"Sales were @climbing@ after prices were lowered.
+youdao: 价格 降低 后 ， 销售量 上升 。
+google: 价格 下调 后 销量 攀升 。
+opus: 价格 下跌 后 销售额 上升 。
+group_1:
+full: 价格下调后销量@攀升@。
+non: 价格下调后销量@上升@。
+group_2:
+full: 价格 下调 后 销量 @攀升@ 。
+non: 价格 下调 后 销量 @上升@ 。
+group_3:
+full: 价格下跌后销量@攀升@。
+non: 价格下跌后销量@上升@",
+34,27,"Islam is @fermenting@ Africa.
+youdao: 伊斯兰教 正在 非洲 发酵 。
+google: 伊斯兰教 正在 发酵 非洲 。
+opus: 伊斯兰教 正在 发酵 非洲 。
+group_1:
+full: 伊斯兰教正在非洲@发酵@ 。
+non: 伊斯兰教正在非洲@产生@。
+group_2:
+full: 伊斯兰教 正在 非洲 @发酵@。
+non: 伊斯兰教 正在 非洲 @发展@。
+group_3:
+non: 伊斯兰教正在非洲@兴起@
+part: 伊斯兰教正在非洲@萌芽@",
+35,309,"The bridge broke and @precipitated@ the train into the river below.
+youdao: 桥断 了 ， 把 火车 冲入 了 下面 的 河里 。
+google: 桥断 了 ， 火车 掉 进 了 下面 的 河里 。
+opus: 桥断 了 , 把 火车撞 到 下面 的 河里
+group_1:
+full: 桥断 了 , 使 火车 突然@下陷@到河里 。
+non: 桥断 了 , 把 火车@ 冲入 @了 下面 的 河里 。
+group_2:
+full: 桥断 了,火车 @栽@ 进 了 下面 的 河里。
+non: 桥断 了, 火车 @掉@ 进 了 下面 的 河里。
+group_3:
+non: 桥断了,火车@掉@进了下面的河里
+part: 桥断了,火车@冲@入了下面的河里",
+36,12,"Our business was @hurt@ by the new competition.
+youdao: 新 的 竞争 使 我们 的 生意 受到 损害 。
+google: 我们 的 业务 受到 新 竞争 的 伤害 。
+opus: 我们 的 生意 受到 了 新 竞争对手 的 伤害
+group_1:
+full: 新 的 竞争 使 我们 的 生意 受到@ 损害 @。
+non: 新 的 竞争 使 我们 的 生意 受到 @威胁 @。
+group_2:
+full: 我们 的 生意 受到了 新 竞争 的 @损害@。
+non: 我们 的 生意 受到了 新 竞争 的 @伤害@。
+group_3:
+full: 我们的生意受到了新的竞争的@伤害@。
+non: 我们的生息受到了新的竞争的@破坏@。",
+37,100,"Our economy @precipitated@ into complete ruin.
+youdao: 我们 的 经济 一下子 彻底 崩溃 了 。
+google: 我们 的 经济 完全 崩溃 了 。
+opus: 我们 的 经济 陷入 彻底 的 崩溃 。
+group_1:
+full: 我们 的 经济 一下子 彻底@ 崩溃 @了 。
+non: 我们 的 经济 被迫加速@下滑@。
+group_2:
+full: 我们 的 经济 @一下子@ 彻底 崩溃 了 。
+non: 我们 的 经济 @加速@ 完全 崩溃 了 。
+group_3:
+full: 我们的经济@一下子彻底崩塌@了
+non: 我们的经济@一下子彻底崩溃@了",
+38,204,"The prisoners are safely @pounded.@
+youdao: 囚犯 们 被 安全 地 打 了 一顿 。
+google: 囚犯 被 安全 地 殴打 。
+opus: 囚犯 们 被 安全 地 击打 。
+group_1:
+full: 囚犯 们 被 @穷追猛打@。
+non: 囚犯 们 被 狠狠地@打@。
+group_2:
+full: 囚犯们 被 安全 地 @殴打@ 了 一顿。
+non: 囚犯们 被 安全 地 @击打@ 了 一顿。
+group_3:
+full: 囚犯 们 被 好好 地 @打 了 一顿 @。
+non: 囚犯 们 被 好好地 @重击@ 。",
+39,21,"Interns have to @rotate@ for a few months.
+youdao: 实习生 必须 轮流 工作 几个 月 。
+google: 实习生 必须 轮换 几个 月 。
+opus: 实习生 必须 轮调 几个 月 。
+group_1:
+full: 实习生 必须 @轮值@几个 月 。
+non: 实习生 必须 @轮流工作@几个 月 。
+group_2:
+full: 实习生 必须 @轮调@ 几个 月 。
+non: 实习生 必须 @轮流@ 工作 几个 月 。
+group_3:
+full: 实习生必须@轮值@工作几个月。
+non: 实习生必须@轮值@工作几个月。",
+40,229,"Her feelings @condensed.@
+youdao: 她 的 感情 浓缩 了 。
+google: 她 的 感情 凝固 了 。
+opus: 她 的 感情 被 凝固 了
+group_1:
+full: 她 的 感情 @凝滞@ 了 。
+non: 她 的 感情 @被定住 @了 。
+group_2:
+full: 她@聚精凝神@。
+non: 她 的 注意力@集中@。
+group_3:
+non: 她的感情@消失@了
+part: 她的感情@凝固@了",
+41,313,"He was @showered@ with praise.
+youdao: 他 受到 阵阵 赞扬 。
+google: 他 赞不绝口 。
+opus: 他 被 赞美 地洗 了 澡 。
+group_1:
+full: 他受到@阵阵@赞扬 。
+non: 他被表扬。
+group_2:
+full: 他 @受到@ 阵阵 赞扬。
+non: 他 @沐浴着@ 阵阵 赞扬。
+group_3:
+non: 他@受到@了阵阵赞扬。
+part: 他@沉浸@在阵阵赞扬中。",
+42,35,"She @interrupted@ her pregnancy.
+youdao: 她 中断 了 怀孕 。
+google: 她 中断 了 怀孕 。
+opus: 她 中断 了 妊娠 。
+group_1:
+full: 她@中断@了怀孕 。
+non: 她不怀孕了。
+group_2:
+full: 她 @中断@ 了 妊娠 。
+non: 她 @中止@了 妊娠 。
+group_3:
+full: 她 @中断 @了 妊娠 。
+non: 她 @停止@ 了 妊娠 。",
+43,15,"stock prices are @drifting@ higher.
+youdao: 股票价格 正在 上涨 。
+google: 股价 正在 走高 。
+opus: 股票价格 走高 。
+group_1:
+full: 股价 正在 @走高@ 。
+non: 股价 正在 @上升@。
+group_2:
+full: 股票价格正在@不知不觉@的上涨。
+non: 股票价格@正在@上涨。
+group_3:
+non: 股票价格正在@上涨@。
+part: 股票价格正在@走高@。",
+44,38,"She @traced@ the circumstances of her birth.
+youdao: 她 追溯 了 自己 出生 的 情况 。
+google: 她 追溯 了 她 出生 的 情况 。
+opus: 她 追踪 了 她 的 出生 情况 。
+group_1:
+full: 她 @追溯@ 了 自己 出生 的 情况 。
+non: 她 @回顾 @了 自己 出生 的 情况 。
+group_2:
+full: 她 @追溯@ 了 自己 出生 的 情况。
+non: 她 @追踪@ 了 自己 出生 的 情况。
+group_3:
+full: 她@追查@了她出生的情况。
+non: 她@追查@了她出生的情况。",
+45,209,"The Turks @erased@ the Armenians in 1915.
+youdao: 土耳其人 在 1915 年 消灭 了 亚美尼亚人 。
+google: 土耳其人 在   1915   年 消灭 了 亚美尼亚人 。
+opus: 1915 年 土耳其人 消灭 了 亚美尼亚人
+group_1:
+full: 土耳其人 在 1915 年 @消灭@ 了 亚美尼亚人 。
+non: 土耳其人 在 1915 年@抹去@了亚美尼亚人生活的痕迹。
+group_2:
+full: 1915年土耳其人@抹除@了亚美尼亚人的痕迹。
+non: 1951年土耳其人@消灭@了亚美尼亚人。
+group_3:
+full: 土耳其在1915年@消灭@了亚美尼亚。
+non: 土耳其在1915年@消灭@了亚美尼亚。",
+46,291,"Our babysitter @raided@ our refrigerator.
+youdao: 我们 的 保姆 翻 了 我们 的 冰箱 。
+google: 我们 的 保姆 搜查 了 我们 的 冰箱 。
+opus: 我们 的 保姆 袭击 了 我们 的 冰箱
+group_1:
+full: 我们 的 保姆 @扫荡@了 我们 的 冰箱 。
+non: 我们 的 保姆 @翻找 @了 我们 的 冰箱 。
+group_2:
+full: 我们 的 保姆 @扫荡@冰箱 里 的 食物。
+non: 我们 的 保姆 @偷走@冰箱 里 的 食物。
+group_3:
+full: 我们的保姆将冰箱里的东西@一扫而空@。
+non: 我们的保姆将冰箱里的东西@偷走@。",
+47,141,"The bullets @whistled@ past him.
+youdao: 子弹 从 他 身边 呼啸而过 。
+google: 子弹 从 他 身边 呼啸而过 。
+opus: 子弹 从 他 身上 吹过
+group_1:
+full: 子弹 从 他 身边 @呼啸而过@ 。
+non: 子弹 从 他 身边@穿过@。
+group_2:
+full: 子弹 从 他 身边 @呼啸@而 过.
+non: 子弹 从 他 身边 @飞@过。
+group_3:
+full: 子弹从他身旁@呼啸@而过。
+non: 子弹从他身旁@呼啸@而过。",
+48,87,"The rules @relaxed@ after the new director arrived.
+youdao: 新 主任 上任 后 ， 规章制度 放宽 了 。
+google: 新 主任 上任 后 ， 规定 放宽 了 。
+opus: 新 导演 到来 后 , 规定 放宽 了 。
+group_1:
+full: 新 主任 上任 后 , 规章制度 @放松@了 。
+non: 新 主任 上任 后 , 规章制度 @变轻松@ 了 。
+group_2:
+full: 新主任上任后 ,规章制度@放宽@了。
+non: 新主任上任后 ,规章制度@放松@了。
+group_3:
+full: 新主任上任后,规章制度@放宽@了。
+non: 新主人上任后,规章制度@放宽@了。",
+49,63,"The music @swelled@ to a crescendo.
+youdao: 音乐 渐强 渐强 。
+google: 音乐 膨胀 到 高潮 。
+opus: 音乐 膨胀 到 高潮
+group_1:
+full: 音乐@逐渐增强@
+non: 音乐越来越@响亮@
+group_2:
+full: 音乐 @渐强@ 到 高潮。
+non: 音乐 @膨胀@ 到 高潮。
+group_3:
+non: 音乐@逐渐变强@至高潮
+part: 音乐@涌动@至高潮",
+50,1,"Sales were @climbing@ after prices were lowered.
+youdao: 价格 降低 后 ， 销售量 上升 。
+google: 价格 下调 后 销量 攀升 。
+opus: 价格 下跌 后 销售额 上升 。
+group_1:
+full: 价格 下调 后 销量 @攀升 @。
+non: 价格 下跌 后 销售额 @上升@ 。
+group_2:
+full: 价格 降低 后, 销售量 @攀升@。
+non: 价格 降低 后, 销售量 @上升@。
+group_3:
+full: 价格下调后销售量@攀升@。
+non: 价格下调后销售量@上涨@。",
+51,190,"The bus @thundered@ down the road.
+youdao: 公共汽车 隆隆 地 沿路 行驶 。
+google: 公共汽车 在 路上 轰鸣 。
+opus: 公交车 在 路上 闪电 了
+group_1:
+full: 公共汽车 在 路上 @轰鸣@ 。
+non: 公交车 在 路上@发出很大声音@
+group_2:
+full: 公共汽车@隆隆地@沿路行驶 。
+non: 公交车在路上@轰鸣@。
+group_3:
+non: 公共汽车在路上@轰鸣@。
+part: 公共汽车@轰隆隆地@沿路行驶。",
+52,44,"earthquakes @convulsed@ the countryside.
+youdao: 地震 震动 了 乡村 。
+google: 地震 震动 了 农村 。
+opus: 地震 震动 了 农村 。
+group_1:
+full: 地震@ 震动 @了 乡村 。
+non: 地震 使 乡村 @剧烈晃动@。
+group_2:
+full: 地震使乡村@为之颤动@。
+non: 地震使乡村@震动@。
+group_3:
+non: 地震 @震动@ 了 乡村 。
+part: 地震 @剧烈摇撼@ 了 农村 。",
+53,75,"The hikers @topped@ the mountain just before noon.
+youdao: 徒步旅行 者 在 正午 前 到达 了 山顶 。
+google: 徒步旅行 者 在 中午 之前 登上 了 山顶 。
+opus: 徒步 者 在 中午 前 登上 山顶
+group_1:
+full: 徒步旅行 者 在 正午 前 @登顶@
+non: 徒步旅行 者 在 正午 前 @爬到山顶@
+group_2:
+full: 徒步 者 在 中午 前@登上@山顶。
+non: 徒步 者 在 中午 前@到达@山顶。
+group_3:
+full: 徒步旅行 者 在 中午 之前 @登上@ 了 山顶 。
+non: 徒步旅行 者 在 中午 之前 @置于山顶端@ 。",
+54,18,"The champagne @flowed@ at the wedding.
+youdao: 婚礼 上 香槟酒 满天飞 。
+google: 香槟 在 婚礼 上 流动 。
+opus: 婚礼 上 的 香槟 流 了 下来
+group_1:
+full: 婚礼 上 香槟酒 @畅饮@
+non: 香槟 在 婚礼 上 @有很多@ 。
+group_2:
+full: 婚礼 上 香槟酒 @满天飞@。
+non: 婚礼 上 香槟酒 @流动@。
+group_3:
+non: 婚礼 上 香槟酒 满席@流@。
+part: 婚礼 上 香槟酒 满席@飞@ 。",
+55,98,"He @kited@ many checks.
+youdao: 他开 了 许多 支票 。
+google: 他 风筝 了 许多 支票 。
+opus: 他 打包 了 很多 支票
+group_1:
+full: 他@开 @了 许多 支票 。
+non: 他 @写@ 了 很多 支票
+group_2:
+full: 他@开具@了许多空头支票。
+non: 他@开了@许多空头支票。
+group_3:
+full: 他@开具@ 了 许多 空头支票 。
+non: 他@开@ 了 许多 空头支票 。",
+56,173,"He @sifted@ the information.
+youdao: 他 仔细 筛选 信息 。
+google: 他 筛选 了 资料 。
+opus: 他 筛选 了 信息
+group_1:
+full: 他 仔细 @筛选@ 信息 。
+non: 他 仔细 @审查@ 信息 。
+group_2:
+full: 他@仔细审查@了信息 。
+non: 他@筛选@了信息 。
+group_3:
+full: 他@仔细筛选@了信息。
+non: 他@仔细筛选@了信息。",
+57,146,"He @absorbed@ the costs for the accident.
+youdao: 他 承担 了 这次 事故 的 费用 。
+google: 他 承担 了 事故 的 费用 。
+opus: 他 承担 了 事故 的 费用
+group_1:
+full: 他 @承担@ 了 这次 事故 的 费用 。
+non: 他 @支付@了 这次 事故 的 费用 。
+group_2:
+full: 他 @承担@ 了 这次 事故 的 费用。
+non: 他 @吸收@ 了 这次 事故 的 费用。
+group_3:
+non: 他 @吸收@了 这次 事故 的 费用 。
+part: 他@ 承担@ 了 这次 事故 的 费用 。",
+58,91,"She @designed@ a good excuse for not attending classes that day.
+youdao: 她 为 那天 不去 上课 编了 一个 很 好 的 借口 。
+google: 她 为 那天 不去 上课 设计 了 一个 很 好 的 借口 。
+opus: 她 为 那天 不 上课 设计 了 一个 很 好 的 借口 。
+group_1:
+full: 她 为 那天 不去 上课 @编@了 一个 很 好 的 借口 。
+non: 她 为 那天 不去 上课 @安排@了 一个 很 好 的 借口 。
+group_2:
+non: 她 为 那天 不去 上课@找@了 一个 很 好 的 借口。
+part: 她 为 那天 不去 上课@编了@一个 很 好 的 借口。
+group_3:
+non: 她 为 那天 不去 上课 @设计@了 一个 很 好 的 借口 。
+part: 她 为 那天 不去 上课 @编@了 一个 很 好 的 借口 。",
+59,76,"She @clawed@ the doorknob.
+youdao: 她 用 爪子 抓 门把手 。
+google: 她 抓住 了 门把手 。
+opus: 她 抓 了 门把手
+group_1:
+full: 她@ 抓住 @了 门把手 。
+non: 她@ 把住@门把手 。
+group_2:
+full: 她@一把抓住@了门把手。
+non: 她@抓住了@门把手。
+group_3:
+full: 她@紧紧抓住@了门把手
+non: 她@紧握@门把手",
+60,271,"The distinction between the two theories @blurred.@
+youdao: 这 两种 理论 之间 的 区别 很 模糊 。
+google: 两种 理论 之间 的 区别 模糊 了 。
+opus: 这 两种 理论 之间 的 区别 模糊不清 。
+group_1:
+full: 这 两种 理论 之间 的 区别 很 @模糊 @。
+non: 这 两种 理论 之间 的 区别 @不大@
+group_2:
+full: 这 两种 理论 之间 的 区别 @模糊不清@。
+non: 这 两种 理论 之间 的 区别 @模糊@ 。
+group_3:
+full: 这两种理论之间的区别@模糊@了。
+non: 这两种理论之间的区别@模糊@了。",
+61,3,"The cancer cells are @attacking@ his liver.
+youdao: 癌细胞 正在 攻击 他 的 肝脏 。
+google: 癌细胞 正在 攻击 他 的 肝脏 。
+opus: 癌细胞 正在 攻击 他 的 肝脏
+group_1:
+full: 癌细胞 正在 @攻击@ 他 的 肝脏 。
+non: 癌细胞 使他的肝脏@受损@ 。
+group_2:
+full: 癌细胞 正在 @攻击@ 他 的 肝脏。
+non: 癌细胞 正在 使 他 的 肝脏@非常难受@。
+group_3:
+full: 癌细胞 正在 @攻击@ 他 的 肝脏 。
+non: 癌细胞 正在 @侵袭@ 他 的 肝脏 。",
+62,55,"They @taxed@ him failure to appear in court.
+youdao: 他们 指责 他 没有 出庭 。
+google: 他们 对 他 未能 出庭 征税 。
+opus: 他们 对 他 没有 出庭 征税 。
+group_1:
+full: 他们 @指责@ 他 没有 出庭 。
+non: 他们因为他没有出庭而@说坏话@
+group_2:
+full: 他们@指责@他 没有 出庭。
+non: 他们@责备@他 没有 出庭。
+group_3:
+non: 因为他未能出庭,他们让他@背负重大压力@。
+part: 他们 @指责@ 他 没有 出庭 。",
+63,178,"The old cheese was @crawling@ with maggots.
+youdao: 旧 奶酪 上 爬满了 蛆 。
+google: 老 奶酪 上 爬满了 蛆 。
+opus: 旧 的 奶酪 堆满 了 蚂蚁
+group_1:
+full: 旧 奶酪 上 @爬满了@ 蛆 。
+non: 旧 的 奶酪 全是蛆
+group_2:
+full: 旧奶酪上@爬满@了蛆。
+non: 旧奶酪上@爬行@着蛆。
+group_3:
+full: 旧 奶酪 上 @挤满了 @蛆 。
+non: 旧 奶酪 上 @爬满@了 蛆 。",
+64,288,"The charges were @inflated.@
+youdao: 费用 被 夸大 了 。
+google: 指控 被 夸大 了 。
+opus: 指控 被 夸大 。
+group_1:
+full: 指控 被 @夸大@ 了 。
+non: 指控得很过分 。
+group_2:
+non: 费用@上涨@。
+part: 费用@攀升@。
+group_3:
+non: : 指控 被 @膨胀@ 了 。
+part: 指控 被 @夸大@ 了 。",
+65,241,"The locks @pound@ the water of the canal.
+youdao: 船闸 冲击 着 运河 的 水 。
+google: 船闸 冲击 着 运河 的 水 。
+opus: 锁 把 运河 的 水压 住
+group_1:
+full: 船闸@ 冲击@ 着 运河 的 水 。
+non: 船闸和运河的水@对抗@。
+group_2:
+full: 船闸 @冲击@ 着 运河 的 水。
+non: 船闸 @击打@ 着 运河 的 水。
+group_3:
+full: 船闸@冲击@着运河水。
+non: 船闸@击打@着运河水。",
+66,139,"The mess in his dorm room @reflects@ on the student.
+youdao: 宿舍 里 的 乱糟糟 反映 了 这个 学生 的 性格 。
+google: 他 宿舍 里 的 乱七八糟 反映 在 学生 身上 。
+opus: 他 宿舍 的 烂摊子 让 学生 反省 了
+group_1:
+full: 宿舍 里 的 乱糟糟 @反映@ 了 这个 学生 的 性格 。
+non: 凌乱的宿舍@展现@了这个学生的性格
+group_2:
+full: 他 宿舍 里 的 乱糟糟 @映射@ 出 了 这个 学生 的 性格 。
+non: 他 宿舍 里 的 乱糟糟 @反映@ 出 了 这个 学生 的 性格 。
+group_3:
+full: 宿舍 里 的 乱糟糟 @折射出@ 了 这个 学生 的 性格 。
+non: 宿舍 里 的 乱糟糟 @反映@ 了 这个 学生 的 性格 。",
+67,225,"She wanted to @ruffle@ his composure.
+youdao: 她 想 扰乱 他 的 镇静 。
+google: 她 想 扰乱 他 的 镇定 。
+opus: 她 想 让 他 冷静下来
+group_1:
+full: 她 想 @扰乱@ 他 的 镇静 。
+non: 她 想 使 他不镇静 。
+group_2:
+full: 她 想 @扰乱@ 他 的 镇定。
+non: 她 想 @激怒@ 他 的 镇定。
+group_3:
+full: 她想@扰乱@他的镇静。
+non: 她想@扰乱@他的镇静。",
+68,59,"The White House @sits@ on Pennsylvania Avenue.
+youdao: 白宫 坐落 在 宾夕法尼亚 大道 上 。
+google: 白宫 坐落 在 宾夕法尼亚 大道 上 。
+opus: 白宫 坐在 宾夕法尼亚 大道
+group_1:
+full: 白宫 @坐落@ 在 宾夕法尼亚 大道 上 。
+non: 白宫 在 宾夕法尼亚 大道上
+group_2:
+full: 白宫 @坐落@ 在 宾夕法尼亚 大道 上 。
+non: 白宫 @在@ 宾夕法尼亚 大道 上。
+group_3:
+full: 白宫@坐落@在宾夕法尼亚大道上。
+non: 白宫@坐落@在宾夕法尼亚大道上。",
+69,29,"Middle age @dulled@ her appetite for travel.
+youdao: 人到中年 使 她 对 旅行 失去 了 兴趣 。
+google: 中年 削弱 了 她 对 旅行 的 兴趣 。
+opus: 中年 让 她 对 旅行 的 胃口 减低 了
+group_1:
+full: 人到中年 @削弱@ 了她对旅行的兴趣。
+non: 人到中年 让他不喜欢旅行
+group_2:
+non: 中年@减轻@了她对旅行的兴趣。
+part: 中年让她觉得旅行@毫无趣味@。
+group_3:
+non: 人到中年@减少@ 了 她 对 旅行 的 兴趣
+part: 人到中年@迟钝@ 了 她 对 旅行 的 兴趣",
+70,54,"She @radiates@ happiness.
+youdao: 她 容光焕发 。
+google: 她 散发 着 快乐 。
+opus: 她 会 发散 幸福 的 气息
+group_1:
+full: 她 @散发@ 着 快乐 。
+non: 她 很快乐
+group_2:
+full: 她 @容光焕发@。
+non: 她 @散发@ 着 快乐 的 气息。
+group_3:
+non: 她@表现@得很快乐
+part: 她@散发@着快乐",
+71,118,"@wallow@ in your success!
+youdao: 沉浸 在 你 的 成功 中 吧 !
+google: 沉浸 在 你 的 成功 中 ！
+opus: 愿 你们 成功 成功 !
+group_1:
+full: @沉浸 @在 你 的 成功 中 吧 !
+non: @享受@你的成功吧
+group_2:
+non: @沉浸@在你的成功中吧！
+part: 在你的成功中@尽情遨游@吧!
+group_3:
+full: 希望你们能@沉浸@在成功的喜悦中！
+non: 愿你们@成功@！",
+72,158,"You are @taxing@ my patience.
+youdao: 你 在 折磨 我 的 耐心 。
+google: 你 在 考验 我 的 耐心 。
+opus: 你 在 折磨 我 的 耐心
+group_1:
+full: 你 在 @消磨@ 我 的 耐心 。
+non: 你 让 我 的 耐心 变少了 。
+group_2:
+full: 你 在@折磨@我 的 耐心。
+non: 你 在@消耗@我 的 耐心。
+group_3:
+non: 你在@消耗@我的耐心。
+part: 你在@考验@我的耐心。",
+73,66,"@communicate@ a disease.
+youdao: 传播 疾病 。
+google: 传播 疾病 。
+opus: 传播 疾病 。
+group_1:
+full: @传播 @疾病 。
+non: 使疾病 @流行@。
+group_2:
+full: @传播@ 疾病。
+non: @传递@ 疾病。
+group_3:
+full: @传播@ 疾病 。
+non: @交流@疾病。",
+74,274,"The guy hanging around the school is @pushing@ drugs.
+youdao: 那个 在 学校 转悠 的 家伙 在 贩卖毒品 。
+google: 那个 在 学校 里 闲逛 的 家伙 正在 推销 毒品 。
+opus: 在 学校 周围 挂 着 的 家伙   正在 推动 药物 。
+group_1:
+full: 那个 在 学校 转悠 的 家伙 在 @推销@毒品 。
+non: 在 学校 周围 转悠 的 家伙 正在@贩卖@毒品。
+group_2:
+full: 那个 在 学校 周围 转悠 的 家伙 正在 @贩卖@ 毒品。
+non: 那个 在 学校 周围 转悠 的 家伙 正在 把 毒品 @推向他人@。
+group_3:
+non: 那个在学校里转悠的家伙正在@贩卖@毒品。
+part: 那个在学校里闲逛的家伙正在@推销@毒品。",
+75,188,"@key@ one's actions to the voters' prevailing attitude.
+youdao: 一个 人 的 行动 取决于 选民 的 普遍 态度 。
+google: 关键 一个 人 的 行为 影响 选民 的 普遍 态度 。
+opus: 投票 人 对 投票 人 普遍 态度 的 态度 采取 关键 行动 。
+group_1:
+full: 一个 人 的 行为@ 影响@ 选民 的 普遍 态度 。
+non: 一个 人 的 行为 成为选民 的 普遍 态度 关键。
+group_2:
+full: 选民的普遍态度@决定了@一个人的行动。
+non: 选民的普遍态度对一个人的行动@起关键作用@。
+group_3:
+full: 一个人的行动@关键在@选民的普遍态度。
+non: 一个人的行动@取决于@选民的普遍态度。",
+76,122,"trees @line@ the riverbank.
+youdao: 树木 沿着 河岸 排列 。
+google: 树木 排列 在 河 岸边 。
+opus: 河岸 的 树木 线 。
+group_1:
+full: 树木 @沿着 @河岸 排列 。
+non: 树木在河岸边@种着@。
+group_2:
+full: 树木 @沿着@ 河岸 排列。
+non: 树木 @排列@ 在 河岸 边。
+group_3:
+full: 树木沿着河岸@排列@成一条直线。
+non: 树木沿着河岸@排着@。",
+77,138,"She @pumped@ the witnesses for information.
+youdao: 她 向 证人 追问 信息 。
+google: 她 向 目击者 提供 信息 。
+opus: 她 向 证人 打听 了 信息
+group_1:
+full: 她 向 证人 @套取@ 信息 。
+non: 她 向 证人 @盘问@ 信息 。
+group_2:
+full: 她 向 证人 @追问@ 信息。
+non: 她 向 证人 @打听@ 信息。
+group_3:
+non: 她 从 证人那儿 @抽取@ 信息 。
+part: 她 向 证人 @追问 @信息 。",
+78,60,"I'll @ping@ my accountant -- April 15 is nearing.
+youdao: 我会 联系 我 的 会计 ， 4 月 15 日快 到 了 。
+google: 我会 通知 我 的 会计师 — — 4   月   15   日快 到 了 。
+opus: 4 月 15 日 就 快 到 了
+group_1:
+full: 我会 @联系@ 我 的 会计 , 4 月 15 日快 到 了 。
+non: 我会@提醒@我的会计4 月 15 日快 到 了 。
+group_2:
+full: 我会@联系@我 的 会计 ,4月15日快 到 了。
+non: 我会@通知@我 的 会计 , 4月15日快 到 了。
+group_3:
+non: 我会@联系@我的会计,4月15日快到了。
+part: 我会@提示@我的会计,4月15日快到了。",
+79,186,"This drug will @sharpen@ your vision.
+youdao: 这种 药会 使 你 的 视力 更 敏锐 。
+google: 这种 药会 使 你 的 视力 更 敏锐 。
+opus: 这药 能 让 你 的 视力 更 清晰
+group_1:
+full: 这药 能 让 你 的 视力 更 @清晰@
+non: 这药 能 @改善@ 你 的 视力 。
+group_2:
+full: 这种 药 会 使 你 的 视力 更 @敏锐@。
+non: 这种 药 会 使 你 的 视力 更 @清晰@。
+group_3:
+non: 这种 药会 使 你 的 视力 更 @清晰@ 。
+part: 这种 药会 使 你 的 视力 更 @敏锐@ 。",
+80,162,"He @showered@ her with presents.
+youdao: 他 向 她 大量 赠送 礼物 。
+google: 他 给 她 送 了 很多 礼物 。
+opus: 他 给 她 洗澡时 送 了 礼物
+group_1:
+full: 他 向 她 @大量 赠送 @礼物 。
+non: 他 @给 她 送 了 很多@ 礼物 。
+group_2:
+full: 他 给 她 @送@ 了 很多 礼物。
+non: 他 给 她 @大量赠送@ 礼物。
+group_3:
+non: 他让她@沐浴@在礼物中。
+part: 他 给 她 @送 了 很多@ 礼物 。",
+81,49,"@lay@ a responsibility on someone.
+youdao: 把 责任 推 给 某人 。
+google: 把 责任 推 给 某人 。
+opus: 赋予 某人 责任
+group_1:
+full: 把 责任 @推@ 给 某人 。
+non: 让别人@替自己承担@责任
+group_2:
+full: 把 责任 @推给@ 某人。
+non: 把 责任 @给@ 某人。
+group_3:
+non: : 把 责任 @放在@某人 身上。
+part: 把 责任 @推 给@ 某人 。",
+82,189,"This writer really @fractures@ the language.
+youdao: 这位 作家 真是 把 语言 搞 得 一团糟 。
+google: 这位 作家 真的 破坏 了 语言 。
+opus: 这 作家 真的 打破 了 语言 。
+group_1:
+full: 这位 作家 真是 把 语言 @搞 得 一团糟@ 。
+non: 这 作家 的语言@很糟糕 @。
+group_2:
+non: 这位作家真是@破坏@了语言的规则。
+part: 这作家的语言真是@一团糟@。
+group_3:
+non: 这位作家真的把语言@折断@。
+part: 这位作家的语言@毫无章法@。",
+83,226,"she @snorted@ her disapproval of the proposed bridegroom.
+youdao: 她 对 求婚 的 新郎 嗤之以鼻 。
+google: 她 哼 了 一声 ， 表示 不 赞成 提议 的 新郎 。
+opus: 她 打呼噜 说 她 不 赞成 新郎 的 求婚
+group_1:
+full: 她 对 求婚 的 新郎 @嗤之以鼻@ 。
+non: 她 @哼 了 一声@ , 表示 不 赞成 提议 的 新郎 。
+group_2:
+full: 她 对 求婚 的 新郎 @不屑一顾@ 。
+non: 她 @哼@ 了 一声 , 不 同意 新郎 的 求婚。
+group_3:
+full: 她对求婚的新郎@嗤之以鼻@。
+non: 她@表达@了她对求婚的新郎的不满。",
+84,253,"The cancer had @invaded@ her lungs.
+youdao: 癌细胞 已经 侵入 了 她 的 肺部 。
+google: 癌症 已经 侵入 了 她 的 肺部 。
+opus: 癌症 侵袭 了 她 的 肺部
+group_1:
+full: 癌细胞 已经 @侵入 @了 她 的 肺部 。
+non: 她的肺部被癌细胞@占满@了 。
+group_2:
+full: 癌细胞 已经 @侵入@ 到 了 她 的 肺部 。
+non: 癌细胞 已经 @扩散@到 了 她 的 肺部 。
+group_3:
+full: 癌细胞 已经 @侵入@ 了 她 的 肺部 。
+non: 癌细胞 已经 @侵略@ 了 她 的 肺部 。",
+85,275,"The critic @snorted@ contemptuously.
+youdao: 评论家 轻蔑 地 哼 了 一声 。
+google: 评论家 轻蔑 地 哼 了 一声 。
+opus: 批评者 轻蔑 地 打呼噜 。
+group_1:
+full: 评论家 @嗤之以鼻@。
+non: 评论家 轻蔑 地 @哼 @了 一声 。
+group_2:
+full: 评论家 轻蔑 地 @从鼻腔里 喷@ 出 鼻息 。
+non: 评论家 轻蔑 地 @哼@了 一声 。
+group_3:
+full: 评论家 轻蔑 地@ 哼 了 一声@ 。
+non: 评论家 轻蔑 地 @喷出鼻息@ 。",
+86,130,"He @pasted@ his opponent.
+youdao: 他 击败 了 对手 。
+google: 他 贴 了 他 的 对手 。
+opus: 他 粘 上 对手 了
+group_1:
+full: 他 @击败@ 了 对手 。
+non: 他 @打败@了 他 的 对手 。
+group_2:
+full: 他 @击败@ 了 对手。
+non: 他 @打@ 了 对手。
+group_3:
+non: 他 @过@ 了 对手 。
+part: 他 @击败 了@ 对手 。",
+87,304,"The press photographers @besieged@ the movie star.
+youdao: 摄影记者 包围 了 那位 电影明星 。
+google: 新闻 摄影师 围攻 了 这位 电影明星 。
+opus: 记者 摄影师 包围 了 电影明星
+group_1:
+full: 摄影记者@ 包围 @了 那位 电影明星 。
+non: 新闻 摄影师 @纠缠着@ 这位 电影明星 。
+group_2:
+full: 摄影记者 @包围@ 了 那位 电影明星 。
+non: 摄影记者 @围困住@ 了 那位 电影明星 。
+group_3:
+full: 摄影记者们@团团围住@了那位明星。
+non: 摄影记者们@团团围住@了那位明星。",
+88,125,"The police @smashed@ the drug ring after they were tipped off.
+youdao: 警方 在 得到 密报 后 粉碎 了 这个 贩毒集团 。
+google: 民警 接到 举报 后 捣毁 了 贩毒集团 。
+opus: 警察 在 被 告密 后 砸碎 了 毒品 圈
+group_1:
+full: 警方 在 得到 密报 后 @粉碎 @了 这个 贩毒集团 。
+non: 警察 在 被 告密 后 @缉拿@了 贩毒集团
+group_2:
+full: 警方在得到密报后@ 粉碎@了这个贩毒集团 。
+non: 警方在得到密报后@ 消灭@了这个贩毒集团 。
+group_3:
+non: 警方 在 得到 密报 后 @粉碎@ 了 这个 贩毒集团 。
+part: 警方 在 得到 密报 后 @捣毁@ 了 这个 贩毒集团 。",
+89,166,"The speech @crowned@ the meeting.
+youdao: 演讲 是 会议 的 高潮 。
+google: 讲话 为 会议 画上 了 句号 。
+opus: 演讲 为 会议 揭幕 。
+group_1:
+full: 演讲 是 会议 的 @高潮@ 。
+non: 演讲 使 会议@ 圆满 @。
+group_2:
+full: 演讲将会议@推向高潮@。
+non: 会议以演讲@收尾@。
+group_3:
+full: 这个演讲使会议@变得圆满@。
+non: 这个演讲使会议@变得圆满@。",
+90,144,"the rebels had @salted@ the fields with mines and traps.
+youdao: 叛军 在 田地 里 撒 上 了 地雷 和 陷阱 。
+google: 叛军 用 地雷 和 陷阱 在 田里 撒盐 。
+opus: 叛军 用 地雷 和 陷阱 在 田地 上 撒盐 。
+group_1:
+full: 叛军 用 地雷 和 陷阱 在 田地 上@制造困难 @。
+non: 叛军 在田地上@布满@地雷 和 陷阱 。
+group_2:
+non: 叛军在田地里@布置@了地雷和陷阱。
+part: 叛军在田里@铺满@了地雷和陷阱。
+group_3:
+non: 叛军在田地里@布下@了地雷和陷阱。
+part: 叛军在田地里@撒满@了地雷和陷阱。",
+91,70,"They @fastened@ various nicknames to each other.
+youdao: 他们 给 彼此 起 了 各种各样 的 绰号 。
+google: 他们 给 彼此 起 了 不同 的 绰号 。
+opus: 他们 把 各种 昵称 捆绑 在 一起
+group_1:
+full: 他们 给 彼此 @捆绑@了 各种各样 的 绰号 。
+non: 他们 给 彼此 @起@了 各种各样 的 绰号 。
+group_2:
+non: 他们给彼此@起了@各种各样的绰号。
+part: 他们给彼此@冠以@各种各样的绰号 。
+group_3:
+non: 他们给彼此@起@了各种各样的绰号。
+part: 他们给彼此@贴@上不同的绰号。",
+92,143,"Age and experience @mellowed@ him over the years.
+youdao: 多年 来 ， 年龄 和 经验 使 他 成熟 起来 。
+google: 多年 来 ， 年龄 和 经验 使 他 变得 成熟 。
+opus: 几年 来 , 他 年迈 , 体会 到 温柔 的 年华
+group_1:
+full: 多年 来 , 年龄 和 经验 使 他 @成熟 @起来
+non: 多年 来 , 年龄 和 经验 让他 @成长@
+group_2:
+full: 几年 来, 年龄 和 经验 使 他 变得 @老成@ 。
+non: 几年 来 , 年龄 和 经验 使 他 变得 @成熟@ 。
+group_3:
+full: 多年来,年龄和经验使他变得成熟。
+non: 多年来,年龄和经验使他更@精于世故@。",
+93,128,"The mountain was @splashed@ with snow.
+youdao: 山上 满是 雪花 。
+google: 山上 被 雪 覆盖 了 。
+opus: 山上 满是 雪
+group_1:
+full: 山上 满是 雪花 。
+non: 山上有很多雪 。
+group_2:
+non: 山上@满是@雪花。
+part: 山上雪花@翩翩飞舞@。
+group_3:
+non: 山上@满是@雪花。
+part: 山上@铺满了@雪花。",
+94,263,"He @heaped@ him with work.
+youdao: 他 给 了 他 一大堆 工作 。
+google: 他 给 他 堆满 了 工作 。
+opus: 他 用 工作 给 他 加 了 肥
+group_1:
+full: 他 给 他@堆满@工作 。
+non: 他 给 他@布置了许多@ 工作 。
+group_2:
+full: 他给他@塞满了@工作。
+non: 他给了他@很多@工作。
+group_3:
+full: 他 给 了 他 @一大堆@ 工作 。
+non: 他 给 他 @堆满 @了 工作 。",
+95,302,"She @drowned@ her trouble in alcohol.
+youdao: 她 用 酒精 把 烦恼 淹没 了 。
+google: 她 用 酒精 淹没 了 她 的 烦恼 。
+opus: 她 沉溺在 酗酒 的 麻烦 中
+group_1:
+full: 她@沉浸@在酒精带来的麻痹感中以逃避苦恼。
+non: 她把自己@灌醉@来逃避烦恼。
+group_2:
+full: 她@借酒消愁@。
+non: 她将烦恼@浸泡@在酒精里。
+group_3:
+full: 她 将烦心事 @沉溺@ 在 酒精中。
+non: 她 将烦心事 @淹没@ 在 酒精中。",
+96,41,"@flush@ the wound with antibiotics.
+youdao: 用 抗生素 冲洗 伤口 。
+google: 用 抗生素 冲洗 伤口 。
+opus: 用 抗生素 冲刷 伤口
+group_1:
+full: 用 抗生素 @冲洗@ 伤口 。
+non: 用 抗生素@清洁@伤口
+group_2:
+full: 用 抗生素@冲刷@伤口。
+non: 用 抗生素@冲洗@伤口。
+group_3:
+full: 用抗生素@冲洗@伤口。
+non: 用抗生素@冲洗@伤口。",
+97,89,"Inheritance may not @ascend@ linearly.
+youdao: 遗传 可能 不会 直线 上升 。
+google: 继承 可能 不会 线性 上升 。
+opus: 继承权 不得 直线 上升 。
+group_1:
+full: 继承 可能 不会 @攀升@ 。
+non: 继承 可能 不会 @增加@ 。
+group_2:
+full: 遗传可能不会直线@攀升@ 。
+non: 遗传可能不会@线性@上升 。
+group_3:
+non: 遗产 可能 不会 直线 @上升@ 。
+part: 遗产 可能 不会 直线 @向上@ 继承。",
+98,79,"Some people can @down@ a pound of meat in the course of one meal.
+youdao: 有些 人 一顿饭 就 能 吃 下 一磅 肉 。
+google: 有些 人 一顿饭 可以 吃掉 一磅 肉 。
+opus: 一些 人 在 一顿饭 中 可以 吃 到 一磅 肉 。
+group_1:
+full: 有些 人 一顿饭 就 能 @吞@ 下 一磅 肉 。
+non: 有些 人 一顿饭 就 能@吃@下一磅肉。
+group_2:
+full: 有些人一顿饭能@一口气吃下@一磅肉。
+non: 有些人一顿饭就能@吃下@一磅肉。
+group_3:
+full: 有些人一顿饭可以@吃掉@一磅肉 。
+non: 有些人一顿饭能@下@一磅肉。",
+99,48,"The latest intelligence is @flashed@ to all command posts.
+youdao: 最新 的 情报 已 发送到 所有 指挥所 。
+google: 最新 情报 闪现 到 所有 指挥所 。
+opus: 最新 情报 被 传送 到 所有 指挥所
+group_1:
+full: 最新 的 情报 已 被 @闪现@到 所有 指挥所 。
+non: 最新 情报@迅速传送@到 所有 指挥所 。
+group_2:
+full: 最新 情报 已@飞讯@到 所有 指挥所。
+non: 最新 情报@快速发送@到 所有 指挥所。
+group_3:
+full: 最新的情报已经@快速发送@到所有指挥所。
+non: 最新的情报已经@快速发送@到所有指挥所。",
+100,207,"Fear @clogged@ her mind.
+youdao: 她 心里 充满 了 恐惧 。
+google: 恐惧 阻塞 了 她 的 思绪 。
+opus: 恐惧 堵住 了 她 的 大脑
+group_1:
+full: 她 心里 @充满 @了 恐惧
+non: 她非常害怕。
+group_2:
+full: 她 @胆战心惊@。
+non: 恐惧 @打断@ 了 她 的 思绪 。
+group_3:
+full: 恐惧@充斥@在了她的脑海中。
+non: 恐惧@堵塞@在了她的脑海中。",
+101,58,"They @sifted@ through the job candidates.
+youdao: 他们 仔细 审查 了 求职者 。
+google: 他们 筛选 了 求职者 。
+opus: 他们 筛选 了 工作 候选人 。
+group_1:
+full: 他们 @筛选@ 了 求职者 。
+non: 他们 仔细 @审查@ 了 求职者 。
+group_2:
+full: 他们 @筛选@ 了 求职者。
+non: 他们 @审查@ 了 求职者。
+group_3:
+non: 他们 @像筛面粉一样筛选@ 了 工作 候选人 。
+part: 他们 @筛选 @了 求职者",
+102,72,"Her interest in butterflies @absorbs@ her completely.
+youdao: 她 对 蝴蝶 的 兴趣 完全 吸引 了 她 。
+google: 她 对 蝴蝶 的 兴趣 完全 吸引 了 她 。
+opus: 她 对 蝴蝶 的 兴趣 完全 吸收 了 她
+group_1:
+full: 她 对 蝴蝶 的 兴趣 完全 @吸引 @了 她 。
+non: 她 @沉浸@在对蝴蝶的兴趣中。
+group_2:
+full: 她对蝴蝶的兴趣使她@全神贯注@。
+non: 他对蝴蝶的兴趣完全@吸引@了她。
+group_3:
+full: 她对蝴蝶的兴趣使他完全被@吸引@。
+non: 她对蝴蝶的兴趣使她完全@入了迷@。",
+103,262,"She had to @recast@ her image to please the electorate in her home state.
+youdao: 她 必须 重塑 自己 的 形象 ， 以 取悦 她 家乡 州 的 选民 。
+google: 为了 取悦 家乡 的 选民 ， 她 不得不 重塑 自己 的 形象 。
+opus: 她 不得不 重塑 自己 的 形象 , 以 取悦 她 家乡 的 选民 。
+group_1:
+full: 她 必须 @重塑@ 自己 的 形象 , 以 取悦 她 家乡 州 的 选民
+non: 她 必须 @彻底改变@自己的 形象 , 以 取悦 她 家乡 州 的 选民
+group_2:
+full: 为了 取悦 家乡 的 选民 , 她 不得不 @重塑@ 自己 的 形象 。
+non: 为了 取悦 家乡 的 选民 , 她 不得不 @改变@ 自己 的 形象 。
+group_3:
+full: 她不得不@重新设计@自己的形象来取悦自己家乡的选民。
+non: 她不得不@重塑@自己的形象来取悦自己家乡的选民。",
+104,132,"Am I supposed to @swallow@ that story?
+youdao: 我 应该 相信 那个 故事 吗 ?
+google: 我 应该 接受 那个 故事 吗 ？
+opus: 我 应该 吞下 那个 故事 吗 ?
+group_1:
+full: 我 应该 @相信@ 那个 故事 吗 ?
+non: 我 应该 @接受@ 那个 故事 吗 ？
+group_2:
+non: 我 应该 @接受@ 那个 故事 吗 ?
+part: 我 应该 @吞下@ 那个 故事 吗 ?
+group_3:
+full: 我 应该 @相信@ 那个 故事 吗 ?
+non: 我 应该 @吞下@ 那个 故事 吗 ?",
+105,268,"We @rotate@ the lead soprano every night.
+youdao: 我们 每晚 轮换 女高音 主音 。
+google: 我们 每晚 轮换 女高音 。
+opus: 我们 每晚 轮换 女高音
+group_1:
+full: 我们每晚@轮换@女高音主唱。
+non: 我们每晚@更换@女高音主唱。
+group_2:
+non: 我们 每晚 让 女高音 主音 @轮流上班@。
+part: 我们 每晚 @轮换@ 女高音 主音。
+group_3:
+full: 我们 每晚 @轮换@ 领唱女高音 。
+non: 我们 每晚 @调换@ 领唱女高音 。",
+106,131,"This vaccine will @guard@ you against infection.
+youdao: 这种 疫苗 将 防止 你 感染 。
+google: 这种 疫苗 可以 保护 您 免受 感染 。
+opus: 这种 疫苗 能 防止 感染
+group_1:
+full: 这种疫苗可以帮助你@预防@感染。
+non: 这种疫苗能让你@免受@感染。
+group_2:
+full: 这种疫苗可以很好的@保卫@你 。
+non: 这种疫苗将@防止@你感染。
+group_3:
+full: 这种疫苗可以@防止@你感染。
+non: 这种疫苗可以@防止@你感染。",
+107,28,"sorrow had @lined@ his face.
+youdao: 悲伤 使 他 的 脸上 布满 皱纹 。
+google: 他 的 脸上 写满 了 悲伤 。
+opus: 他 脸上 的 伤痕 和 悲伤 相距甚远 。
+group_1:
+full: 他的脸上@写满了@悲伤
+non: 悲伤@呈现@在他的脸上
+group_2:
+full: 他 的 脸上 @写满@ 了 悲伤 。
+non: 他 的 脸上 @布满@ 了 悲伤 。
+group_3:
+full: 他的脸上@写满@了悲伤。
+non: 他的脸上@展现@出悲伤。",
+108,114,"The liberal party @pushed@ for reforms.
+youdao: 自由党 推动 改革 。
+google: 自由党 推动 改革 。
+opus: 自由党 推动 改革 。
+group_1:
+full: 自由党@推动@改革
+non: 自由党@进行@了改革
+group_2:
+full: 自由党@大力推进@改革 。
+non: 自由党@推动@改革。
+group_3:
+full: 自由党 @推动@了 改革 。
+non: 自由党 @进行@了 改革 。",
+109,71,"She @spelled@ her husband at the wheel.
+youdao: 她 让 丈夫 开车 。
+google: 她 在 方向盘 上 拼写 了 她 的 丈夫 。
+opus: 她 用 她 丈夫 的 字 拼 在 方向盘 上
+group_1:
+full: 她@顶替@她的丈夫开车
+non: 她@让@丈夫开车
+group_2:
+full: 她@顶替@她丈夫开车。
+non: 她和她的丈夫@轮班@开车。
+group_3:
+full: 她@顶替@她丈夫来开车。
+non: 她@顶替@她丈夫来开车。",
+110,133,"This play is going to @ruffle@ some people.
+youdao: 这出 戏会 激怒 一些 人 的 。
+google: 这出 戏要 激怒 一些 人 。
+opus: 这场 戏会 让 一些 人 失望
+group_1:
+full: 这出戏将要@激怒@一些人
+non: 这出戏会使一些人@愤怒@
+group_2:
+full: 这出 戏会 @激怒@ 一些 人。
+non: 这出 戏会 @惹怒@ 一些人。
+group_3:
+non: 这场戏会使一些人@生气@。
+part: 这场戏会@激怒@一些人。",
+111,50,"The stroke @clouded@ memories of her youth.
+youdao: 中风 模糊 了 她 年轻 时 的 记忆 。
+google: 中风 模糊 了 她 年轻 时 的 记忆 。
+opus: 中风 蒙蔽 了 她 年轻 时 的 记忆
+group_1:
+full: 中风@模糊@了她年轻时的记忆
+non: 中风使她@失去@了年轻时的记忆
+group_2:
+full: 中风 @模糊@ 了 她 年轻 时 的 记忆。
+non: 中风 @遮掩@ 了 她 年轻 时 的 记忆。
+group_3:
+full: 中风使她年轻时的记忆@模糊@了。
+non: 中风为她年轻时的记忆@蒙上一层乌云@。",
+112,43,"her indifference to his amorous advances really @steamed@ the young man.
+youdao: 她 对 他 的 求爱 漠不关心 ， 这真 让 年轻人 生气 。
+google: 她 对 他 的 多情 示好 漠不关心 ， 这 让 这个 年轻人 非常 生气 。
+opus: 她 对 他 的 热情 进步 漠不关心   真的 激怒 了 年轻人
+group_1:
+full: 她对他的求爱无动于衷,这@激怒@了年轻人
+non: 她对他的求爱无动于衷,这让年轻人非常@生气@
+group_2:
+non: 她 对 他 的 多情 示好 漠不关心 , 这 让 这个 年轻人 @生气@ 。
+part: 她 对 他 的 多情 示好 漠不关心 , 这 让 这个 年轻人 @气鼓鼓@的 。
+group_3:
+full: 她对他的热情示好十分冷漠,这真的@激怒@了这个年轻男孩。
+non: 她对他的热情示好十分冷漠,这真的@激怒@了这个年轻男孩",
+113,115,"The ostentatious way of living of the rich @ignites@ the hatred of the poor.
+youdao: 富人 浮夸 的 生活 方式 激起 了 穷人 的 仇恨 。
+google: 富人 浮华 的 生活 方式 点燃 了 穷人 的 仇恨 。
+opus: 富人 的 顽固 生活 方式 点燃 了 穷人 的 仇恨 。
+group_1:
+full: 富人浮华的生活方式@点燃@了穷人的仇恨.
+non: 富人浮夸的生活方式@激起@了穷人的仇恨
+group_2:
+full: 富人的浮华生活方式@激起@了穷人的仇恨。
+non: 富人的浮华生活方式@引起@了穷人的仇恨。
+group_3:
+non: 富人浮夸的生活方式@引发@了穷人的仇恨
+part: 富人浮夸的生活方式@激起@了穷人的仇恨",
+114,95,"He @swallowed@ his words.
+youdao: 他 咽下 了 自己 的话 。
+google: 他 把 话 咽 了 下去 。
+opus: 他 吞下 了 他 的 言语 。
+group_1:
+full: 他把话@咽了回去@
+non: 他@欲言又止@
+group_2:
+full: 他@吞下@了自己的话。
+non: 他@没有说出@他自己的话。
+group_3:
+full: 他@违背@了自己的诺言。
+non: 他@不遵守@自己的诺言。",
+115,140,"I'm afraid this @spells@ trouble!
+youdao: 恐怕 这会 带来 麻烦 !
+google: 恐怕 这会 带来 麻烦 ！
+opus: 恐怕 这 麻烦 大 了 !
+group_1:
+full: 恐怕这会@招惹上@麻烦！
+non: 恐怕这会@带来@麻烦
+group_2:
+full: 恐怕 这会 @带来@ 麻烦！
+non: 恐怕 这会 @招致@ 麻烦！
+group_3:
+non: 恐怕 这会 @意味着@ 麻烦 !
+part: 恐怕 这会 @带来@ 麻烦 !",
+116,198,"The Republicans are @floating@ the idea of a tax reform.
+youdao: 共和党人 正在 提出 税制 改革 的 想法 。
+google: 共和党人 正在 提出 税制 改革 的 想法 。
+opus: 共和党人 正在 浮现   税收 改革 的 想法 。
+group_1:
+full: 共和党人的脑中正在@浮现@税收改革的想法
+non: 共和党人正在@提出@税制改革的想法 。
+group_2:
+full: 税制改革的想法正在共和党人的脑海中@浮现@ 。
+non: 共和党人正在@提出@税制改革的想法 。
+group_3:
+full: 共和党人正在@提出@税制改革的想法 。
+non: 共和党人正在@提出@税制改革的想法。",
+117,154,"this may @land@ you in jail.
+youdao: 这会 让 你 进 监狱 。
+google: 这 可能 会 使 您 入狱 。
+opus: 这 可能 会 把 你 关进 监狱
+group_1:
+full: 这可能会让你@入狱@
+non: 这会让你@进监狱@
+group_2:
+full: 这会让你@身陷囹圄@。
+non: 这会把你@关进@监狱。
+group_3:
+non: 这 可能 会 @使 @你 入狱 。
+part: 这 可能 会 让你@遭遇@牢狱之灾 。",
+118,281,"the sky @flushed@ with rosy splendor.
+youdao: 天空 泛着 玫瑰色 的 光辉 。
+google: 天空 染上 了 玫瑰色 的 光彩 。
+opus: 满天 都 是 玫瑰花 的 光辉
+group_1:
+full: 天空@泛着@玫瑰色的光辉
+non: 天空@是@玫瑰花一样的颜色
+group_2:
+non: 天空@发出@玫瑰色的光辉。
+part: 天空@泛着@玫瑰色的光辉。
+group_3:
+full: 天空 @泛着 @玫瑰色 的 光辉 。
+non: 天空 @发出@ 玫瑰色 的 光辉 。",
+119,80,"The tooth @erupted@ and had to be extracted.
+youdao: 这颗 牙 突然 长 出来 ， 必须 拔掉 。
+google: 牙齿 长 出来 了 ， 不得不 拔掉 。
+opus: 牙齿 爆发 了 , 必须 提取 。
+group_1:
+full: 这颗牙很突兀的@冒出来@,必须拔掉
+non: 这颗牙@露出来@了,必须拔掉
+group_2:
+full: 这颗 牙 突然 @冒@ 出来 , 必须 拔掉 。
+non: 这颗 牙 突然 @长@ 出来 , 必须 拔掉 。
+group_3:
+full: 这颗牙齿@突然冒了出来@,不得不被拔掉。
+non: 这颗牙齿@突然出现@,不得不被拔掉。",
+120,149,"a terrible stench @saluted@ our nostrils.
+youdao: 一股 可怕 的 恶臭 扑鼻而来 。
+google: 一股 可怕 的 恶臭 扑鼻而来 。
+opus: 一个 可怕 的 臭臭   敬 我们 的 鼻孔 。
+group_1:
+full: 一股可怕的恶臭@扑鼻而来@
+non: 我们@闻到@一股可拍的恶臭
+group_2:
+full: 一股 可怕 的 恶臭 @扑鼻而来@。
+non: 一股 可怕 的 恶臭 @传来@。
+group_3:
+non: 一股 可怕 的 恶臭 @致敬@了我们的鼻孔 。
+part: 一股 可怕 的 恶臭 @扑@鼻而来 。",
+121,168,"The politician @clawed@ his rival.
+youdao: 那个 政客 用 爪子 攻击 他 的 对手 。
+google: 政客 抓住 了 他 的 对手 。
+opus: 政客 抓 了 他 的 对手
+group_1:
+full: 那个政客不依不饶地@纠缠着@他的对手
+non: 政客从对手那里@夺回优势@
+group_2:
+full: 那个 政客 @攻击@ 他 的 对手。
+non: 那个 政客 @抓住@ 他 的 对手。
+group_3:
+non: 那个政客@猛烈攻击@了他的对手
+part: 那个政客@猛烈抨击@了他的对手",
+122,260,"He always @wears@ a smile.
+youdao: 他 总是 面带微笑 。
+google: 他 总是 面带微笑 。
+opus: 他 总是 带 着 微笑
+group_1:
+full: 他总是@面带微笑@
+non: 他总是@微笑着@
+group_2:
+full: 他的脸上总是@挂着微笑@。
+non: 他总是@面带@微笑。
+group_3:
+full: 他总是@面带@微笑。
+non: 他总是@维持@微笑",
+123,155,"He @shed@ his image as a pushy boss.
+youdao: 他 摆脱 了 咄咄逼人 的 老板 形象 。
+google: 他 摆脱 了 咄咄逼人 的 老板 形象 。
+opus: 他 丢掉 了 他 作为 推手 的 老板 的 形象 。
+group_1:
+full: 他@一改往日@咄咄逼人的老板形象
+non: 他@改变@了自己咄咄逼人的老板形象
+group_2:
+full: 他@甩掉@了咄咄逼人的老板形象。
+non: 他@摆脱@了咄咄逼人的老板形象。
+group_3:
+full: 他 @摆脱@ 了 咄咄逼人 的 老板 形象 。
+non: 他 @蜕去@ 了 咄咄逼人 的 老板 形象 。",
+124,69,"The thought of her unhappiness @pricked@ his conscience.
+youdao: 想到 她 的 不幸 ， 他 感到 良心不安 。
+google: 一 想到 她 的 不幸 ， 他 的 良心 就 刺痛 了 。
+opus: 她 不 幸福 的 念头 刺穿 了 他 的 良心
+group_1:
+full: 一想到她的不幸 ,他的良心就@隐隐作痛@
+non: 一 想到她的不幸,他就感到@羞愧@
+group_2:
+full: 想到 她 的 不幸 , 他 的 良心 就 @痛 @。
+non: 她 不 幸福 的 念头 让 他@难受@。
+group_3:
+full: 想到他的不幸,他的就良心@刺痛@。
+non: 想到她的不行,他就良心@不安@。",
+125,64,"The hiker @negociated@ the high mountain pass.
+youdao: 徒步旅行 者 通过 了 高山 隘口 。
+google: 徒步旅行 者 通过 了 高 山口 。
+opus: 远足 者 把 高山 通道 连结起来
+group_1:
+full: 徒步旅行者@翻越@了高山隘口
+non: 徒步旅行者@通过@了高山隘口
+group_2:
+full: 徒步旅行者@顺利通过@了高山隘口。
+non: 徒步旅行者@通过@了高山隘口。
+group_3:
+full: 徒步旅行者@通过@了高山的隘口。
+non: 徒步旅行者@通过@了高山的隘口。",
+126,165,"@deflate@ the currency.
+youdao: 让 货币 紧缩 。
+google: 使 货币 收缩 。
+opus: 使 货币贬值 。
+group_1:
+full: 让货币@紧缩@
+non: 使货币@价值减少@
+group_2:
+full: 货币@紧缩@。
+non: 货币@收缩@。
+group_3:
+non: 使 通货@紧缩@ 。
+part: 使 货币 @升值@ 。",
+127,307,"The sales tax is @absorbed@ into the state income tax.
+youdao: 销售税 被 并入 国家 所得税 。
+google: 销售税 被 纳入 州 所得税 。
+opus: 销售税 纳入 国家 所得税 。
+group_1:
+full: 销售税被@纳入@国家所得税
+non: 销售税被@合并@到国家所得税里
+group_2:
+full: 销售税 被@纳入@国家 所得税。
+non: 销售税 被@计入@国家 所得税。
+group_3:
+non: 销售税 被 @吸收进@ 州 所得税 。
+part: 销售税 被 @纳入@ 州 所得税 。",
+128,295,"The tornado @ripped@ along the coast.
+youdao: 龙卷风 沿海 岸 肆虐 。
+google: 龙卷风 席卷 了 海岸 。
+opus: 龙卷风 沿着 海岸 撕裂
+group_1:
+full: 龙卷风沿着海岸@肆虐不止@
+non: 龙卷风沿着海岸@造成严重灾害@
+group_2:
+full: 龙卷风将海岸@撕裂@。
+non: 龙卷风@穿过@海岸。
+group_3:
+full: 龙卷风 沿海 岸 @肆虐 @。
+non: 龙卷风 @贯穿@海 岸 。",
+129,136,"We had to @sharpen@ our arguments.
+youdao: 我们 必须 使 我们 的 论点 更加 尖锐 。
+google: 我们 不得不 加强 我们 的 论点 。
+opus: 我们 必须 理清 我们 的 论点 。
+group_1:
+full: 我们必须使我们的论点更加@尖锐@
+non: 我们不得不@加强@我们的论点
+group_2:
+full: 我们必须使我们的论点更加@尖锐@。
+non: 我们必须@强化@我们的论点。
+group_3:
+non: 我们 不得不 使 我们 的 论点 更加 @好@。
+part: 我们 不得不 使 我们 的 论点 更加 @犀利@。",
+130,228,"The market is being @clogged@ by these operations.
+youdao: 这些 操作 正在 堵塞 市场 。
+google: 这些 操作 正在 堵塞 市场 。
+opus: 市场 正 受到 这些 业务 的 阻碍 。
+group_1:
+full: 这些操作正在@堵塞@市场
+non: 这些操作正在@影响@市场发展
+group_2:
+non: 这些 业务 对 市场@造成负面影响@ 。
+part: 这些 业务 正在@阻碍@ 市场 的 发展 。
+group_3:
+non: 市场的发展正收到这些操作的@阻碍@。
+part: 这些操作正在使市场发展@凝滞@。",
+131,257,"The new moon @peeped@ through the tree tops.
+youdao: 新月 从 树梢 上探 出头 来 。
+google: 新月 透过 树梢 窥视 。
+opus: 新 的 月亮 在 树顶上 偷窥
+group_1:
+full: 新月从树梢上@探出头来@
+non: 新月从树梢上@露出来@
+group_2:
+full: 新月 从 树梢 上 @探 出头 来@。
+non: 新月 从 树梢 上 @窥视@。
+group_3:
+non: 新月 透过 树梢 @窥视@ 。
+part: 新月 从 树梢 上@探 出头@ 来 。",
+132,4,"The editors of the left- leaning paper @attacked@ the new House Speaker.
+youdao: 这家 左倾 报纸 的 编辑 们 攻击 新任 众议院 议长 。
+google: 左倾 报纸 的 编辑 们 攻击 了 新任 众议院 议长 。
+opus: 左倾 报纸 的 编辑 攻击 了 新 上议院 议长 。
+group_1:
+full: 这家左倾报纸的编辑们@抨击@了新任众议院议长
+non: 这家左倾报纸的编辑们@批评@新任众议院议长
+group_2:
+full: 这家 左倾 报纸 的 编辑 们 @抨击@ 了 新任 众议院 议长。
+non: 这家 左倾 报纸 的 编辑 们 @打击@ 了 新任 众议院 议长。
+group_3:
+non: 这家 左倾 报纸 的 编辑 们 @攻击了@ 新任 众议院 议长 。
+part: 这家 左倾 报纸 的 编辑 们 @猛烈地批评了@ 新任 众议院 议长 。",
+133,117,"He was @locked@ in a laughing fit.
+youdao: 他 大笑 起来 。
+google: 他 笑 得 合不拢嘴 。
+opus: 他 被困 在 笑容 中
+group_1:
+full: 他笑得@合不拢嘴@
+non: 他笑得@停不下来@
+group_2:
+full: 他笑的@合不拢嘴@。
+non: 他@大笑@起来。
+group_3:
+full: 他笑得@合@不拢嘴。
+non: 他被困@@在一个笑的状态中。",
+134,116,"@flood@ the market with tennis shoes.
+youdao: 网球鞋 充斥 市场 。
+google: 网球鞋 充斥 市场 。
+opus: 网球鞋 充斥 着 市场 。
+group_1:
+full: 网球鞋在市场@泛滥@
+non: 市场上@都是@网球鞋
+group_2:
+full: 网球鞋@大量涌入@市场。
+non: 网球鞋@充斥@了市场。
+group_3:
+full: 网球鞋@淹没@了市场。
+non: 网球鞋@充斥@市场。",
+135,106,"She @scanned@ the newspaper headlines while waiting for the taxi.
+youdao: 她 在 等 出租车 时 浏览 了 一下 报纸 的 标题 。
+google: 等 出租车 的 时候 ， 她 扫 了 一眼 报纸 的 头条 。
+opus: 她 在 等待 出租车 时 扫描 了 报纸 头条新闻 。
+group_1:
+full: 等出租车的时候 ,她@扫了一眼@报纸的头条
+non: 她在等待出租车时报纸 头条新@简单浏览@了报纸的头条
+group_2:
+full: 她在等出租车的时候,@扫了@一眼报纸的头条。
+non: 她在等出租车的时候,@浏览@了报纸头条。
+group_3:
+non: 她在等出租车的时候@快速看@了一眼报纸上的新闻标题
+part: 她在等出租车时@扫@了一眼报纸上的新闻标题",
+136,234,"The hydrogen @binds@ the oxygen.
+youdao: 氢 与 氧 结合 。
+google: 氢 结合 氧 。
+opus: 氢 结合 氧气
+group_1:
+full: 氢与氧@结合@
+non: 氢与氧@反应@
+group_2:
+full: 氢 与 氧 @结合@。
+non: 氢 与 氧 @混合@。
+group_3:
+full: 氢与氧@结合@.
+non: 氢与氧@结合@。",
+137,6,"He @injected@ new life into the performance.
+youdao: 他 给 演出 注入 了 新 的 活力 。
+google: 他 为 演出 注入 了 新 的 活力 。
+opus: 他 给 表演 注入 了 新 的 生命
+group_1:
+full: 他为演出@注入@了新的活力
+non: 他为演出@增添@了新的活力
+group_2:
+full: 他 给 演出 @注入@ 了 新 的 活力 。
+non: 他 给 演出 @加入@ 了 新 的 活力 。
+group_3:
+full: 他为表演@注入@了新的生命。
+non: 他为表演@注入@了新的生命。",
+138,254,"my brain is @swimming@ after the bottle of champagne.
+youdao: 喝 了 一瓶 香槟 后 ， 我 的 脑子 都 晕 了 。
+google: 我 的 大脑 在 一瓶 香槟 之后 游动 。
+opus: 我 的 大脑 在 喝 香槟 后 游泳
+group_1:
+full: 喝了一瓶香槟之后,我@晕头转向@,找不着北
+non: 喝了一瓶香槟之后,我的思想@变得混乱@
+group_2:
+full: 喝 了 一瓶 香槟 后, 我 的 脑子 都 @翻腾@ 了。
+non: 喝 了 一瓶 香槟 后, 我 的 脑子 都 @晕@ 了。
+group_3:
+non: 在喝了一瓶香槟之后,我的脑袋@发晕@。
+part: 在喝了一瓶香槟之后,我感觉自己的大脑@在漂浮@。",
+139,152,"The scream @pierced@ the night.
+youdao: 尖叫声 划破 黑夜 。
+google: 尖叫声 划破 夜空 。
+opus: 尖叫声 刺穿 了 夜晚
+group_1:
+full: 尖叫声@划破@黑夜
+non: 尖叫声@穿透@黑夜
+group_2:
+full: 尖叫声 @划破@ 夜空。
+non: 尖叫声 @刺穿@ 黑夜 。
+group_3:
+full: 尖叫声 @刺穿@ 了 夜晚。
+non: 尖叫声让夜晚@变得不再宁静@",
+140,37,"Their faces were @clouded@ with sadness.
+youdao: 他们 愁容满面 。
+google: 他们 的 脸上 笼罩着 悲伤 。
+opus: 他们 的 面目 是 满 是 悲伤 的 。
+group_1:
+full: 他们的脸上@笼罩@着悲伤
+non: 他们的脸上@带着@悲伤的神情
+group_2:
+full: 他们 愁容@满面 @。
+non: 他们 的 脸上 @显示@着 悲伤 。
+group_3:
+full: 他们@满面愁容@。
+non: 他们的脸上被伤心@笼罩@。",
+141,150,"Her optimism @whistled@ away these worries.
+youdao: 她 的 乐观 驱散 了 这些 忧虑 。
+google: 她 的 乐观 驱散 了 这些 担忧 。
+opus: 她 的 乐观 情绪 消除 了 这些 担忧 。
+group_1:
+full: 她的乐观使这些忧虑@烟消云散@
+non: 她的乐观使这些忧虑@消散@
+group_2:
+full: 她 的 乐观 @驱散@ 了 这些 忧虑 。
+non: 她 的 乐观 @消除@ 了 这些 忧虑 。
+group_3:
+non: 她的乐观@消除@了这些担忧
+part: 她的乐观@驱散@了这些担忧",
+142,305,"He @absorbed@ the knowledge or beliefs of his tribe.
+youdao: 他 吸收 了 他 部落 的 知识 和 信仰 。
+google: 他 吸收 了 部落 的 知识 或 信仰 。
+opus: 他 吸收 了 部落 的 知识 或 信仰 。
+group_1:
+full: 他@吸取@了他部落的知识和信仰
+non: 他@学习@了她部落的知识和信仰
+group_2:
+non: 他@吸收@了他的部落的知识和信仰。
+part: 他@全心投入于@他部落的知识和信仰 。
+group_3:
+full: 他对他部落的知识或信仰@着迷@了。
+non: 他@吸收@了他部落的知识或信仰。",
+143,123,"He @downed@ three martinis before dinner.
+youdao: 晚饭 前 他 喝 了 三杯 马提尼酒 。
+google: 晚饭 前 他 喝 了 三杯 马提尼酒 。
+opus: 他 晚饭 前 喝 了 三杯 马 提尼
+group_1:
+non: 晚饭前他@喝@了三杯马提尼酒
+part: 晚饭前他@牛饮@了三杯马提尼
+group_2:
+full: 晚饭前他@一口气喝了@三杯马提尼酒。
+non: 晚饭前他@喝了@三杯马提尼酒。
+group_3:
+full: 晚饭前他@灌下@三杯马提尼酒。
+non: 晚饭前他@喝@了三杯马提尼酒。",
+144,17,"The cold @pierced@ her bones.
+youdao: 寒冷 刺痛 了 她 的 骨头 。
+google: 寒冷 刺穿 了 她 的 骨头 。
+opus: 寒冷 刺穿 了 她 的 骨头
+group_1:
+full: 寒冷刺穿@了她的骨头
+non: 寒冷使她的骨头@感到疼痛@
+group_2:
+non: 寒冷@刺穿@了 她 的 骨头。
+part: 寒冷@刺痛@了 她 的 骨头。
+group_3:
+full: 她感到寒风@刺@骨。
+non: 寒冷@刺痛@了她的骨头。",
+145,294,"Make the people's hearts @glow.@
+youdao: 让 人们 的 心 发光 。
+google: 让 人民 的 心灵 焕发 光彩 。
+opus: 让 人民 的 心 发光
+group_1:
+full: 让人民的心灵@焕发光彩@
+non: 让人们的感情@洋溢@
+group_2:
+full: 让 人民 @心满意足@。
+non: 让 人民 内心@愉快@。
+group_3:
+non: 让 人民 的 心灵 @发光@
+part: 让 人民 的 心灵 @焕发 光彩 @。",
+146,217,"@build@ a defense on nothing but the accused person's reputation.
+youdao: 只靠 被告 的 名誉 来 为 自己 辩护 。
+google: 除了 被告人 的 名誉 外 ， 别无他法 。
+opus: 除了 被告 的 名声 之外   辩护 也 无所不为
+group_1:
+non: 只靠被告的名誉来为自己@辩解@
+part: 只靠被告的名誉来为自己@辩护@
+group_2:
+full: 只靠 被告人 的 名誉 来 为 自己 @辩护@。
+non: 只靠 被告人 的 名誉 来 为 自己 @辩解@。
+group_3:
+full: 只靠被告的名誉来为自己@建设防御@
+non: 只靠被告的名誉来为自己@辩护@",
+147,53,"The crisis @precipitated@ by Russia's revolution.
+youdao: 这场 危机 是 由 俄国 革命 引发 的 。
+google: 俄国 革命 引发 的 危机 。
+opus: 俄罗斯 革命 引发 的 危机 。
+group_1:
+full: 这场危机是由俄国革命@引发@的
+non: 这场危机是由俄国革命@促成@的
+group_2:
+full: 这场 危机 是 由 俄国 革命 @引发@ 的。
+non: 这场 危机 是 由 俄国 革命 @促成@ 的。
+group_3:
+non: 俄国革命@引发@的危机
+part: 俄国革命@催生@的危机",
+148,61,"She could not @recapture@ that feeling of happiness.
+youdao: 她 无法 重新 获得 那种 幸福 的 感觉 。
+google: 那种 幸福 的 感觉 ， 她 再也 找 不 回来 了 。
+opus: 她 无法 重拾 那种 幸福 的 感觉
+group_1:
+full: 她无法@重拾@那种幸福的感觉了
+non: 她再也@找不到@那种幸福的感觉了
+group_2:
+full: 她无法@重拾@那种幸福的感觉。
+non: 她无法@重新获得@那种幸福的感觉。
+group_3:
+full: 她无法@重拾@那种幸福的感觉了。
+non: 她无法@重新获得@那种幸福的感觉了。",
+149,237,"the stock market @plunged.@
+youdao: 股票市场 暴跌 。
+google: 股市 暴跌 。
+opus: 股市 暴跌 。
+group_1:
+full: 股市@暴跌@
+non: 股市@大幅度下降@
+group_2:
+full: 股市@暴跌@。
+non: 股市@下跌@。
+group_3:
+full: 股市@暴跌@
+non: 股市@猛降@",
+150,211,"Fame @redounds@ to the heroes.
+youdao: 名望 有益于 英雄 。
+google: 功名 回馈 英雄 。
+opus: 英雄 的 名声 被 打成 红名
+group_1:
+full: 功名@归于@英雄
+non: 英雄@获得@了名望
+group_2:
+full: 荣耀 @属于@ 英雄。
+non: 荣耀 @有益于@ 英雄。
+group_3:
+non: 名望 @改进@ 英雄 。
+part: 功名 @回馈@ 英雄 。",
+151,47,"The soldiers @sifted@ through the woods.
+youdao: 士兵 们 在 树林 中 仔细 搜寻 。
+google: 士兵 们 在 树林 中 搜寻 。
+opus: 士兵 们 在 树林 里 筛选 了 出来
+group_1:
+full: 士兵们在树林中仔细@筛查@
+non: 士兵们在树林中仔细@搜索@
+group_2:
+full: 士兵 们 在 树林 中 仔细 @搜寻@ 。
+non: 士兵 们 在 树林 中 仔细 @寻找@ 。
+group_3:
+full: 士兵们在树林中@仔细筛查@。
+non: 士兵们在树林中@仔细搜寻@。",
+152,235,"He @locked@ his hands around her neck.
+youdao: 他用 手 紧紧 搂住 她 的 脖子 。
+google: 他 双手 环住 她 的 脖子 。
+opus: 他 把 双手 锁 在 她 的 脖子 上
+group_1:
+full: 她用手@锁住@她的脖子
+non: 他用手@搂住@她的脖子
+group_2:
+full: 他 的 手@锁@在 她 的 脖子 上。
+non: 他 用 手@紧紧 搂住@她 的 脖子。
+group_3:
+non: 他用手紧紧@搂住@她的脖子。
+part: 他用双手@环住@她的脖子。",
+153,202,"The listeners @bolted@ when he discussed his strange ideas.
+youdao: 当 他 讨论 他 的 奇怪 想法 时 ， 听众 们 都 跑 开 了 。
+google: 当 他 讨论 他 的 奇怪 想法 时 ， 听众 都 惊呆 了 。
+opus: 当 他 讨论 他 奇怪 的 想法 时   听众 就 溜走 了
+group_1:
+full: 当他讨论他的奇怪想法时 ,听众们@四处逃窜@
+non: 当他讨论他的奇怪想法时 ,听众们都2跑开@了
+group_2:
+non: 当 他 讨论 他 的 奇怪 想法 时 , 听众 们 都@ 走 @开 了 。
+part: 当 他 讨论 他 的 奇怪 想法 时 , 听众 们 都 @散场@ 了 。
+group_3:
+non: 当他谈论他奇怪的想法时,听众们都@离开@了。
+part: 当他谈论他奇怪的想法时,听众们都@哄然而散@。",
+154,200,"Tears @guttered@ down her face.
+youdao: 眼泪 从 她 脸上 流下来 。
+google: 眼泪 从 她 的 脸上 流下来 。
+opus: 眼泪 从 她 脸上 流下
+group_1:
+full: 眼泪在她的脸上@流淌@。
+non: 眼泪从她的脸上@流下来@
+group_2:
+full: 她@潸然泪下@。
+non: 眼泪 从 她 脸上 @流@下来 。
+group_3:
+full: 眼泪 从 她 的 脸上 @淌@了下来 。
+non: 眼泪 从 她 的 脸上 @流@了下来 。",
+155,206,"Our new synthetic fabric @breathes@ and is perfect for summer wear.
+youdao: 我们 的 新 合成 面料 透气 ， 非常适合 夏天 穿 。
+google: 我们 的 新型 合成 面料 透气性 好 ， 非常适合 夏季 穿着 。
+opus: 我们 的 新 合成 布料 呼吸 , 适合 夏季 穿戴 。
+group_1:
+full: 我们的新型合成面料@轻薄透气@ , 非常适合夏季穿着
+non: 我们的新型合成面料@透气性好@ , 非常适合夏季穿着
+group_2:
+full: 我们 的 新 合成 面料 @透气性 好@, 非常适合 夏季 穿着。
+non: 我们 的 新 合成 面料 @透气@, 非常适合 夏季 穿着。
+group_3:
+full: 我们的新型合成面料@会呼吸@,非常适合夏天穿。
+non: 我们的新型合成面料@透气性好@,非常适合夏天穿。",
+156,181,"When does the court of law @sit?@
+youdao: 法庭 什么 时候 开庭 ?
+google: 法庭 什么 时候 开庭 ？
+opus: 法院 何时 开庭 ?
+group_1:
+full: 法庭什么时候@开庭@
+non: 法庭的审理什么时候@开始@
+group_2:
+full: 法庭 什么 时候 @开庭审理@？
+non: 法庭 什么 时候 @开庭@？
+group_3:
+non: 法庭什么时候@开始@？
+part: 法庭什么时候@开始@？",
+157,10,"Don't @abuse@ the system.
+youdao: 不要 滥用 这个 系统 。
+google: 不要 滥用 系统 。
+opus: 不要 滥用 系统 。
+group_1:
+full: 不要@滥用@这个系统
+non: 不要随便错误的@使用@这个系统
+group_2:
+full: 不要 @滥用 @这个系统。
+non: 不要@过度使用@这个系统 。
+group_3:
+full: 不要 @滥用@ 这个 系统 。
+non: : 不要 @虐待@这个 系统 。",
+158,16,"I @attacked@ the problem as soon as I got out of bed.
+youdao: 我 一 起床 就 着手 解决 这个 问题 。
+google: 我 一 起床 就 解决 了 这个 问题 。
+opus: 我 一下床 就 攻击 了 问题
+group_1:
+full: 我一起床就@着手解决@了这个问题
+non: 我一起床就@解决@了这个问题
+group_2:
+full: 我 一 起床 就 @着手 解决@ 这个 问题 。
+non: 我 一 起床 就 @解决@ 这个 问题 。
+group_3:
+non: 我一下床就开始@解决@这个问题
+part: 我一下床就开始@对付@这个问题",
+159,283,"The vestiges of political democracy were soon @uprooted.@
+youdao: 政治 民主 的 残余 很快 就 被 铲除 了 。
+google: 政治 民主 的 残余 很快 被 连根拔起 。
+opus: 政治 民主 的 残余 很快 被 清除 。
+group_1:
+full: 政治民主的残余很快就被@铲除@了
+non: 政治民主的残余很快被@清除@了
+group_2:
+full: 政治 民主 的 余党 很快 被 @连根拔起 @。
+non: 政治 民主 的 余党 很快 被 @清除@ 。
+group_3:
+full: 民主政治的残余很快就被@铲除@了。
+non: 民主政治的残余很快就被@连根拔起@了。",
+160,296,"the workers @spell@ every four hours.
+youdao: 工人 们 每 四 小时 拼写 一次 。
+google: 工人 们 每 四个 小时 拼 一次 。
+opus: 工人 每 四个 小时 拼写 一次
+group_1:
+full: 工人们每四小时@轮换@工作
+non: 工人们每四小时@换@一个人工作
+group_2:
+full: 工人 们 每 四个 小时 @换班@ 一次。
+non: 工人 们 每 四个 小时 @替换@ 一次。
+group_3:
+full: 工人们每四个小时@轮班@一次。
+non: 工人们每四个小时@转换@一次。",
+161,145,"Interest in ESP @revived.@
+youdao: 对 超感 知觉 的 兴趣 恢复 了 。
+google: 对   ESP   的 兴趣 重新 燃起 。
+opus: 恢复 了 对 ESP 的 兴趣 。
+group_1:
+full: 对esp的兴趣@重新燃起@
+non: 对esp知觉 的 兴趣@恢复@了
+group_2:
+full: 对 esp @重新燃起@ 兴趣。
+non: 对 esp @恢复@ 兴趣。
+group_3:
+full: @重新燃起@了对esp的兴趣。
+non: @恢复@了对esp的兴趣。",
+162,215,"sorrow was @mapped@ on the mother's face.
+youdao: 母亲 的 脸上 流露出 悲伤 的 神情 。
+google: 悲伤 映射 在 母亲 的 脸上 。
+opus: 悲伤 画 在 母亲 脸上
+group_1:
+full: 母亲的脸上@流露出@悲伤的神情
+non: 悲伤@显示@在母亲的脸上
+group_2:
+full: 母亲 的 脸上 @流露出@ 悲伤 的 神情。
+non: 母亲 的 脸上 @映射出@ 悲伤 的 神情。
+group_3:
+non: 悲伤 @绘制@ 在 母亲 的 脸上 。
+part: 悲伤 @映射@ 在 母亲 的 脸上 。",
+163,142,"The river @thundered@ below.
+youdao: 河水 在 下面 轰鸣 。
+google: 河水 在 下面 轰鸣 。
+opus: 河水 在 下方 闪电
+group_1:
+full: 河水在下面@轰鸣@
+non: 河水在下方@滚滚流动@
+group_2:
+non: 河水 在 下面@发出轰隆的响声@。
+part: 河水 在 下面@咆哮@。
+group_3:
+full: 河水 在 下面 @轰鸣@ 。
+non: : 河水 在 下面 @雷响@ 。",
+164,238,"their manes @streamed@ like stiff black pennants in the wind.
+youdao: 它们 的 鬃毛 像 在 风中 飘扬 的 坚硬 的 黑色 三角旗 。
+google: 他们 的 鬃毛 在 风中 像 坚硬 的 黑色 三角旗 一样 飘扬 。
+opus: 山羊 的 马马 , 如风 中 的 硬 黑雀 一样 漂流 。
+group_1:
+full: 他们的鬃毛在风中像坚硬的黑色三角旗一样@飘扬@ 。
+non: 他们的鬃毛在风中像坚硬的黑色三角旗一样@飘动着@
+group_2:
+full: 它们 的 鬃毛 在 风中 像 坚硬 的 黑色 三角旗 一样 @飘扬@。
+non: 它们 的 鬃毛 在 风中 像 坚硬 的 黑色 三角旗 一样 @飘动@。
+group_3:
+full: 它们的鬃毛像坚硬的黑色三角旗一样在风中@飘扬@。
+non: 它们的鬃毛像坚硬的黑色三角旗一样在风中@飘动@。",
+165,251,"@capture@ the essence of Spring.
+youdao: 捕捉 春天 的 精髓 。
+google: 捕捉 春天 的 精髓 。
+opus: 捕捉 春天 的 精髓
+group_1:
+full: @捕捉@春天的精髓
+non: @抓住@春天的精髓
+group_2:
+full: @捕捉@春天的精髓。
+non: @体会@春天的精髓。
+group_3:
+full: @捕捉@春天的精华
+non: @寻找@春天的精华",
+166,135,"Every star seemed to @flare@ with new intensity.
+youdao: 每颗 星星 似乎 都 在 以 新 的 强度 闪耀 。
+google: 每颗 星星 似乎 都 以 新 的 强度 闪耀 。
+opus: 每颗 恒星 似乎 都 有 新 的 亮度
+group_1:
+full: 每颗星星似乎都在@闪烁@着新的光芒
+non: 每颗星星似乎都在@发出@新的光芒 。
+group_2:
+full: 每颗 星星 似乎 都 在 以 新 的 亮度@闪耀@。
+non: 每颗 星星 似乎 都 在 以 新 的 亮度@发光@。
+group_3:
+full: 每颗星星似乎都以新的亮度@闪耀@。
+non: 每颗星星似乎都以新的亮度@闪耀@。",
+167,300,"Her face @glowed@ when she came out of the sauna.
+youdao: 她 洗完 桑拿浴 出来 ， 脸上 容光焕发 。
+google: 从 桑拿房 出来 时 ， 她 的 脸 容光焕发 。
+opus: 她 从 桑拿室 出来 时 脸色 发光
+group_1:
+full: 她洗完桑拿浴出来 ,脸上@容光焕发@
+non: 她从桑拿室出来时她的脸上@散发光芒@
+group_2:
+full: 她洗完桑拿浴出来, 脸上@容光焕发@。
+non: 她从桑拿室出来时脸色@很好@。
+group_3:
+non: 她 从 桑拿室 出来 时 脸色 @发光@。
+part: 从 桑拿房 出来 时 , 她 @容光焕发@ 。",
+168,187,"The path @climbed@ all the way to the top of the hill.
+youdao: 这 条 小路 一直 延伸 到 山顶 。
+google: 小路 一直 爬 到 山顶 。
+opus: 这条 路 一路 爬 到 山顶
+group_1:
+full: 这条小路一直@延伸@到山顶 。
+non: 这条路一路@通往@到山顶
+group_2:
+full: 这 条 小路 一直 @延伸@ 到 山顶 。
+non: 这 条 小路 @直通@ 山顶 。
+group_3:
+non: 这条小路一直@延伸@到山顶。
+part: 这条小路一直@蜿蜒@到山顶。",
+169,286,"This action @reflects@ his true beliefs.
+youdao: 这一 行动 反映 了 他 的 真实 信念 。
+google: 这一 行动 反映 了 他 的 真实 信念 。
+opus: 这一 行动 反映 了 他 的 真实 信仰 。
+group_1:
+full: 这一行动@反映@了他的真实信念
+non: 这一行动@体现@了他的真实信念
+group_2:
+non: 这一行动@反映@出他的真实信念。
+part: 这一行动@展现@了他的真实信念。
+group_3:
+full: 这一行动@反映@了他的真实信念。
+non: 这一行动@展现@了他的真实信念。",
+170,312,"He @wrestled@ all his life with his feeling of inferiority.
+youdao: 他 一生 都 在 与 自卑感 作 斗争 。
+google: 他 一生 都 在 与 自卑感 作 斗争 。
+opus: 他 一生 都 带 着 自卑 的 感觉 摔跤
+group_1:
+full: 他 一生都在与自卑感@作斗争@
+non: 他一生都在@对抗@自己的自卑感
+group_2:
+non: 他 一生 都 在@对抗@自卑感。
+part: 他 一生 都 在 与 自卑感@斗争@。
+group_3:
+non: 他 一生 都 在 @扭转@自己的 自卑感 。
+part: 他 一生 都 在 与 自卑感 @作 斗争@ 。",
+171,252,"She @captured@ all the men's hearts.
+youdao: 她 俘获 了 所有 男人 的 心 。
+google: 她 俘获 了 所有 男人 的 心 。
+opus: 她 抓住 了 所有 男人 的 心
+group_1:
+full: 她@俘获@了所有男人的心
+non: 她@让@所有男人都喜欢上她
+group_2:
+full: 她 @俘获@ 了 所有 男人 的 心。
+non: 她 @抓住@ 了 所有 男人 的 心。
+group_3:
+full: 她@俘获@了所有男人的心。
+non: 她@抓住@了所有男人的心。",
+172,201,"@mount@ a campaign against pornography.
+youdao: 发动 扫黄 运动 。
+google: 开展 反 色情 运动 。
+opus: 发起 一场 反对 色情 制品 的 运动 。
+group_1:
+full: @开展@反色情运动
+non: @发起@一场反对色情制品的运动
+group_2:
+full: @开展@扫黄运动。
+non: @开展@扫黄运动。
+group_3:
+non: @发动@反色情运动。
+part: @开启@反色情运动。",
+173,221,"@steamroller@ the opposition.
+youdao: 压制 反对派 。
+google: 压倒 反对派 。
+opus: 激起 反对派 。
+group_1:
+full: @压倒@反对派
+non: 使反对派被@击倒@
+group_2:
+non: @压倒@ 反对派。
+part: @压制@ 反对派。
+group_3:
+full: @压制@反对派。
+non: @打击@反对派。",
+174,102,"The unknown young man @drifted@ among the invited guests.
+youdao: 那个 不 知名 的 年轻人 在 受邀 的 客人 中 闲逛 。
+google: 名不见经传 的 青年 游走 在 受邀 宾客 中 。
+opus: 不明 身份 的 年轻人 漂在 受邀 嘉宾 中间 。
+group_1:
+non: 名不见经传的青年在客人中@走来走去@
+part: 名不见经传的青年@游走@在受邀宾客中
+group_2:
+non: 那个 名不见经传 的 年轻人 在 受邀 嘉宾 中@走动@。
+part: 那个 名不见经传 的 年轻人 在 受邀 嘉宾 中@闲逛@。
+group_3:
+non: 那个不知名的年轻人在受邀的客人之中@闲逛@。
+part: 那个不知名的年轻人在受邀的客人之中@游荡@。",
+175,32,"I can't @buy@ this story.
+youdao: 我 不 相信 这个 故事 。
+google: 我 买不起 这个 故事 。
+opus: 我 不能 买 这个 故事 。
+group_1:
+full: 你说的这个故事@我不买账@
+non: 我不@相信@这个故事
+group_2:
+full: 我 不 @相信@ 这个 故事。
+non: 我 不能 @买@ 这个故事。
+group_3:
+non: 我不为这个故事@买单@。
+part: 我 不 @相信@ 这个 故事 。",
+176,52,"The government @floated@ the ruble for a few months.
+youdao: 政府 使 卢布 浮动 了 几个 月 。
+google: 政府 让 卢布 浮动 了 几个 月 。
+opus: 政府 让 卢布 漂浮 了 几个 月
+group_1:
+full: 政府让卢布@浮动@了几个 月
+non: 政府让卢布价值上下@动摇@了几个 月
+group_2:
+full: 政府使卢布汇率@自由浮动@了几个月。
+non: 政府让卢布汇率@漂浮@了几个月。
+group_3:
+full: 政府让卢布@浮动@了几个月。
+non: 政府让卢布的价格@不稳定@了几个月。",
+177,287,"He @breathed@ new life into the old house.
+youdao: 他 给 老房子 注入 了 新 的 活力 。
+google: 他 为 老房子 注入 了 新 的 活力 。
+opus: 他 给 老房子 注入 了 新 的 生命
+group_1:
+full: 他给老房子@注入@了新的活力 。
+non: 他让老房子@变得@崭新
+group_2:
+non: 他 为 老房子@加入@了 新 的 活力。
+part: 他 为 老房子@注入@了 新 的 活力。
+group_3:
+non: 他 使老房子@呼出@ 了 新鲜气息。
+part: 他 给 老房子 @注入@ 了 新 的 活力",
+178,250,"@mount@ a theater production.
+youdao: 上演 一部 戏剧 作品 。
+google: 进行 戏剧 制作 。
+opus: 安装 戏剧 制作 。
+group_1:
+full: @奉上@一部戏剧作品 。
+non: @进行@戏剧表演
+group_2:
+full: @上演@ 一部 戏剧 作品。
+non: @进行@ 一部 戏剧 作品。
+group_3:
+non: @上演@一部戏剧。
+part: @推出@一部戏剧。",
+179,171,"Their language @inclines@ us to believe them.
+youdao: 他们 的话 使 我们 倾向 于 相信 他们 。
+google: 他们 的 语言 使 我们 相信 他们 。
+opus: 他们 的 语言 使 我们 相信 他们 。
+group_1:
+full: 他们的话使我们@倾向于@相信他们
+non: 他们的话@使@我们相信他们
+group_2:
+full: 他们 的话 使 我们 @倾向@于 相信 他们 。
+non: 他们 的话 使 我们 @认为@ 相信 他们 。
+group_3:
+full: 他们 的话 使 我们 @倾向@ 于 相信 他们 。
+non: 他们 的话 使 我们 @倾斜@ 于 相信 他们 。",
+180,185,"She was @staggered@ with bills after she tried to rebuild her house following the earthquake.
+youdao: 地震 后 ， 她 试图 重建 自己 的 房子 ， 却 被 账单 弄 得 踉踉跄跄 。
+google: 地震 后 ， 她 试图 重建 自己 的 房子 ， 但 账单 却 让 她 步履蹒跚 。
+opus: 地震 发生 后 , 她 试图 重建 自己 的 房子 , 之后 , 她 与 账单 交错 在 一起 。
+group_1:
+full: 地震后,她试图重建自己的房子 ,却被账单逼得@穷困潦倒@
+non: 地震发生后 , 她试图重建自己的房子 , 却被账单@阻碍@了脚步
+group_2:
+full: 地震后 ,她试图重建自己的房子,账单却让她@大吃一惊@。
+non: 地震后 ,她试图重建自己的房子,账单却让她@难以前行@。
+group_3:
+non: 地震 后 , 她 试图 重建 自己 的 房子 , 但 账单 却 让 她 @步履蹒跚@ 。
+part: 地震 后 , 她 试图 重建 自己 的 房子 , 但 账单 却 让 她 @步履维艰@ 。",
+181,147,"She is @pushing@ fifty.
+youdao: 她 快 五十岁 了 。
+google: 她 快 五十岁 了 。
+opus: 她 推 了 50 块
+group_1:
+full: 她@马上就@五十岁 了 。
+non: 她的年龄@即将达到@五十岁
+group_2:
+non: 她 @即将@ 五十岁 了 。
+part: 她 @快@ 五十岁 了 。
+group_3:
+non: 她要被岁月@推到@五十岁了。
+part: 她 @快@ 五十岁 了 。",
+182,81,"The residents of this village @adhered@ to Catholicism.
+youdao: 这个 村子 的 居民 信奉 天主教 。
+google: 这个 村子 的 居民 信奉 天主教 。
+opus: 这个 村 的 居民 信奉 天主教 。
+group_1:
+full: 这个村子的居民@信奉@天主教
+non: 这个村子的居民@追随@天主教
+group_2:
+full: 这个村子的居民@真心拥护@天主教。
+non: 这个村子的居民@信奉@天主教。
+group_3:
+full: 这个村的居民@信奉@天主教。
+non: 这个村的居民@信奉@天主教。",
+183,184,"She @salts@ her lectures with jokes.
+youdao: 她 在 讲课 时 讲 笑话 增添 趣味 。
+google: 她 在 讲课 中 加入 笑话 。
+opus: 她 用 笑话 来 赞美 她 的 演讲
+group_1:
+non: 她在讲课时@加入@了一些笑话
+part: 她在讲课时@融入@笑话来增添 趣味
+group_2:
+full: 她 在 讲课 时 讲 笑话 @增添 趣味@。
+non: 她 在 讲课 时 讲 笑话 @使讲课更有意思@。
+group_3:
+full: 她在她的演讲中讲笑话@增添趣味@。
+non: 她在她的演讲中用笑话来@调味@。",
+184,249,"society was @infected@ by racism.
+youdao: 社会 被 种族主义 所 感染 。
+google: 社会 被 种族主义 所 感染 。
+opus: 社会 受到 种族主义 的 感染 。
+group_1:
+full: 社会受到了种族主义的@影响@
+non: 社会被种族主义所@感染@
+group_2:
+full: 社会 被 种族主义@侵染@。
+non: 社会 被 种族主义@影响@。
+group_3:
+full: 社会受到种族主义的@感染@。
+non: 社会受到种族主义的@感染@。",
+185,22,"Boys @gravitate@ towards girls at that age.
+youdao: 男孩 在 那个 年龄 容易 被 女孩 吸引 。
+google: 男孩 在 那个 年龄段 被 女孩 吸引 。
+opus: 男孩 向 这个 年龄 的 女孩 倾斜 。
+group_1:
+full: 男孩在那个年龄容易被女孩子@勾走了魂@
+non: 男孩在这个年龄段容易被女孩@吸引@ 。
+group_2:
+full: 男孩 在 那个 年龄 容易 被 女孩 @迷住@。
+non: 男孩 在 那个 年龄 容易 被 女孩 @吸引@。
+group_3:
+full: 男孩在那个年纪被女孩@吸引@。
+non: 男孩在那个年纪被女孩@吸引@。",
+186,299,"The debate @sharpened.@
+youdao: 辩论 愈演愈烈 。
+google: 争论 愈演愈烈 。
+opus: 辩论 更加 激烈 。
+group_1:
+full: 争论@愈演愈烈@
+non: 辩论发生的越来越@激烈@了
+group_2:
+full: 辩论 @愈演愈烈@。
+non: 辩论 @更加激烈@。
+group_3:
+non: 辩论更加地@激烈@了。
+part: 辩论@愈演愈烈@。",
+187,222,"She was @crushed@ by his refusal of her invitation.
+youdao: 他 拒绝 了 她 的 邀请 ， 使 她 崩溃 了 。
+google: 他 拒绝 了 她 的 邀请 ， 她 很 伤心 。
+opus: 他 拒绝 邀请 她 , 使 她 粉身碎骨 。
+group_1:
+full: 他拒绝了她的邀请, 这使她@伤心欲绝@
+non: 他拒绝了她的邀请, 使她非常@难过@
+group_2:
+full: 他拒绝了她的邀请使她@意志消沉@。
+non: 他拒绝了她的邀请,使她@感到难过@ 。
+group_3:
+non: 她因为他拒绝了自己的邀请而@遭受打击@。
+part: 她因为他拒绝了自己的邀请而@心碎@。",
+188,86,"@inflate@ the currency.
+youdao: 让 货币 膨胀 。
+google: 使 货币 膨胀 。
+opus: 货币 膨胀 。
+group_1:
+full: 使货币@通货膨胀@
+non: 使货币@价值升高@
+group_2:
+full: 通货@膨胀@。
+non: 货币@膨胀@。
+group_3:
+non: 使 货币 @膨胀@ 。
+part: 使 货币 @贬值@ 。",
+189,82,"he @buzzed@ the servant.
+youdao: 他 用 蜂鸣器 叫 仆人 。
+google: 他 叫 仆人 。
+opus: 他 按铃 的 仆人 。
+group_1:
+full: 他@使唤@仆人
+non: 他@呼叫@仆人
+group_2:
+non: 他@呼叫@仆人。
+part: 他@不耐烦的呼叫@仆人。
+group_3:
+non: 他 @用 蜂鸣器 叫@ 仆人 。
+part: 他 @按铃叫 @ 仆人 。",
+190,242,"She was @streaming@ with sweat.
+youdao: 她 满头大汗 。
+google: 她 大汗淋漓 。
+opus: 她 流着 汗流
+group_1:
+full: 她@满头大汗@ 。
+non: 她流汗@流了一身@
+group_2:
+full: 她 @满头大汗@。
+non: 她 @流着@ 汗。
+group_3:
+non: 她 @流了@很多汗
+part: 她 大汗@淋漓@ 。",
+191,289,"People were @pouring@ out of the theater.
+youdao: 人们 从 剧院 里 蜂拥 而出 。
+google: 人们 涌出 剧院 。
+opus: 人们 从 剧院 里 涌出来
+group_1:
+full: 人们从剧院里@蜂拥而出@
+non: 人们从剧院里@冲出来@
+group_2:
+full: 人们 从 剧院 里@蜂拥 而出@。
+non: 人们 从 剧院 里@乱糟糟地一起出来@。
+group_3:
+non: 人们从剧院中@出来@
+part: 人们从剧院中@鱼贯而出@",
+192,7,"The conversation @gravitated@ towards politics.
+youdao: 谈话 转向 了 政治 。
+google: 谈话 倾向 于 政治 。
+opus: 对话 引向 政治 。
+group_1:
+full: 谈话@倾向于@政治
+non: 谈话@转向@政治话题
+group_2:
+full: 谈话被政治@所吸引@。
+non: 谈话@转向@了政治。
+group_3:
+non: 谈话的重点@转向@了政治。
+part: 谈话的重心@转为@政治。",
+193,194,"the kettle was @singing.@
+youdao: 水壶 在 唱歌 。
+google: 水壶 在 唱歌 。
+opus: 水壶 在 唱歌
+group_1:
+full: 水壶的水@烧的沸腾@了
+non: 水壶在@烧开@了,发出咕噜咕噜的声音
+group_2:
+full: 水壶@放声歌唱@。
+non: 水壶@发出声响@。
+group_3:
+full: 水壶在@唱歌@。
+non: 水壶正@发出声音@。",
+194,156,"@level@ criticism or charges at somebody.
+youdao: 批评 或 指责 某人 。
+google: 对 某人 提出批评 或 指控 。
+opus: 对 某人 的 批评 或 指控 。
+group_1:
+full: @针对@某人提出批评或指控
+non: @对@某人批评 或 指控
+group_2:
+full: 对 某人 @提出@ 批评 或 指控。
+non: 对 某人 @ @ 批评 或 指控。
+group_3:
+non: @对 某人 提出@批评 或 指控
+part: @瞄准@某人 提出批评 或 指控",
+195,255,"The current boom in the economy @sucked@ many workers in from abroad.
+youdao: 目前 的 经济繁荣 吸引 了 许多 国外 工人 。
+google: 当前 的 经济繁荣 吸引 了 许多 来自 国外 的 工人 。
+opus: 目前 经济 的 繁荣 吸引 了 来自 国外 的 许多 工人 。
+group_1:
+full: 目前 的 经济繁荣@吸引@了许多外国工人
+non: 目前 的 经济繁荣使许多外国工人@前来@
+group_2:
+non: 当前经济的繁荣@吸引@了许多外国工人 。
+part: 当前的经济繁荣使许多外国工人@慕名而来@ 。
+group_3:
+full: 目前的经济繁荣@吸引@了很多来自国外的工人。
+non: 目前的经济繁荣@留下@了许多来自国外的工人。",
+196,285,"The press was @gagged.@
+youdao: 媒体 被 堵住 了 嘴 。
+google: 媒体 被 堵住 了 嘴 。
+opus: 媒体 被 堵住 了 。
+group_1:
+full: 媒体被@堵住了嘴@
+non: 媒体被@限制发言@
+group_2:
+full: 媒体 被@堵住 了 嘴@。
+non: 媒体 @沉默@ 。
+group_3:
+full: 媒体 被 @堵住 了 嘴@ 。
+non: 媒体被@限制了言论@。",
+197,278,"her resistance @melted@ under his charm.
+youdao: 她 的 抗拒 在 他 的 魅力 下 消融 了 。
+google: 她 的 抵抗 在 他 的 魅力 下 融化 了 。
+opus: 她 的 抵抗 在 他 的 魅力 下 融化 了
+group_1:
+full: 她的抗拒在他的魅力下逐渐@化为泡影@
+non: 她的抵抗在他的魅力下@消散@了
+group_2:
+full: 她的抗拒@消融@在他的魅力下。
+non: 她的抗拒@消失@在他的魅力下。
+group_3:
+non: 她 的 抵抗 在 他 的 魅力 下 @化@了 。
+part: 她 的 抵抗 在 他 的 魅力 下 @渐渐消失@ 了 。",
+198,292,"He @squared@ his shoulders.
+youdao: 他 挺起 胸膛 。
+google: 他 挺直 肩膀 。
+opus: 他 肩膀 正方
+group_1:
+full: 他@挺直@了肩膀
+non: 他使肩膀@直立@
+group_2:
+full: 他 @板正@了 他 的 肩膀 。
+non: 他 @挺起@ 胸 。
+group_3:
+non: 他@挺起@胸膛。
+part: 他@打直@肩膀。",
+199,301,"Don't @bolt@ your food!
+youdao: 不要 狼吞虎咽 !
+google: 不要 乱 吃 东西 ！
+opus: 别 把 食物 弄脏了 !
+group_1:
+full: 不要@狼吞虎咽@
+non: 不要@吃的太快@
+group_2:
+full: 不要@狼吞虎咽@!
+non: 不要@吃得太快@!
+group_3:
+full: 不要@狼吞虎咽@!
+non: 不要@狼吞虎咽@!",
+200,107,"This behavior will @ruin@ your chances of winning the election.
+youdao: 这种 行为 会毁 了 你 赢得 选举 的 机会 。
+google: This   behavior   will   ruin   your   chances   of   winning   the   election .
+opus: 这种 行为 会毁 了 你 赢得 选举 的 机会
+group_1:
+full: 这种行为会让你赢得选举的机会@毁于一旦@
+non: 这种行为会让你@失去@赢得选举的机会
+group_2:
+full: 这种 行为 会 @摧毁@ 你 赢得 选举 的 机会 。
+non: 这种 行为 会 @影响@ 你 赢得 选举 的 机会 。
+group_3:
+full: 这种行为会@毁了@你赢得选举的机会。
+non: 这种行为会@破坏@你赢得选举的机会。",
+201,112,"They @clawed@ their way to the top of the mountain.
+youdao: 他们 艰难 地 爬 上 了 山顶 。
+google: 他们 一路 攀登 到 山顶 。
+opus: 他们 爬 到 山顶
+group_1:
+full: 他们一路@跋涉@到达山顶
+non: 他们艰难得@爬上@山顶
+group_2:
+full: 他们 @艰难 @ 登顶 。
+non: 他们 @ 爬@ 上 了 山顶 。
+group_3:
+non: 他们 @手脚并用地@ 上 了 山顶 。
+part: 他们 @艰难 地 爬 @上 了 山顶 。",
+202,199,"Every summer, we @visited@ our relatives in the country for a month.
+youdao: 每年 夏天 ， 我们 去 乡下 拜访 亲戚 一个月 。
+google: 每年 夏天 ， 我们 都 会 去 乡下 探亲 一个月 。
+opus: 每年 夏天 , 我们 都 访问 我们 在 该国 的 亲戚 一个月 。
+group_1:
+full: 每年夏天,我们都会去乡下@探亲@一个月
+non: 每年夏天 , 我们都去@访问@乡下的亲戚
+group_2:
+full: 每年 夏天,我们 都 会 去 乡下 @探亲@ 一个月。
+non: 每年 夏天, 我们 都会 去 乡下 @拜访@ 亲戚 一个月。
+group_3:
+full: 每年夏天,我们都会去乡下@探@亲一个月。
+non: 每年夏天,我们都会去乡下@拜访@亲戚一个月。",
+203,124,"They were @locked@ in embrace.
+youdao: 他们 紧紧 拥抱 在 一起 。
+google: 他们 紧紧 相拥 。
+opus: 他们 被 锁 在 拥抱 中 。
+group_1:
+full: 他们在一起@紧紧相拥@
+non: 他们紧紧的@拥抱@在一起
+group_2:
+full: 他们 @紧紧 相拥@。
+non: 他们 @锁 在 拥抱 中@。
+group_3:
+full: 他们@紧紧地@拥抱在一起。
+non: 他们@紧紧地@拥抱在一起。",
+204,103,"This experience @transformed@ her completely.
+youdao: 这次 经历 彻底改变 了 她 。
+google: 这次 经历 彻底改变 了 她 。
+opus: 这种 经历 彻底改变 了 她 。
+group_1:
+full: 这次经历使她@蜕变@
+non: 这次经历彻底@改变@了她
+group_2:
+full: 这次 经历 彻底 @改变@ 了 她。
+non: 这次 经历 彻底 @转变@ 了 她。
+group_3:
+non: 这次经历彻底@改变@了她。
+part: 这次经历彻底@重塑@了她。",
+205,92,"Meteors @blazed@ across the atmosphere.
+youdao: 流星 划过 大气层 。
+google: 流星 划过 大气层 。
+opus: 气象 在 大气 中 燃烧
+group_1:
+full: 流星@划过@大气层
+non: 流星@经过@大气层
+group_2:
+non: 流星 在 大气 中 @燃烧@。
+part: 流星 @划过@ 大气层 。
+group_3:
+full: 流星@划过@大气层。
+non: 流星@划过@大气层。",
+206,212,"one idea @squares@ with the other one.
+youdao: 这个 想法 和 那个 想法 是 一致 的 。
+google: 一个 想法 与 另 一个 想法 一致 。
+opus: 一个 想法 方形 与 另 一个 想法 方形 。
+group_1:
+full: 这个想法和那个想法是@如出一辙@
+non: 这个想法与另 一个想法@一致@
+group_2:
+full: 这个想法和那个想法@不谋而合@。
+non: 这个想法和那个想法是@一致的@。
+group_3:
+non: 这个想法和那个想法是@一致@的。
+part: 这个想法与那个想法@等同@。",
+207,216,"The dress @molds@ her beautiful figure.
+youdao: 这件 衣服 塑造 了 她 美丽 的 身材 。
+google: 这件 衣服 塑造 了 她 美丽 的 身材 。
+opus: 衣服 塑造 了 她 美丽 的 身材
+group_1:
+full: 这件衣服与她美丽的身材非常@相称@
+non: 这件衣服非常@适合@她美丽的身材
+group_2:
+full: 这件 衣服 @贴合@ 她 美丽 的 身材 。
+non: 这件 衣服 @符合@ 她 美丽 的 身材 。
+group_3:
+non: 这件 衣服 @塑造@ 了 她 美丽 的 身材 。
+part: : 这件 衣服 @凸显@ 了 她 美丽 的 身材 。",
+208,137,"The government @relaxed@ the curfew after most of the rebels were caught.
+youdao: 大部分 叛军 被捕 后 ， 政府 放松 了 宵禁 。
+google: 在 大多数 叛乱分子 被捕 后 ， 政府 放松 了 宵禁 。
+opus: 大部分 叛军 被 抓获 之后   政府 放松 了 宵禁
+group_1:
+full: 大部分叛军被捕后 ,政府@放开@了宵禁
+non: 大部分叛军被捕后 ,政府对宵禁的管控@放松@了
+group_2:
+full: 大部分叛军被捕后,政府@放宽@了宵禁。
+non: 大部分叛军被捕后,政府@放松@了宵禁 。
+group_3:
+non: 在 大多数 叛乱分子 被捕 后 , 政府 @放松@ 了 宵禁
+part: 在 大多数 叛乱分子 被捕 后 , 政府 @放宽@ 了 宵禁",
+209,8,"The beams @scanned@ the night sky.
+youdao: 光束 扫 过 夜空 。
+google: 光束 扫 过 夜空 。
+opus: 光束 扫描 了 夜空
+group_1:
+full: 光束@划过@夜空
+non: 光束@穿过@了夜空
+group_2:
+full: 光束 @扫过@ 夜空。
+non: 光束 @扫描@ 夜空。
+group_3:
+full: 光束@扫@过夜空。
+non: 光束@扫@过夜空。",
+210,167,"The sudden fame @puffed@ her ego.
+youdao: 突如其来 的 名气 使 她 的 自尊心 膨胀 。
+google: 突如其来 的 名声 让 她 自负 。
+opus: 突然 的 名声 震撼 了 她 的 自我
+group_1:
+full: 突如其来的名气使她的自尊心@膨胀@。
+non: 突如其来的名气让她自我@膨大@。
+group_2:
+full: 突如其来 的 名声 让 她 @自负@。
+non: 突如其来 的 名声 让 她 的 自尊心 @膨胀@。
+group_3:
+full: 突如其来的名气使她的自负心@膨胀@。
+non: 突如其来的名气使她的自负心@膨胀@。",
+211,40,"The spaceship @blazed@ out into space.
+youdao: 宇宙飞船 冲向 太空 。
+google: 宇宙飞船 冲向 太空 。
+opus: 太空船 飞 向太空
+group_1:
+full: 宇宙飞船@冲向@太空。
+non: 宇宙飞船@飞向@太空。
+group_2:
+full: 宇宙飞船 @冲向@ 太空。
+non: 宇宙飞船 @飞向@ 太空。
+group_3:
+non: 宇宙飞船@飞往@太空。
+part: 宇宙飞船@冲向@太空。",
+212,127,"She @devoured@ his novels.
+youdao: 她 如饥似渴 地读 他 的 小说 。
+google: 她 如饥似渴 地 阅读 他 的 小说 。
+opus: 她 吞噬 了 他 的 小说
+group_1:
+full: 她@如饥似渴地阅读@他的小说。
+non: 她@充满感情地读@他的小说。
+group_2:
+full: 她@如饥似渴地读@她的小说。
+non: 她@阅读@了他的小说。
+group_3:
+full: 她@如饥似渴地读@他的小说。
+non: 她@十分喜爱地读@他的小说。",
+213,110,"Actions @talk@ louder than words.
+youdao: 事实胜于雄辩 。
+google: 行动 胜 于 雄辩 。
+opus: 行动 胜 于 言辞 。
+group_1:
+full: @行动@胜于雄辩。
+non: @交谈@胜于文字。
+group_2:
+full: @事实@ 胜 于 雄辩。
+non: @行动@ 胜 于 雄辩。
+group_3:
+non: 事实比言辞@说得@更大声。
+part: 事实@胜@于雄辩 。",
+214,34,"His lack of interest in the project @reflects@ badly on him.
+youdao: 他 对 这个 项目 不感兴趣 ， 这 对 他 很 不利 。
+google: 他 对 这个 项目 缺乏 兴趣 反映 在 他 身上 。
+opus: 他 对 这个 项目 缺乏 兴趣 , 这 对 他 的 影响 很 严重 。
+group_1:
+full: 他对这个项目不感兴趣,这在他身上@反映@的很明显。
+non: 他对这个项目不感兴趣,这在他身上@显示@的很明显。
+group_2:
+non: 他对这个项目缺乏兴趣,对他@影响很坏@。
+part: 他对这个项目缺乏兴趣@使他陷入窘境@。
+group_3:
+non: 他 对 这个 项目 不感兴趣 , 这 对他@反射了@不好的影响 。
+part: 他 对 这个 项目 不感兴趣 , 这 @对 @他 很 不利 。",
+215,210,"The scientists had to @accommodate@ the new results with the existing theories.
+youdao: 科学家 们 必须 使 新 的 结果 与 现有 的 理论 相适应 。
+google: 科学家 们 必须 将 新 结果 与 现有 理论 相结合 。
+opus: 科学家 们 必须 适应 现有 理论 的 新 结果 。
+group_1:
+full: 科学家们必须使新的结果@适应于@现有的理论。
+non: 科学家们必须使新的结果与现有理论@对应@。
+group_2:
+full: 科学家们必须使新的结果与现有的理论@相得益彰@。
+non: 科学家们必须使新的结果与现有的理论@相适应 @。
+group_3:
+full: 科学家们必须使新的结果和现有的理论相@适用@。
+non: 科学家们必须使新的结果和现有的理论相@适用@。",
+216,108,"A weather vane @crowns@ the building.
+youdao: 这座 建筑物 的 顶上 有 一个 风向标 。
+google: 风向标 为 建筑物 加冕 。
+opus: 一座 天窗 为 大楼 加冕 。
+group_1:
+full: 风向标@飘摇@在这座建筑物的顶部。
+non: 这座建筑物的顶部@有@一个风向标。
+group_2:
+non: 这座 建筑物 的 顶上 @有@一个 风向标 。
+part: 这座 建筑物 的 顶上 @修建@了 一个 风向标 。
+group_3:
+non: 风向标给这座建筑物@加顶@。
+part: 这座 建筑物 的 @顶上 有@ 一个 风向标 。",
+217,5,"We @rotate@ the crops so as to maximize the use of the soil.
+youdao: 我们 轮种 庄稼 ， 以便 最大 限度 地 利用 土壤 。
+google: 我们 轮作 作物 以 最大 限度 地 利用 土壤 。
+opus: 我们 轮流 种植 作物 , 以便 最大 限度 地 利用 土壤 。
+group_1:
+full: 我们@轮种@作物以便最大限度地利用土壤。
+non: 我们@定期调换地点种植@作物以便最大限度的利用土壤。
+group_2:
+full: 我们 @轮种@ 庄稼 , 以便 最大 限度 地 利用 土壤 。
+non: 我们 @轮流 种植@ 庄稼 , 以便 最大 限度 地 利用 土壤 。
+group_3:
+full: 我们 @轮种 @庄稼 , 以便 最大 限度 地 利用 土壤 。
+non: 我们 @定期调换@庄稼 , 以便 最大 限度 地 利用 土壤 。",
+218,109,"The Senator @blistered@ the administration in his speech on Friday.
+youdao: 参议员 在 星期五 的 讲话 中 猛烈 抨击 了 政府 。
+google: 这位 参议员 在 周五 的 演讲 中 抨击 了 政府 。
+opus: 参议员 在 周五 的 演讲 中   将 政府 搅乱 了
+group_1:
+full: 参议员在星期五的讲话中@猛烈抨击@了政府。
+non: 参议员在周五的讲话中@批评@政府。
+group_2:
+non: 参议员 在 周五 的 演讲 中 @扰乱@ 了 政府。
+part: 参议员 在 星期五 的 讲话 中 @抨击@ 了 政府。
+group_3:
+non: 参议员在周五的演讲中猛烈@抨击@了政府
+part: 参议员周五的演讲@搅乱@了政府",
+219,23,"She was @besieged@ by so many problems that she got discouraged.
+youdao: 她 被 如此 多 的 问题 围困 ， 以致 灰心丧气 。
+google: 太多 的 问题 困扰 着 她 ， 使 她 气馁 。
+opus: 她 被 这么 多 的 问题 包围 , 她 气馁 了 。
+group_1:
+full: 太多的问题@困扰@她使她气馁。
+non: 她被太多问题@围困@以致气馁。
+group_2:
+full: 她 被 如此 多 的 问题 @围困@, 以致 灰心丧气。
+non: 她 被 如此 多 的 问题 @包围@, 以致 灰心丧气。
+group_3:
+full: 她 被 如此 多 的 问题 @围困@ , 以致于 灰心丧气 。
+non: 她 被 如此 多 的 问题 @包围@ , 以致于 灰心丧气 。",
+220,73,"They @hunted@ the unwanted immigrants out of the neighborhood.
+youdao: 他们 把 不 受欢迎 的 移民 赶出 了 这个 社区 。
+google: 他们 将 不 受欢迎 的 移民 赶 出 附近 。
+opus: 他们 把 那些 不 想要 的 移民 从 附近 追赶 出来
+group_1:
+non: 他们@搜寻@不受欢迎的移民让他们离开这个社区。
+part: 他们将不受欢迎的移民@赶出@了社区。
+group_2:
+non: 他们把不受欢迎的移民@赶出@了这个社区 。
+part: 他们把不受欢迎的移民@驱逐出@了这个社区 。
+group_3:
+non: 他们把不受欢迎的移民@赶出@了这个社区。
+part: 他们把不受欢迎的移民@驱逐@出了这个社区。",
+221,88,"@sow@ suspicion or beliefs.
+youdao: 播种 怀疑 或 信仰 。
+google: 播下 怀疑 或 信念 。
+opus: 播种 怀疑 或 信仰 。
+group_1:
+full: @播下@怀疑或信仰的种子。
+non: @心存@怀疑或信仰。
+group_2:
+full: @播种@ 怀疑 或 信仰。
+non: @播下@ 怀疑 或 信仰。
+group_3:
+full: @播下@怀疑或信念。
+non: @埋下@怀疑或信念。",
+222,239,"I heard him @volley@ a string of curses.
+youdao: 我 听到 他 连声 咒骂 。
+google: 我 听到 他 齐声 咒骂 了 一串 。
+opus: 我 听到 他 唱 着 一连串 的 诅咒
+group_1:
+full: 我听到他口中@射子弹般连声咒骂@。
+non: 我听到他@连声咒骂@。
+group_2:
+full: 我 听到 他 @连声@ 咒骂。
+non: 我 听到 他 @齐声@ 咒骂。
+group_3:
+full: 我听到他@弹射@出一连串的诅咒。
+non: 我听到他@连声@咒骂。",
+223,293,"The mother was @swelling@ with importance when she spoke of her son.
+youdao: 当 母亲 谈到 她 的 儿子 时 ， 她 的 脸红 了 。
+google: 当 她 谈到 她 的 儿子 时 ， 她 的 母亲 显得 很 重要 。
+opus: 当 母亲 谈到 她 的 儿子 时 , 她 正带 着 重要 的 意义 膨胀起来 。
+group_1:
+full: 当母亲谈到她的儿子时,她像是@过敏似的严重肿胀@起来。
+non: 当母亲谈到她的儿子时,她十分@脸红@。
+group_2:
+full: 当 母亲 谈到 她 的 儿子 时 , 她 的 脸上 @显现@ 郑重 的 神情 。
+non: 当 母亲 谈到 她 的 儿子 时 , 她 的 脸上@满是@ 郑重。
+group_3:
+full: 当这位母亲谈到他的儿子时,她的脸@发胀@。
+non: 当这位母亲谈到他的儿子时,她的@脸红了@。",
+224,161,"The author @recaptures@ an old idea here.
+youdao: 作者 在 这里 再现 了 一个 古老 的 思想 。
+google: 作者 在 这里 重温 了 一个 旧 观念 。
+opus: 作者 在 这里 重新 发现 了 一个 古老 的 想法 。
+group_1:
+full: 作者在这里@重新夺回似的再现@了一个古老的观点。
+non: 作者在这里@再现@了一个古老的观点。
+group_2:
+full: 作者 在 这里 @重温@ 了 一个 古老 的 观念 。
+non: 作者 在 这里 @再次思考@ 了 一个 旧 观念 。
+group_3:
+full: 作者在这里@重新描绘@了一个旧观念。
+non: 作者在这里@再现@了一个旧观念。",
+225,51,"@condense@ the contents of a book into a summary.
+youdao: 把 书 的 内容 浓缩 成 摘要 。
+google: 将 一 本书 的 内容 浓缩 成 一个 摘要 。
+opus: 将 书 的 内容 压缩 为 摘要 。
+group_1:
+full: 把书的内容@浓缩@为一个摘要。
+non: 把书的内容@压缩@为一个摘要。
+group_2:
+full: 把 一本书 的 内容 @浓缩@ 成 一个 摘要。
+non: 把 一本书 的 内容 @压缩@ 成 一个 摘要。
+group_3:
+non: 把一本书的内容@压缩@为一个概要。
+part: 把一本书的内容@提炼@为一个概要。",
+226,170,"Her efforts will @redound@ to the general good.
+youdao: 她 的 努力 将 有益于 公众 利益 。
+google: 她 的 努力 将 造福 于 大众 。
+opus: 她 的 努力 将 有利于 普遍 利益 。
+group_1:
+full: 她的努力将对大众利益产生@有利的反作用力@。
+non: 她的努力将@造福于@大众利益。
+group_2:
+full: 她的努力将@造福于@大众。
+non: 她的努力将@有利于@公众利益。
+group_3:
+non: 她的努力将@有益于@大众。
+part: 她的努力将@造福@于大众。",
+227,94,"She had to @juggle@ her job and her children.
+youdao: 她 不得不 兼顾 工作 和 孩子 。
+google: 她 不得不 兼顾 工作 和 孩子 。
+opus: 她 不得不 玩弄 她 的 工作 和 孩子
+group_1:
+full: 她不得不@尽力兼顾@工作和孩子。
+non: 她不得不尽力@同时应对@工作和孩子。
+group_2:
+full: 她 不得不 @兼顾@ 工作 和 孩子 。
+non: 她 不得不 @同时应付@ 工作 和 孩子 。
+group_3:
+non: 她不得努力兼顾工作和孩子。
+part: 她不得在她的工作和孩子之间@挣扎@",
+228,214,"This story will @grab@ you.
+youdao: 这个 故事会 吸引 你 的 。
+google: 这个 故事会 吸引 你 。
+opus: 这个 故事会 抓住 你 的
+group_1:
+full: 这个故事会@抓住@你的眼球。
+non: 这个故事会@吸引@你。
+group_2:
+full: 这个 故事会 @吸引@ 你 的。
+non: 这个 故事会 @抓住@ 你 的。
+group_3:
+non: 这个 故事会 @吸引@ 你 。
+part: 这个 故事会 @抓住@ 你 。",
+229,129,"the flowers were @nodding@ in the breeze.
+youdao: 花儿 在 微风 中 摇曳 。
+google: 花朵 在 微风 中 摇摆 。
+opus: 花儿 在 微风 中 点头
+group_1:
+full: 花儿们在微风中@摇曳@。
+non: 花儿们在微风中@晃动@。
+group_2:
+full: 花儿 在 微风 中 @摇曳@ 。
+non: 花儿 在 微风 中 @摆动@ 。
+group_3:
+non: 花儿在微风中@摆动@
+part: 花儿在微风中@摇曳@",
+230,208,"This new colleague @invades@ my territory.
+youdao: 这位 新 同事 侵入 了 我 的 领地 。
+google: 这位 新 同事 侵犯 了 我 的 领地 。
+opus: 这个 新 同事 入侵 了 我 的 领土
+group_1:
+full: 这位新同事@侵扰@了我的工作领域。
+non: 这位新同事@入侵@了我的领域。
+group_2:
+full: 这个 新 同事 @侵犯@ 了 我 的 领地。
+non: 这个 新 同事 @侵入@ 了 我 的 领地。
+group_3:
+full: 这位新同事@侵犯@了我的领地。
+non: 这位的新同事@侵犯@了我的领地。",
+231,36,"Suspense was @building@ right from the beginning of the opera.
+youdao: 悬念 从 歌剧 一 开始 就 开始 了 。
+google: 悬念 从 歌剧 一 开始 就 在 建立 。
+opus: 从 歌剧 一 开始   悬念 就 一直 在建设中
+group_1:
+full: 从歌剧一开始就@埋下悬念的种子@。
+non: 歌剧从一开始就@建立@悬念。
+group_2:
+full: 悬念 从 歌剧 一 开始 就 @埋下@ 了 。
+non: 悬念 从 歌剧 一 开始 就 @有@ 了 。
+group_3:
+full: 悬念从歌剧一开始就在@制造@了。
+non: 悬念从歌剧一开始就在@制造@了",
+232,11,"The chemical @clouded@ the liquid to which it was added.
+youdao: 这种 化学物质 使 加入 它 的 液体 浑浊 。
+google: 该 化学品 使 加入 它 的 液体 浑浊 。
+opus: 化学物质 将 添加 该 物质 时 的 液体 蒙 上 云层 。
+group_1:
+full: 这种化学物质使得加入它的液体@像被蒙上云层般浑浊不堪@。
+non: 这种化学物质使得加入它的液体@浑浊@。
+group_2:
+full: 这种 化学物质 使 加入 它 的 液体 变得 @浑浊@。
+non: 这种 化学物质 使 加入 它 的 液体 @蒙上一层物质@。
+group_3:
+non: 这种化学物质时加入的液体@浑浊@。
+part: 这种化学物质使加入的液体好似@蒙上一层雾@。",
+233,57,"only few plants can @immigrate@ to the island.
+youdao: 只有 少数 植物 能 移居 到 这个 岛上 。
+google: 只有 少数 植物 可以 移民 到 岛上 。
+opus: 只有 少数 植物 可以 移民 到 岛上
+group_1:
+non: 只有少数植物能在这个岛上@存活生长@。
+part: 只有少数植物能@像移民一样在这个岛上存活生长@。
+group_2:
+full: 只有 少数 植物 能 @移居@ 到 这个 岛上 。
+non: 只有 少数 植物 可以 @移植@ 到 岛上 。
+group_3:
+full: 只有少数植物可以@移植@到这个岛上。
+non: 只有少数植物可以@移植@到这个岛上。",
+234,244,"he @flashed@ a$ 100 bill.
+youdao: 他 亮出 一张 100 美元 的 钞票 。
+google: 他 亮出 一张   100   美元 的 钞票 。
+opus: 他 闪现 了 100 美元 的 帐单 。
+group_1:
+full: 他@亮出@一张100美元的钞票。
+non: 他@快速显示出@一张100美元的钞票。
+group_2:
+full: 他 @亮出@ 一张 100 美元 的 钞票。
+non: 他 @飞速拿出@ 一张 100 美元 的 钞票。
+group_3:
+full: : 他 @亮出@ 一张 100 美元 的 钞票 。
+non: : 他 @闪了一闪@ 一张 100 美元 的 钞票 。",
+235,26,"The professor @plunged@ his students into the study of the Italian text.
+youdao: 教授 让 他 的 学生 们 钻研 意大利文 。
+google: 教授 让 他 的 学生 投入 到 意大利 文本 的 研究 中 。
+opus: 教授 把 他 的 学生   投入 到 意大利文 的 学习 中
+group_1:
+full: 教授激励他的学生们@像跳水一样投入@到对意大利文本的研究中。
+non: 教授激励学生们@投入@对意大利文本的研究中。
+group_2:
+full: 教授让他的学生们@投身于@意大利文的学习中。
+non: 教授让他的学生们@开始学习@意大利文。
+group_3:
+full: 教授让他的学生@投入到@意大利文本的研究中 。
+non: 教授让他的学生@投入到@意大利文本的研究中 。",
+236,111,"He @pumped@ bullets into the dummy.
+youdao: 他 向 假人 射击 。
+google: 他 将 子弹 射入 假 人 。
+opus: 他 把子 弹射 进假 人 身上
+group_1:
+full: 他向假人@连续奔流般输送@子弹。
+non: 他向假人@射击@。
+group_2:
+full: 他 向 假人 @射击@ 。
+non: 他 将 子弹 @射入@ 假 人 。
+group_3:
+full: 他将子弹向假人@射去@。
+non: 他将子弹向假人@射去@。",
+237,303,"This story would @lend@ itself well to serialization on television.
+youdao: 这个 故事 很 适合 在 电视 上 连载 。
+google: 这个 故事 很 适合 在 电视 上 连载 。
+opus: 这个 故事 很 适合 在 电视 上 进行 连环 报道 。
+group_1:
+non: 这个故事@很适合@在电视上连载。
+part: 这个故事在电视上连载是@天作之合@。
+group_2:
+full: 这个故事会在电视上@大受欢迎@。
+non: 这个故事很@适合 @在电视上连载 。
+group_3:
+non: 这个故事很适合@在@电视上连载。
+part: 这个故事很适合@放到@电视上连载。",
+238,96,"Companies will now @stampede@ to release their latest software.
+youdao: 现在 各大 公司 将 争先恐后 地 发布 他们 的 最新 软件 。
+google: 公司 现在 将 蜂拥而至 发布 他们 最新 的 软件 。
+opus: 现在 公司 将 发行 最新 的 软件 。
+group_1:
+full: 现在各大公司将@争先恐后地@发布他们的最新软件。
+non: 现在各大公司@仓促地@发布他们的最新软件。
+group_2:
+full: 现在 各大 公司 将@争先恐后@地 发布 他们 的 最新 软件。
+non: 现在 各大 公司 将@以最快速度@发布 他们 的 最新 软件。
+group_3:
+non: 现在各大公司将@纷纷@发布他们最新的软件。
+part: 现在各大公司将@争先恐后@地发布他们最新的软件。",
+239,90,"The mother @drinks@ in every word of her son on the stage.
+youdao: 这位 母亲 沉浸 在 儿子 在 舞台 上 说 的 每 一句 话 中 。
+google: 母亲 在 舞台 上 对 儿子 的 每 一句 话 都 深信不疑 。
+opus: 母亲 在 舞台 上   喝 着 她 儿子 的 每 一句 话
+group_1:
+full: 这位母亲@沉浸@在儿子在舞台上说的每一句话中。
+non: 这位母亲@听进去了@儿子在舞台上说的每一句话。
+group_2:
+full: 这位 母亲 @沉浸@ 在 儿子 在 舞台 上 说 的 每 一句 话 中。
+non: 这位 母亲 @陶醉@ 于 儿子 在 舞台 上 说 的 每 一句 话 中。
+group_3:
+non: 这位母亲@仔细聆听@儿子在舞台上说的每一句话。
+part: 这位母亲@沉浸@在儿子在舞台上说的每一句话中。",
+240,175,"The event @engraved@ itself into her memory.
+youdao: 那件事 铭刻 在 她 的 记忆 中 。
+google: 这件 事 深深地 刻 在 了 她 的 记忆 中 。
+opus: 事件 将 自己 刻 在 她 的 记忆 中
+group_1:
+full: 那件事@雕刻似的印在@她的记忆中。
+non: 那件事深深@存留@在她的记忆中。
+group_2:
+full: 那件事 @铭刻@ 在 她 的 记忆 中。
+non: 那件事 @刻@ 在 她 的 记忆 中。
+group_3:
+full: 那件事@铭刻@在了她的记忆中。
+non: 这件事@留@在了她的记忆中。",
+241,83,"My skin @crawled@ -- I was terrified.
+youdao: 我 的 皮肤 起 了 鸡皮疙瘩 — — 我 吓坏 了 。
+google: 我 浑身 起 鸡皮疙瘩 — — 我 被 吓坏 了 。
+opus: 我 的 皮肤 在 爬   --   我 吓坏 了 。
+group_1:
+full: 我浑身@起鸡皮疙瘩@,我吓坏了。
+non: 我皮肤@挤满小疙瘩@,我被吓坏了。
+group_2:
+full: 我 浑身 @起 鸡皮疙瘩@ — — 我 被 吓坏 了 。
+non: 我 浑身 @像有东西在爬@ — — 我 被 吓坏 了 。
+group_3:
+full: 我的皮肤上@好像有什么在爬@——我吓坏了
+non: 我浑身@起了鸡皮疙瘩@——我被吓坏了",
+242,265,"The heat @scorched@ the countryside.
+youdao: 炎热 把 乡村 烤焦 了 。
+google: 酷热 烧焦 了 乡村 。
+opus: 热量 烧焦 了 农村 。
+group_1:
+full: 高温的热量@像把乡村烧焦了一样@。
+non: 高温@烘烤着@乡村。
+group_2:
+full: 酷热 @烧焦@ 了 乡村。
+non: 酷热 使 乡村 @非常炎热@。
+group_3:
+full: 炎热 把 乡村@烤焦@ 了 。
+non: 炎热 把 乡村 @烧焦 @了 。",
+243,233,"Greed and ambition @composed@ his personality.
+youdao: 贪婪 和 野心 构成 了 他 的 性格 。
+google: 贪婪 和 野心 构成 了 他 的 个性 。
+opus: 贪婪 和 野心 是 他 的 个性
+group_1:
+full: 贪婪和野心@构成了他性格@。
+non: 贪婪和野心@是他性格的组成部分@。
+group_2:
+full: 贪婪和野心是他性格的@组成部分@。
+non: 贪婪和野心@构成@了他的性格。
+group_3:
+full: 他的性格由贪婪和野心@组成@
+non: 他的性格由贪婪和野心@组成@。",
+244,193,"I @swallowed@ my anger and kept quiet.
+youdao: 我 忍气吞声 ， 保持沉默 。
+google: 我 咽下 怒火 ， 保持沉默 。
+opus: 我 吞下 我 的 愤怒   保持 安静
+group_1:
+full: 我@咽下@怒火,保持沉默。
+non: 我@压制@怒火,保持沉默。
+group_2:
+full: 我@忍气吞声@,保持沉默 .
+non: 我@忍住@怒火,保持沉默。
+group_3:
+full: 我忍气@吞@声,保持沉默。
+non: 我@咽下@我的怒火,保持沉默。",
+245,65,"Unrest @erupted@ in the country.
+youdao: 这个 国家 爆发 了 动乱 。
+google: 该国 爆发 了 动荡 。
+opus: 该国 暴发 了 一次 暴发 。
+group_1:
+full: 这个国家@爆发@了暴乱。
+non: 这个国家@出现@动乱。
+group_2:
+full: 这个 国家 @爆发@ 了 动乱 。
+non: 这个 国家 @突然发生@ 了 动乱 。
+group_3:
+full: 该国 @爆发@ 了 动荡
+non: 该国 @突发@ 了 动荡",
+246,14,"This @poses@ an interesting question.
+youdao: 这 就 提出 了 一个 有趣 的 问题 。
+google: 这 就 提出 了 一个 有趣 的 问题 。
+opus: 这 提出 了 一个 有趣 的 问题 。
+group_1:
+full: 这就@提出@了一个有趣的问题。
+non: 这就@产生@了一个有趣的问题。
+group_2:
+non: 这 就 @提出@ 了 一个 有趣 的 问题 。
+part: 这 就 @抛出@ 了 一个 有趣 的 问题 。
+group_3:
+full: 这就@产生@一个有趣的问题。
+non: 这就@产生@了一个有趣的问题。",
+247,148,"I @wrestled@ with this decision for years.
+youdao: 我 为 这个 决定 纠结 了 很多年 。
+google: 我 为 这个 决定 挣扎 了 很多年 。
+opus: 我 为 这个 决定 挣扎 了 好几年
+group_1:
+full: 我为这个决定@挣扎纠结@了很多年。
+non: 我@对付纠结@这个决定了很多年。
+group_2:
+full: 我 为 这个 决定 @纠结@ 了 很多年。
+non: 我 为 这个 决定 @内心斗争@ 了 很多年。
+group_3:
+non: 我@努力处理@这个抉择很多年了。
+part: 我反对这个决定并@抗争@了很多年。",
+248,157,"after a glass of wine, he @lightened@ up a bit.
+youdao: 一 杯酒 下肚 ， 他 的 心情 就 轻松 了 一些 。
+google: 喝 了 一 杯酒 ， 他 的 心情 轻松 了 一些 。
+opus: 喝完 一杯 酒后 , 他 稍稍 发光 。
+group_1:
+full: 一杯酒下肚,他的心情@如蜡烛点亮般轻松了一些@。
+non: 一杯酒下肚,他心情@轻松了些@。
+group_2:
+non: 一杯酒下肚,他的心情@轻松@了一些。
+part: 一杯酒下肚,他的心情@变好@了一些。
+group_3:
+full: 一 杯酒 下肚 , 他 的 心情 就 @轻松@ 了 一些 。
+non: 一 杯酒 下肚 , 他 的 心情 就 @好@ 了 一些 。",
+249,180,"@juggle@ an account so as to hide a deficit.
+youdao: 篡改 帐目 以 掩盖 赤字 。
+google: 玩弄 账户 以 掩盖 赤字 。
+opus: 混合 账户 以 隐藏 赤字   。
+group_1:
+full: @篡改@账目以掩盖赤字。
+non: @改换@账目以掩盖赤字。
+group_2:
+full: @乱改@ 帐目 以 掩盖 赤字 。
+non: @改变@账户 以 掩盖 赤字。
+group_3:
+full: @篡改@ 帐目 以 掩盖 赤字 。
+non: @玩弄@ 帐目 以 掩盖 赤字 。",
+250,13,"The fate of Bosnia @lies@ in the hands of the West.
+youdao: 波斯尼亚 的 命运 掌握 在 西方 的 手中 。
+google: 波斯尼亚 的 命运 掌握 在 西方 手中 。
+opus: 波斯尼亚 的 命运 掌握 在 西方 手中 。
+group_1:
+full: 波斯尼亚的命运@掌握在@西方国家手中。
+non: 波斯尼亚的命运被西方国家@控制@。
+group_2:
+non: 波斯尼亚的命运@掌握在@西方的手中。
+part: 波斯尼亚的命运被西方@玩弄于股掌间@。
+group_3:
+non: 波斯尼亚的命运被西方@控制@。
+part: 波斯尼亚的命运@掌握@在西方的手中。",
+251,191,"The bad review of his work @deflated@ his self- confidence.
+youdao: 对 他 工作 的 差评 挫伤 了 他 的 自信心 。
+google: 对 他 作品 的 差评 打击 了 他 的 自信心 。
+opus: 对 他 的 工作 的 不良 审查 削弱 了 他 的 自信 。
+group_1:
+full: 对他工作的差评@挫伤@了他的自信心。
+non: 对他工作的差评使他自信心@减少@。
+group_2:
+full: 对 他 工作 的 差评 @挫伤@ 了 他 的 自信心。
+non: 对 他 工作 的 差评 @打击@ 了 他 的 自信心。
+group_3:
+non: 对 他 工作 的 差评 @减损@ 了 他 的 自信心 。
+part: 对 他 工作 的 差评 @挫伤@ 了 他 的 自信心 。",
+252,223,"horses were @clogged@ until they were tamed.
+youdao: 马 被 堵住 ， 直到 驯服 为止 。
+google: 马 被 堵塞 ， 直到 它们 被 驯服 。
+opus: 马 被 堵塞 , 直到 被 驯服 。
+group_1:
+full: 马@像被堵住一样被困住@,直到它们被驯服。
+non: 马被@困在里面@直到它们被驯服。
+group_2:
+full: 马 被 @拴住@, 直达 它们 被 驯服 为止。
+non: 马 被 @马缰阻碍着@, 直到 它们 被 驯服 为止。
+group_3:
+non: 马 被 @堵住@了 , 直到 它们 被 驯服 。
+part: 马 被 @勒住@了 , 直到 它们 被 驯服 。",
+253,169,"These events could @fracture@ the balance of power.
+youdao: 这些 事件 可能 会 打破 权力 平衡 。
+google: 这些 事件 可能 会 打破 权力 平衡 。
+opus: 这些 事件 可能 破坏 力量 平衡 。
+group_1:
+full: 这些事件可能会@撕裂般的打破@权力平衡。
+non: 这些事件可能会@破坏@权力平衡。
+group_2:
+full: 这些 事件 可能 会@打破@权力 平衡 。
+non: 这些 事件 可能@破坏@力量 平衡.
+group_3:
+full: 这些事可能会@打破@权力平衡。
+non: 这些事可能会@打破@权力平衡。",
+254,267,"The government @bowed@ to the military pressure.
+youdao: 政府 屈服于 军事 压力 。
+google: 政府 屈服于 军事 压力 。
+opus: 政府 屈服于 军事 压力
+group_1:
+full: 政府@弯腰似的屈服于@军事压力。
+non: 政府@屈服于@军事压力。
+group_2:
+full: 政府 向 军事 压力@折腰@ 。
+non: 政府 @退让@于 军事 压力 。
+group_3:
+non: : 政府 向军事 压力@弯腰@ 。
+part: 政府@ 屈服@于 军事 压力 。",
+255,247,"She had @scraped@ together enough money for college.
+youdao: 她 已经 凑足 了 上 大学 的 钱 。
+google: 她 凑够 了 上 大学 的 钱 。
+opus: 她 为了 上 大学 拼 了 够 多 的 钱
+group_1:
+full: 她@勉强凑足@了上大学的钱。
+non: 她@拼凑@了上大学的钱。
+group_2:
+full: 她 已经 @囤够@足了 上 大学 的 钱 。
+non: 她 已经 @存够@ 了 上 大学 的 钱 。
+group_3:
+non: 她已经@积累足@了上大学的钱
+part: 她已经@囤够@了上大学的钱。",
+256,177,"Fear @seized@ the prisoners.
+youdao: 囚犯 们 感到恐惧 。
+google: 恐惧 抓住 了 囚犯 。
+opus: 恐惧 抓获 了 囚犯 。
+group_1:
+full: 囚犯们@像被恐惧抓住一样@感到害怕。
+non: 囚犯们@感到@恐惧。
+group_2:
+full: 恐惧@挟持@了 囚犯 们。
+non: 囚犯 们@感到@了 恐惧。
+group_3:
+non: 恐惧 @抓获@ 了 囚犯 。
+part: 囚犯 们 @感到@恐惧 。",
+257,236,"The stock market @drifted@ upward.
+youdao: 股票市场 逐渐 上升 。
+google: 股市 上涨 。
+opus: 股市 向上 下滑 。
+group_1:
+full: 股票市场@像漂流似的缓慢@上升好转。
+non: 股票市场@缓慢@好转。
+group_2:
+full: 股市 @波动@ 上涨。
+non: 股市 @漂浮@ 上涨。
+group_3:
+non: 股市@逐渐@上升。
+part: 股市渐渐@水涨船高@。",
+258,119,"The problem @roots@ in her depression.
+youdao: 问题 根源 于 她 的 抑郁 。
+google: 问题 的 根源 在于 她 的 抑郁症 。
+opus: 她 抑郁症 的 根源
+group_1:
+full: 问题@根源于@她的抑郁。
+non: 问题本质上@来自于@她的抑郁。
+group_2:
+full: 问题@植根于@她的抑郁。
+non: 问题@来自于@她的抑郁。
+group_3:
+full: 问题 @根源@ 于 她 的 抑郁 。
+non: 问题 @在@ 于 她 的 抑郁 。",
+259,243,"They @topped@ off their dinner with a cognac.
+youdao: 他们 以 一杯 干邑 酒 结束 了 晚餐 。
+google: 他们 用 干邑 白兰地 结束 了 晚餐 。
+opus: 他们 用 白兰地 吃 了 晚餐
+group_1:
+full: 他们用一杯干邑酒@标志着晚餐的结束@。
+non: 他们喝完一杯干邑酒,@结束@晚餐。
+group_2:
+full: 他们以 一杯干邑酒@结束@了晚餐 。
+non: 他们以 一杯干邑酒@结束@了晚餐 。
+group_3:
+non: 他们以一杯干邑酒@结束@了晚餐。
+part: 他们以一杯干邑酒@完结@了晚餐。",
+260,219,"@preserve@ the peace in the family.
+youdao: 保持 家庭和睦 。
+google: 维护 家庭 的 和平 。
+opus: 维护 家庭 的 和平 。
+group_1:
+full: @维护@家庭的和平。
+non: @保持@家庭和睦。
+group_2:
+full: @维护@ 家庭和睦 。
+non: @保持@ 家庭和睦 。
+group_3:
+non: @保持@家庭和睦
+part: @维护@家庭和睦。",
+261,62,"@build@ a modern nation.
+youdao: 建设 现代化 国家 。
+google: 建设 现代化 国家 。
+opus: 建设 一个 现代 国家 。
+group_1:
+full: @建设@一个现代化国家。
+group_2:
+full: @建设@现代化国家 。
+non: @建设@现代化国家。
+group_3:
+non: @建设@现代化国家。
+part: @创造@一个现代化国家。",
+262,272,"My personal feelings @color@ my judgment in this case.
+youdao: 我 的 个人 感情 影响 了 我 对 这件 事 的 判断 。
+google: 在 这种 情况 下 ， 我 的 个人 感受 影响 了 我 的 判断 。
+opus: 我 个人 的 感受   使 我 对 本案 的 判断 产生 色彩
+group_1:
+full: 我的个人感情像给此事@上色般影响@了我对这件事的判断。
+non: 我的个人感情@影响@了我对这件事的判断。
+group_2:
+full: 我的个人感情使我对这件事的看法@带上了有色眼镜@。
+non: 我的个人感情@影响@了我对这件事的判断。
+group_3:
+full: 在这种情况下,我的个人情感@影响@了我对这件事情的判断。
+non: 在这种情况下,我的个人情感给我对这件事情的判断@增添了色彩@。",
+263,310,"The tax cut will @boost@ the economy.
+youdao: 减税 将 促进 经济 发展 。
+google: 减税 将 提振 经济 。
+opus: 减税 将 刺激 经济 。
+group_1:
+full: 减税将@提振@经济发展。
+non: 减税将@促进@经济发展。
+group_2:
+non: 减税 将 @促进@ 经济 发展 。
+part: 减税 将 @刺激@ 经济 发展 。
+group_3:
+full: 减税将@促进@经济发展。
+non: 减税将@促进@经济发展。",
+264,84,"The steering of my new car @answers@ to the slightest touch.
+youdao: 轻微 的 触摸 就 能 使 我 新车 的 转向 灵敏 。
+google: 我 的 新车 的 转向 响应 最 轻微 的 触摸 。
+opus: 我 新车 的 车 方向 一触即发
+group_1:
+full: 只需要轻微的触摸,我的新车就会@响应转向@。
+non: 轻微触摸就能使我的新车@转向@。
+group_2:
+non: 我 的 新车 转向 能@响应@ 最 轻微 的 触碰。
+part: 我 的 新车 @转向@ 灵敏。
+group_3:
+full: 我的新车能@响应@最轻微的触摸并立刻转向。
+non: 轻微的触摸就能@使@我的新车转向。",
+265,113,"The immigrants were quickly @absorbed@ into society.
+youdao: 移民 们 很快 就 融入 了 社会 。
+google: 移民 很快 就 融入 了 社会 。
+opus: 移民 迅速 融入 社会 。
+group_1:
+full: 移民们很快@被吸进似的融入@了社会。
+non: 移民们很快@适应@了这个社会。
+group_2:
+full: 移民们 很快 就 @融入@ 了 社会。
+non: 移民们 很快 就 被 社会 @吸收了@。
+group_3:
+non: 移民们很快就被@吸纳@入了社会。
+part: 移民们很快就@融入@了社会。",
+266,176,"One can never fully @repair@ the suffering and losses of the Jews in the Third Reich.
+youdao: 人们 永远 无法 完全 弥补 第三 帝国 犹太人 遭受 的 苦难 和 损失 。
+google: 永远 无法 完全 修复 犹太人 在 第三 帝国 的 苦难 和 损失 。
+opus: 犹太人 在 第三 帝国 的 苦难 和 损失 永远 无法 完全 弥补 。
+group_1:
+full: 人们永远无法完全@弥补@犹太人在第三帝国遭受的苦难和蒙受的损失。
+non: 人们永远无法完全@修复@犹太人在第三帝国遭受的苦难和猛兽的损失的内心的痛。
+group_2:
+full: 人们 永远 无法 完全 @弥补@ 第三 帝国 犹太人 遭受 的 苦难 和 损失 。
+non: 人们 永远 无法 完全@补偿@第三 帝国 犹太人 遭受 的 苦难 和 损失 。
+group_3:
+full: 生活在第三帝国的犹太人的苦难和损失永远无法@弥补@。
+non: 生活在第三帝国的犹太人的苦难和损失永远无法@弥补@。",
+267,205,"The war @inflated@ the economy.
+youdao: 战争 使 经济 膨胀 。
+google: 战争 使 经济 膨胀 。
+opus: 战争 使 经济 膨胀 。
+group_1:
+full: 战争使经济@充气似的膨胀@起来。
+non: 战争使通货@膨胀@。
+group_2:
+full: 战争使经济@通胀@。
+non: 战争使经济@膨胀@。
+group_3:
+full: 战争 使 经济@ 膨胀@ 。
+non: 战争 使 经济 @充气@ 。",
+268,99,"The ex- boxer's job is to @bounce@ people who want to enter this private club.
+youdao: 这位 前 拳击手 的 工作 是 把 想 进入 这个 私人 俱乐部 的 人 撵走 。
+google: 这位 前 拳击手 的 工作 是 拉拢 想要 进入 这个 私人 俱乐部 的 人 。
+opus: 前 拳击手 的 工作 就是   击退 想 加入 这个 私人 俱乐部 的 人
+group_1:
+full: 这位前拳击手的工作是@弹走似的劝退@想进入这个私人俱乐部的人。
+non: 这位前拳击手的工作是@劝退@想进入这个私人俱乐部的人。
+group_2:
+full: 这位 前 拳击手 的 工作 是 把 想 进入 这个 私人 俱乐部 的 人 @撵走@。
+non: 这位 前 拳击手 的 工作 是 把 想 进入 这个 私人 俱乐部 的 人 @击退@。
+group_3:
+non: 这位 前 拳击手 的 工作 是 把 想 进入 这个 私人 俱乐部 的 人 @击退@。
+part: 这位 前 拳击手 的 工作 是 把 想 进入 这个 私人 俱乐部 的 人 @撵走@ 。",
+269,151,"The huge waves @swallowed@ the small boat and it sank shortly thereafter.
+youdao: 巨浪 吞没 了 小船 ， 不久 就 沉没 了 。
+google: 巨浪 吞没 了 小船 ， 不久 就 沉没 了 。
+opus: 巨浪 吞没 了 小船   不久 就 沉没 了
+group_1:
+full: 巨浪@吞没@了小船,小船不久后就沉没了。
+non: 巨浪把小船@拍下去@,小船不久就沉没了。
+group_2:
+full: 巨浪 @吞噬@ 了 小船 , 不久 就 沉没 了 。
+non: 巨浪 @吞没@ 了 小船 , 不久 就 沉没 了 。
+group_3:
+full: 巨浪@吞没@了小船,不久小船就沉没了。
+non: 巨浪@淹没@了小船,不久小船就沉没了。",
+270,277,"@lay@ the foundation for a new health care plan.
+youdao: 为 新 的 医疗保健 计划 奠定 基础 。
+google: 为 新 的 医疗保健 计划 奠定 基础 。
+opus: 为 新 的 保健 计划 奠定 基础 。
+group_1:
+full: 为新的医疗保健计划@打造坚实的基础@。
+non: 为新的医疗保健计划@奠定基础@。
+group_2:
+full: 为 新 的 医疗保健 计划 @奠定@ 基础 。
+non: 为 新 的 医疗保健 计划 @铺就@ 基础 。
+group_3:
+non: 为新的医疗保健计划@提供@基础。
+part: 为新的医疗保健计划@奠定@基础。",
+271,45,"I can not @digest@ all this information.
+youdao: 我 无法 理解 所有 这些 信息 。
+google: 我 无法 消化 所有 这些 信息 。
+opus: 我 不能 消化 所有 这些 信息 。
+group_1:
+full: 我不能完全@消化透@这些信息。
+non: 我不能完全@理解@这些信息。
+group_2:
+full: 我无法@理解@所有这些信息 。
+non: 我无法@消化@所有这些信息 。
+group_3:
+non: 我 无法 @消化@ 所有 这些 信息 。
+part: 我 无法 @理解@ 所有 这些 信息 。",
+272,164,"His mind @groped@ to make the connection.
+youdao: 他 摸索 着 把 两者 联系 起来 。
+google: 他 的 头脑 摸索 着 建立联系 。
+opus: 他 心神不宁 , 想 把 事情 联系 起来
+group_1:
+full: 他@摸索着@建立联系。
+non: 他@探寻着@建立联系。
+group_2:
+full: 他 @琢磨@ 着 把 两者 联系 起来 。
+non: 他 @尝试@ 着 把 两者 联系 起来 。
+group_3:
+full: 他@摸索@着头脑去建立联系
+non: 他@尝试@着去建立联系",
+273,126,"The company @dumped@ him after many years of service.
+youdao: 他 在 公司 工作 多年 后 被 公司 解雇 了 。
+google: 为 他 服务 多年 后 ， 公司 解雇 了 他 。
+opus: 公司 在 服务 多年 后 甩 了 他 。
+group_1:
+full: 为公司服务多年后,公司@丢弃似的解雇@了他。
+non: 为公司服务多年后,公司@丢下@了他。
+group_2:
+full: 他 在 公司 工作 多年 后 被 公司 @解雇@ 了。
+non: 他 在 公司 工作 多年 后 被 公司 @甩@ 了。
+group_3:
+full: 他在为公司服务多年后被公司@抛弃@了。
+non: 他在为公司服务多年后被公司@解雇@了。",
+274,172,"The colors don't @harmonize.@
+youdao: 这些 颜色 不 协调 。
+google: 颜色 不 协调 。
+opus: 颜色 不 协调 。
+group_1:
+full: 这些颜色不@相融洽协调@。
+non: 这些颜色不@协调@。
+group_2:
+full: 这些颜色不能@交融@在一起。
+non: 这些颜色不@协调@。
+group_3:
+full: 这些颜色不@和谐@。
+non: 这些颜色不@协调@。",
+275,266,"Congress @condensed@ the three- year plan into a six- month plan.
+youdao: 国会 把 三年计划 浓缩 成 六个月 的 计划 。
+google: 国会 将 三年计划 浓缩 为 六个月 计划 。
+opus: 国会 将 三年计划 压缩 为 六个月 计划 。
+group_1:
+full: 国会将三年计划@浓缩似的压缩@为六个月的计划。
+non: 国会将三年计划@压缩@为六个月的计划。
+group_2:
+full: 国会 把 三年计划 @浓缩@ 成 六个月 的 计划。
+non: 国会 把 三年计划 @压缩@ 成 六个月 的 计划。
+group_3:
+non: 国会将三年计划@缩减@为六个月计划。
+part: 国会将三年计划@压缩@为六个月计划。",
+276,297,"He @transformed@ into a monster.
+youdao: 他 变成 了 一个 怪物 。
+google: 他 变成 了 一个 怪物 。
+opus: 他 变成 了 一个 怪物
+group_1:
+full: 他将自己@打扮后变成@了怪物。
+non: 他@打扮@自己成怪物。
+group_2:
+non: 他 @转变成@ 了 一个 怪物。
+part: 他 @变成@ 了 一个 怪物。
+group_3:
+non: 他@变成@了一个怪物。
+part: 他@变身@为了一个怪物。",
+277,179,"Don't @twist@ my words.
+youdao: 别 曲解 我 的话 。
+google: 不要 曲解 我 的话 。
+opus: 别 扭曲 我 的话
+group_1:
+full: 别@变形似的曲解@我的话。
+non: 别@曲解@我的话。
+group_2:
+full: 别@曲解@我的话。
+non: 别@误解@我的话。
+group_3:
+full: 别 @曲解 @我 的话 。
+non: 别 @扭曲@我 的话 。",
+278,93,"The sun @glared@ down on us.
+youdao: 太阳 直射 在 我们 身上 。
+google: 阳光 照 在 我们 身上 。
+opus: 太阳 照耀 着 我们
+group_1:
+full: 太阳@瞪眼似的发出刺眼的光@照在我们身上。
+non: 太阳@发出强烈的光@照在我们身上。
+group_2:
+full: 太阳@直射@在我们身上。
+non: 太阳@照射在@我们身上
+group_3:
+non: 太阳 @照耀@ 在 我们 身上 。
+part: 太阳 @直射@ 在 我们 身上 。",
+279,46,"We @poured@ money into the education of our children.
+youdao: 我们 把 钱 花 在 孩子 的 教育 上 。
+google: 我们 为 孩子 的 教育 投入 了 大量 资金 。
+opus: 我们 向 儿童教育 注入 了 资金 。
+group_1:
+full: 我们为孩子的教育@倾倒似的投入@了大量钱财。
+non: 我们@花@了大量的钱在孩子的教育上。
+group_2:
+full: 我们 为 孩子 的 教育@注入@了 大量 资金。
+non: 我们 在 孩子 的 教育 上@花费@了 大量 资金。
+group_3:
+full: 我们为孩子的教育@投入@了大量的资金。
+non: 我们为孩子的教育@投入@了大量的资金。",
+280,245,"His political ideas @color@ his lectures.
+youdao: 他 的 政治 思想 使 他 的 演讲 富有 色彩 。
+google: 他 的 政治 思想 使 他 的 演讲 充满 色彩 。
+opus: 他 的 政治 思想 让 他 的 演讲 充满 了 色彩 。
+group_1:
+full: 他的政治思想使他的演讲@蒙上色彩@。
+non: 他的政治思想使他的演讲色彩@受影响@。
+group_2:
+full: 他 的 政治 思想 @丰富@了 他 的 演讲 。
+non: 他 的 政治 观点 使 他 的 演讲@ 富有 思想@ 。
+group_3:
+non: 他 的 政治 思想 为他 的 演讲 @添彩@ 。
+part: 他 的 政治 思想 使 他 的 演讲 @更加出色@ 。",
+281,264,"The candidate @ripped@ into his opponent mercilessly.
+youdao: 候选人 毫不留情 地 抨击 他 的 对手 。
+google: 候选人 毫不留情 地 撕咬 他 的 对手 。
+opus: 候选人 无情地 撕裂 了 他 的 对手
+group_1:
+full: 候选人毫不留情地@撕裂般抨击@他的对手。
+non: 候选人不留情地@抨击@他的对手。
+group_2:
+non: 候选人 毫不留情 地 @批评@ 他 的 对手。
+part: 候选人 毫不留情 地 @抨击@ 他 的 对手。
+group_3:
+non: 候选人毫不留情地@批判@了他的对手
+part: 候选人毫不留情地@攻击@了他的对手",
+282,258,"The salesman is aggressively @pushing@ the new computer model.
+youdao: 推销员 正在 大力 推销 这种 新型 计算机 。
+google: 销售员 正在 积极 推销 新型 号 的 电脑 。
+opus: 推销员 正在 大力 推动 新 的 计算机 模型 。
+group_1:
+full: 推销员正在@大力推销@这种新型计算机。
+non: 推销员正在@推出@新型计算机。
+group_2:
+full: 推销员 正在 大力 @推销@ 这种 新型号 的 电脑。
+non: 推销员 正在 大力 @推出@ 这种 新型号 的 电脑。
+group_3:
+full: 销售员正在大力@推动@这种新型计算机的销售
+non: 销售员正在大力@推销@这种新型计算机",
+283,195,"The company @matched@ the employees' contributions.
+youdao: 公司 与 员工 的 贡献 相匹配 。
+google: 公司 匹配 员工 的 贡献 。
+opus: 该 公司 与 雇员 的 缴款 相符 。
+group_1:
+full: 该公司与员工的贡献@相匹配@。
+non: 该公司与员工的贡献@相符@。
+group_2:
+full: 公司 与 员工 的 贡献@荣辱与共@。
+non: 公司 与 员工 的 贡献@相匹配@。
+group_3:
+full: 这个公司与员工的贡献@相匹配@。
+non: 这个公司与员工的贡献@相符@。",
+284,259,"He @tacked@ together some verses.
+youdao: 他 把 几首 诗 胡乱 拼凑 在 一起 。
+google: 他 拼凑 了 一些 经文 。
+opus: 他 拼凑 了 一些 诗句
+group_1:
+full: 他把几首诗胡乱@拼凑@在一起。
+non: 他把几句诗句@固定@到一块。
+group_2:
+full: 他 把 几首 诗@拼凑@在 一起。
+non: 他 把 几首 诗@随便组合@到 一起。
+group_3:
+non: 他 @补加@ 了 一些 诗句
+part: 他 @拼凑@ 了 一些 诗句",
+285,276,"The ex- slave @tasted@ freedom shortly before she died.
+youdao: 这位 前 奴隶 在 死 前不久 尝到了 自由 的 滋味 。
+google: 这位 前 奴隶 在 死 前不久 尝到了 自由 的 滋味 。
+opus: 前 奴隶 死前 刚尝过 自由 的 滋味
+group_1:
+full: 这位前奴隶在死不久前@尝到了自由的滋味@。
+non: 这位前奴隶在死不久前@感受到@自由。
+group_2:
+full: 这位前奴隶在死前不久@品尝@了自由的滋味。
+non: 这位前奴隶在死前不久@感受@了自由。
+group_3:
+non: 这位 前 奴隶 在 死 前不久 @尝@到了 自由 的 滋味 。
+part: 这位 前 奴隶 在 死 前不久 @体验@到了 自由 的 滋味 。",
+286,273,"The comedian @convulsed@ the crowd.
+youdao: 喜剧演员 使 观众 哄堂大笑 。
+google: 喜剧演员 使 人群 震惊 。
+opus: 喜剧演员 震撼 了 人群
+group_1:
+full: 戏剧演员使观众@抽搐般大笑@。
+non: 戏剧演员使观众@抽搐@。
+group_2:
+full: 喜剧演员 使 观众 @哄堂大笑@。
+non: 喜剧演员 使 观众 @笑得全身抖动@。
+group_3:
+non: 喜剧演员 使 观众 @抽搐@。
+part: 喜剧演员 使 观众 @哄堂大笑@ 。",
+287,261,"The crowd @flowed@ out of the stadium.
+youdao: 人群 从 体育场 涌出 。
+google: 人群 涌出 体育场 。
+opus: 人群 从 体育场 流出 。
+group_1:
+full: 人群从体育场@洪水般涌出@。
+non: 人群从体育场@流出@。
+group_2:
+full: 人群 从 体育场 @涌出@。
+non: 人群 从 体育场 @流出@。
+group_3:
+full: 人群从体育场@涌出@。
+non: 人群从体育场@涌出@。",
+288,270,"You have @shipwrecked@ my career.
+youdao: 你 毁 了 我 的 事业 。
+google: 你 毁 了 我 的 职业生涯 。
+opus: 你 毁 了 我 的 事业
+group_1:
+full: 你@毁@了我的事业。
+non: 你使我的事业@失败@。
+group_2:
+full: 你@摧毁@了我的职业生涯。
+non: 你@毁了@了我的职业生涯。
+group_3:
+full: 你@毁@了我的事业。
+non: 你使我的事业@处于极大风险中@。",
+289,85,"Her husband often @abuses@ alcohol.
+youdao: 她 丈夫 经常 酗酒 。
+google: 她 的 丈夫 经常 酗酒 。
+opus: 她 丈夫 经常 酗酒 。
+group_1:
+full: 她丈夫经常@过度酗酒@。
+non: 她丈夫经常@过度喝酒@。
+group_2:
+full: 她 的 丈夫 经常@酗酒@。
+non: 她 的 丈夫 经常@喝很多酒@。
+group_3:
+full: 她的丈夫经常@酗@酒。
+non: 她的丈夫经常@过度饮@酒。",
+290,230,"Industry will @stagnate@ if we do not stimulate our economy.
+youdao: 如果 我们 不 刺激 经济 ， 工业 就 会 停滞不前 。
+google: 如果 我们 不 刺激 经济 ， 工业 就 会 停滞不前 。
+opus: 如果 我们 不 刺激 经济 , 工业 就 会 停滞 。
+group_1:
+full: 如果我们不刺激经济,工业就会@淤塞般@停滞不前。
+non: 如果我们不刺激经济,工业就会@萧条@。
+group_2:
+full: 如果 我们 不 刺激 经济, 工业 就 会@原地踏步@。
+non: 如果 我们 不 刺激 经济 , 工业 就 会@停滞不前@。
+group_3:
+full: 如果我们不刺激经济,工业就会@停滞不前@。
+non: 如果我们不刺激经济,工业就@不会发展@。",
+291,30,"the meat was @swimming@ in a fatty gravy.
+youdao: 肉浸 在 油腻 的 肉汁 里 。
+google: 肉 在 肥腻 的 肉汁 中 游动 。
+opus: 肉 在 脂肪 肉汁 里 游泳
+group_1:
+full: 肉@游泳般浸在@细腻的肉汁里。
+non: 肉@浸在@脂肪肉里。
+group_2:
+full: 肉在油腻的肉汁里@翻腾@。
+non: 肉@漂浮@在油腻的肉汁里。
+group_3:
+full: 肉在脂肪肉汁里面@游泳@。
+non: 肉在脂肪肉汁里@翻腾@。",
+292,101,"The Nazis @swallowed@ the Baltic countries.
+youdao: 纳粹 吞并 了 波罗的海 国家 。
+google: 纳粹 吞并 了 波罗的海 国家 。
+opus: 纳粹 吞噬 了 波罗的海 国家
+group_1:
+full: 纳粹@吞并@了波罗的海的国家。
+non: 纳粹@占领@了波罗的海的国家。
+group_2:
+full: 纳粹@吞并@了 波罗的海 国家。
+non: 纳粹@兼并@了 波罗的海 国家。
+group_3:
+full: 纳粹@吞并@了波罗的海国家。
+non: 纳粹@侵占@了波罗的海国家。",
+293,121,"This office is @buzzing@ with activity.
+youdao: 这 间 办公室 热闹非凡 。
+google: 这 间 办公室 忙 得 不可开交 。
+opus: 办公室 正在 忙 着 活动
+group_1:
+full: 这间办公室忙活动@忙的蜂鸣似的不可开交@。
+non: 这间办公室@忙的不可开交@。
+group_2:
+non: 办公室正在@忙着@活动。
+part: 这间办公室@热闹非凡@。
+group_3:
+full: 这间办公室正为活动@忙@的不可开交。
+non: 这间办公室正为活动@嗡嗡响@。",
+294,31,"The new teacher tends to @steamroller.@
+youdao: 新来 的 老师 总是 咄咄逼人 。
+google: 新 老师 倾向 于 压路机 。
+opus: 新 老师 倾向 于 蒸汽机
+group_1:
+full: 新来的老师总是@压制般咄咄逼人@。
+non: 新来的老师总是以势@压倒@别人。
+group_2:
+full: 新来的老师总是@咄咄逼人@。
+non: 新来的老师总是@打压别人@。
+group_3:
+non: 新来 的 老师 总是@像高压蒸汽机一样@。
+part: 新来 的 老师 总是 @咄咄逼人@ 。",
+295,224,"the conversation @lightened@ me up a bit.
+youdao: 谈话 使 我 轻松 了 一些 。
+google: 谈话 让 我 轻松 了 一点 。
+opus: 谈话 让 我 有点 兴奋
+group_1:
+full: 谈话@点亮般让我轻松了点@。
+non: 此次谈话@鼓舞@了我。
+group_2:
+full: 谈话 让 我 @轻松@ 了 一些 。
+non: 谈话 让 我 @减轻@ 了 一点 负担。
+group_3:
+full: 谈话 使 我 @轻松 @了 一些 。
+non: 谈话 使 我 @心情明朗@了 一些 。",
+296,220,"The new chairman @inherited@ many problems from the previous chair.
+youdao: 新 主席 从 前任 主席 那里 继承 了 许多 问题 。
+google: 新 主席 继承 了 前任 主席 的 许多 问题 。
+opus: 新 主席 继承 了 前任 主席 的 许多 问题 。
+group_1:
+non: 新主席从前任主席那里@保留@了很多问题。
+part: 新主席@继承@了前任主席那里的很多问题。
+group_2:
+non: 新 主席 @继承@ 了 前任 主席 的 许多 问题。
+part: 新 主席 @接手@ 了 前任 主席 的 许多 问题。
+group_3:
+full: 新主席从前任主席那里@继承@了许多问题。
+non: 新主席@延续@了前任主席的许多问题。",
+297,74,"@form@ the young child's character.
+youdao: 养成 幼儿 的 性格 。
+google: 塑造 幼儿 的 性格 。
+opus: 形成 幼儿 的 性格 。
+group_1:
+full: @塑造@幼儿的性格。
+non: @形成@幼儿的个性。
+group_2:
+full: @塑造@幼儿的性格。
+non: @培养@幼儿的性格。
+group_3:
+non: @造就@幼儿的性格。
+part: @塑造@幼儿的性格。",
+298,298,"The war @uprooted@ many people.
+youdao: 战争 使 许多 人 背井离乡 。
+google: 战争 使 许多 人 背井离乡 。
+opus: 战争 驱散 了 许多 人 。
+group_1:
+full: 战争使很多人被@连根拔起似的背井离乡@。
+non: 战争使很多人@被迫离开@。
+group_2:
+full: 战争 使 许多 人 @背井离乡@。
+non: 战争 使 许多 人 @搬家@。
+group_3:
+non: 战争使很多人@离开家乡@。
+part: 战争使许多人@背井离乡@。",
+299,68,"The businessman @kited@ millions of dollars.
+youdao: 那个 商人 挥霍 了 数百万美元 。
+google: 这位 商人 风筝 了 数百万美元 。
+opus: 那个 商人 装 了 数百万美元
+group_1:
+full: 这位商人@骗取@了数百万美元。
+non: 这位商人使得数百万美元@失去@。
+group_2:
+full: 那个商人@骗取@了数百万美元。
+non: 那个商人@开具了大额的空头支票@。
+group_3:
+non: 那个商人@花@了数百万美元。
+part: 那个商人@挥霍@了数百万美元。",
+300,279,"He @landed@ several blows on his opponent's head.
+youdao: 他 在 对手 头上 打 了 几拳 。
+google: 他 在 对手 的 头上 打 了 几下 。
+opus: 他 对 他 对手 的 头部 进行 了 几次 打击 。
+group_1:
+full: 他在对手头上@落下@了几拳。
+non: 他在对手头上@打下@几拳。
+group_2:
+non: 他对他的对手的头部进行了几次@打击@。
+part: 他在对手的头上@重锤@了几下。
+group_3:
+full: 他在对手的头上@打@了好几拳。
+non: 他的@放置@了好几个拳头在他对手的头上。",
+301,248,"@nagging@ concerns and doubts.
+youdao: 唠叨 的 担忧 和 怀疑 。
+google: 挥之不去 的 担忧 和 怀疑 。
+opus: 纠缠 关切 和 怀疑 。
+group_1:
+full: @唠叨般的挥之不去的@担忧和怀疑。
+non: @唠叨的@担忧和怀疑。
+group_2:
+full: @喋喋不休@ 的 担忧 和 怀疑。
+non: @唠叨@ 的 担忧 和 怀疑。
+group_3:
+non: @持续@的担忧与怀疑。
+part: @挥之不去@的担忧与怀疑。",
+302,33,"The exercise class @drains@ me of energy.
+youdao: 健身 班 耗尽 了 我 的 精力 。
+google: 健身 课 耗尽 了 我 的 精力 。
+opus: 锻炼 课 让 我 的 能量 耗尽
+group_1:
+full: 健身班@耗尽@了我的精力。
+non: 健身班使了我的精力@丧失@。
+group_2:
+full: 健身 课 @耗尽@ 了 我 的 精力。
+non: 健身 课 @抽干@ 了 我 的 精力。
+group_3:
+full: 这个锻炼课让我@筋疲力尽@。
+non: 这个锻炼课@花光@了我的精力。",
+303,163,"@dashed@ ambitions and hopes.
+youdao: 雄心 和 希望 破灭 。
+google: 破灭 的 野心 和 希望 。
+opus: 雄心勃勃 的 野心 和 希望 。
+group_1:
+full: @破灭的@野心和希望。
+non: @被打击的@野心和希望。
+group_2:
+full: @破灭的@ 野心 和 希望。
+non: @压碎的@ 野心 和 希望。
+group_3:
+full: 雄心和希望@破灭@了。
+non: 雄心和希望@破灭@了。",
+304,314,"The boss @exploded@ when he heard of the resignation of the secretary.
+youdao: 老板 听到 秘书 辞职 的 消息 大发雷霆 。
+google: 老板 听到 秘书 辞职 的 消息 ， 气炸 了 。
+opus: 老板 听到 秘书 辞职 时 爆炸 了
+group_1:
+full: 老板听到秘书辞职的消息@大发雷霆@。
+non: 老板听到秘书辞职的消息@炸开了@。
+group_2:
+full: 老板听到秘书辞职的消息@大发雷霆@。
+non: 老板听到秘书辞职时@很生气@。
+group_3:
+non: 老板听到秘书辞职的消息@非常生气@。
+part: 老板听到秘书辞职的消息@大发雷霆@。",
+305,0,"The invaders @spread@ their language all over the country.
+youdao: 侵略者 把 他们 的 语言 传播 到 全国 各地 。
+google: 侵略者 将 他们 的 语言 传播 到 全国 各地 。
+opus: 入侵者 在 全国 各地 散布 他们 的 语言 。
+group_1:
+full: 入侵者把他们的语言@摊开似的传播@到全国各地。
+non: 入侵者把他们的语言@扩散@到全国各地。
+group_2:
+full: 侵略者 将 他们 的 语言@散播@到 全国 各地。
+non: 侵略者 将 他们 的 语言@传播@到 全国 各地。
+group_3:
+full: 侵略者把他们的语言@传播@到全国各地。
+non: 侵略者把他们的语言@传播@到全国各地。",
+306,197,"The book @portrays@ the actor as a selfish person.
+youdao: 这 本书 把 那个 演员 描绘成 一个 自私 的 人 。
+google: 这 本书 把 演员 描绘成 一个 自私 的 人 。
+opus: 这 本书 将 演员 描绘成 自私 的 人
+group_1:
+full: 这本书把那个演员@塑造成@一个自私的人。
+non: 这本书（的作者）把那个演员@描写成@一个自私的人。
+group_2:
+full: 这本书把那个演员@刻画@成 一个自私的人 。
+non: 这本书把那个演员@描写@成 一个自私的人 。
+group_3:
+full: 这本书将那个演员@描绘@成一个自私的人。
+non: 这本书将那个演员@写成@一个自私的人。",
+307,246,"@fuel@ the debate on creationism.
+youdao: 为 创世 论 的 争论 火上浇油 。
+google: 激起 关于 神创论 的 争论 。
+opus: 激起 关于 创造 主义 的 辩论 。
+group_1:
+full: @点燃料般激起@关于神创论的争论。
+non: @激起@神创论的争论。
+group_2:
+full: @激起@ 关于 创世论 的 争论 。
+non: @引起@ 关于 创世论 的 争论 。
+group_3:
+full: 为 创世 论 的 争论@ 火上浇油@ 。
+non: : 为 创世 论 的 争论 @添一把油@。",
+308,290,"the butter cream @smothered@ the cake.
+youdao: 奶油 把 蛋糕 糊住 了 。
+google: 奶油 把 蛋糕 盖住 了 。
+opus: 奶油 奶油 窒息 了 蛋糕
+group_1:
+full: 奶油@糊@在蛋糕上。
+non: 奶油@盖@在蛋糕上。
+group_2:
+full: 奶油 把 蛋糕@糊住@了。
+non: 奶油 把 蛋糕@盖住@了。
+group_3:
+full: 奶油@涂在@了蛋糕上。
+non: 奶油@厚厚的覆盖在@蛋糕上。",
+309,2,"The moon @glared@ back at itself from the lake's surface.
+youdao: 月亮 在 湖面 上 反照 着 自己 。
+google: 月亮 从 湖面 上 回 瞪 着 自己 。
+opus: 月亮 从 湖面 的 表面 闪闪发光
+group_1:
+full: 月亮@倒映在湖面上闪闪发光@。
+non: 月亮@倒映@在湖面上。
+group_2:
+non: 月亮通过湖面@注视@自己。
+part: 月亮通过湖面@欣赏@自己。
+group_3:
+full: 月亮倒@映@在湖面上。
+non: 月亮在乎面上@凝视@着它自己。",
+310,160,"She @tugged@ for years to make a decent living.
+youdao: 她 辛辛苦苦 干 了 多年 才 过 上 体面 的 生活 。
+google: 多年 来 ， 她 一直 在 努力 过 上 体面 的 生活 。
+opus: 她 拖 了 好几年 才 过 上 体面 的 生活
+group_1:
+full: 她多年来@拖拽似的辛苦努力@去过上一个体面的生活。
+non: 她多年@辛苦@去过上一个体面的生活。
+group_2:
+non: 她 @辛辛苦苦 干@ 了 好几年 才 过 上 体面 的 生活。
+part: 她 @打拼@ 了 多年 才 过 上 体面 的 生活 。
+group_3:
+non: 她@辛辛苦苦干@了许多年才过上体面的生活。
+part: 她@挣扎@了多年才过上体面的生活。",
+311,218,"Let them @match@ their best athletes against ours.
+youdao: 让 他们 用 最好 的 运动员 和 我们 比赛 。
+google: 让 他们 让 他们 最好 的 运动员 与 我们 的 比赛 。
+opus: 让 他们 把 他们 最好 的 运动员   和 我们 的 运动员 比 对
+group_1:
+full: 让他们用最好的运动员和我们@配对比赛@。
+non: 让他们用最好的运动员和我们@比赛@。
+group_2:
+full: 让他们用最好的运动员和我们@较量@。
+non: 让他们用最好的运动员和我们@比赛@。
+group_3:
+non: 让他们用最好的运动员@和@我们比赛。
+part: 让他们用最好的运动员和我们@对抗@。",
+312,183,"the theater was @jampacked.@
+youdao: 剧院 里 挤满 了 人 。
+google: 剧院 人满为患 。
+opus: 剧院 被 包装 。
+group_1:
+full: 剧院里@像被塞满了一样挤满了人@。
+non: 剧院里@人数众多@。
+group_2:
+full: 剧院里@人满为患@。
+non: 剧院@满是人@。
+group_3:
+full: 剧院里面@人满为患@。
+non: 剧院里面@全是人@。",
+313,282,"Fire had @devoured@ our home.
+youdao: 大火 吞噬 了 我们 的 家 。
+google: 大火 吞噬 了 我们 的 家园 。
+opus: 火焰 吞噬 了 我们 的 家园
+group_1:
+full: 大火@吞噬@了我们的家园。
+non: 大火@毁灭@了我们的家园。
+group_2:
+full: 大火 @吞噬@ 了 我们 的 家园。
+non: 大火 @毁灭@了 我们 的 家园。
+group_3:
+full: 大火@吞噬@了我们的家。
+non: 大火@吞噬@了我们的家。",
+314,269,"@harmonize@ one's goals with one's abilities.
+youdao: 使 自己 的 目标 与 能力 相 协调 。
+google: 使 一个 人 的 目标 与 他 的 能力 相 协调 。
+opus: 使 目标 与 能力 相 协调 。
+group_1:
+full: 使一个人的目标与他的能力@相匹配@。
+non: 使一个人的目标与能力@相协调@。
+group_2:
+full: 使 个人 目标 与 能力@协调@。
+non: 使 个人 目标 与 能力@协和@。
+group_3:
+full: 使目标与能力@和谐共处@。
+non: 使目标与能力相协调。",
